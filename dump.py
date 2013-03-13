@@ -2,6 +2,7 @@
 # encoding: utf-8
 
 from __future__ import absolute_import, division
+import codecs
 import json
 from os.path import dirname, join, realpath
 
@@ -91,7 +92,7 @@ def _main():
         f.write('\n'.join(x.rstrip() for x in json_string.split('\n')))
 
     # save file for humans
-    with open(HUMAN_DUMP_PATH, 'w') as f:
+    with codecs.open(HUMAN_DUMP_PATH, encoding='utf-8', mode='w') as f:
         for i, playlist in enumerate(computer_dump):
             # separate playlists
             if i > 0:
@@ -117,7 +118,7 @@ def _main():
 
     # read README up to mixtapes list
     readme = ''
-    with open(README_PATH) as f:
+    with codecs.open(README_PATH, encoding='utf-8', mode='r') as f:
         for line in f:
             if line.startswith('1.'):
                 break
@@ -129,7 +130,7 @@ def _main():
         readme += '%d. [%s](%s)\n' % (i, dct['name'], dct['http_url'])
 
     # save README
-    with open(README_PATH, 'w') as f:
+    with codecs.open(README_PATH, encoding='utf-8', mode='w') as f:
         f.write(readme)
 
 
