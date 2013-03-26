@@ -84,7 +84,11 @@ def _main():
 
     # save file for computers
     with open(COMPUTER_DUMP_PATH, 'w') as f:
-        json.dump(computer_dump, f, sort_keys=True, indent=4)
+        # create json string
+        json_string = json.dumps(computer_dump, sort_keys=True, indent=4)
+
+        # remove trailing whitespace and save
+        f.write('\n'.join(x.rstrip() for x in json_string.split('\n')))
 
     # save file for humans
     with open(HUMAN_DUMP_PATH, 'w') as f:
