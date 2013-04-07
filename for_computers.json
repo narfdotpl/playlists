@@ -16,7 +16,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
                 },
                 "available": true,
                 "external-ids": [
@@ -28,7 +28,7 @@
                 "href": "spotify:track:0Le202Yj1zphNm3QyfN1sB",
                 "length": 410.239,
                 "name": "Mouth Of Ghosts",
-                "popularity": "0.32277",
+                "popularity": "0.33584",
                 "track-number": "13"
             },
             {
@@ -44,7 +44,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HK HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT MX MY NC NL NO PF PL PM PN PT RE RO RS RU SE SG SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HK HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT MY NC NL NO PF PL PM PN PT RE RO RS RU SE SG SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
                 },
                 "available": true,
                 "external-ids": [
@@ -56,7 +56,7 @@
                 "href": "spotify:track:3muqbu7Pc3iwtafZc6Oymw",
                 "length": 194.125,
                 "name": "Danger - Keep Away",
-                "popularity": "0.44102",
+                "popularity": "0.44292",
                 "redirects": [
                     "spotify:track:6fGUro5hEugGVVqpaubKwG"
                 ],
@@ -75,7 +75,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT MX NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
                 },
                 "available": true,
                 "external-ids": [
@@ -87,7 +87,7 @@
                 "href": "spotify:track:3RptaQ5Xb8WvtpItZ2f9Hi",
                 "length": 276.456,
                 "name": "Snuff",
-                "popularity": "0.51205",
+                "popularity": "0.51077",
                 "track-number": "11"
             },
             {
@@ -103,7 +103,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FO FR GB GF GI GL GR HR HU IE IS IT KY LI LT LU LV MC MD ME MK MT MX NL NO PL PT RO RS RU SE SI SJ SK SM TR UA US VA VG"
+                    "territories": "AD AI AL AM AT AU AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FO FR GB GF GI GL GR HR HU IE IS IT KY LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM TR UA US VA VG"
                 },
                 "available": true,
                 "external-ids": [
@@ -115,7 +115,7 @@
                 "href": "spotify:track:5aUtonvQxGEL8T1rKI3J01",
                 "length": 235.095,
                 "name": "Darkness",
-                "popularity": "0.37946",
+                "popularity": "0.37076",
                 "redirects": [
                     "spotify:track:5cZ6cZaH9D44Zghuv7WslV"
                 ],
@@ -146,7 +146,7 @@
                 "href": "spotify:track:3KnMPlQpxTGSXpGL7VQYAa",
                 "length": 203.564,
                 "name": "Count To Six And Die (The Vacuum Of Infinite Space Encompassing)",
-                "popularity": "0.27691",
+                "popularity": "0.27003",
                 "redirects": [
                     "spotify:track:1jYhhiAxQZfhGzQLY2w49k",
                     "spotify:track:6auJii7mOsNWtXL98eUEDR",
