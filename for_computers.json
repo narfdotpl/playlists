@@ -156,5 +156,414 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:3F645rIj60X8aQmPS3kflX"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/5dQRWh5ETy5Aa0s3qZFEOZ",
+        "name": "Sand In The Amp",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:1QsV3ayBgHi016iEgjmIYa",
+                    "name": "Monster Magnet's Greatest Hits",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4hvwEwrCmGj22uURGVET7Q",
+                        "name": "Monster Magnet"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USAM19800072",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3ne6tgtarLRGXs5C6CeOZf",
+                "length": 356.381,
+                "name": "Space Lord",
+                "popularity": "0.53664",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1HkWp6agwYiRN8ASqZfEAA",
+                    "name": "Full Fathom Five, Audio Field Recordings",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:161AC1AVRkIGIMxyj5djFQ",
+                        "name": "Clutch"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "uspam0800014",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2GRMtlOgU1IMfg5EEiboTL",
+                "length": 351.1,
+                "name": "Electric Worry (Live)",
+                "popularity": "0.53784",
+                "track-number": "14"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3qkaR6jNukT3K3itN05Bns",
+                    "name": "Nico Vega",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1gUch6pcj8OKOw6kKlWAPE",
+                        "name": "Nico Vega"
+                    }
+                ],
+                "availability": {
+                    "territories": ""
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USHWN0800613",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3ZBsNNMRzXFAeWIJ4yfrPw",
+                "length": 340.825,
+                "name": "Beast",
+                "popularity": "0.49825",
+                "redirects": [
+                    "spotify:track:7fSd1dMfhniNnZJ0R9Pm2x"
+                ],
+                "track-number": "14"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:7GyCk26ieCcV2CAtheDuYF",
+                    "name": "Godzilla's / Eatin' Dust",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1TKaUU8ooBgSW9TlyKsw6k",
+                        "name": "Fu Manchu"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "TCAAR1004046",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2L1Fopvkm0yPiDf67sMscY",
+                "length": 182.962,
+                "name": "Shift Kicker",
+                "popularity": "0.40923",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1QsV3ayBgHi016iEgjmIYa",
+                    "name": "Monster Magnet's Greatest Hits",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4hvwEwrCmGj22uURGVET7Q",
+                        "name": "Monster Magnet"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USAM10000227",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1HWd9NWladOfRFzL4tcemj",
+                "length": 299.333,
+                "name": "Silver Future",
+                "popularity": "0.28610",
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4u6gA01uAYXbPYvWNag5oU",
+                    "name": "Radio Moscow",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:692VvGTch5OLXj4zEE6H3y",
+                        "name": "Radio Moscow"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "US27U0600098",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2fvHpEsEJL515BfVBTKX2a",
+                "length": 280.822,
+                "name": "Lucky Dutch",
+                "popularity": "0.40337",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1QsV3ayBgHi016iEgjmIYa",
+                    "name": "Monster Magnet's Greatest Hits",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4hvwEwrCmGj22uURGVET7Q",
+                        "name": "Monster Magnet"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USAM19800099",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6nlBjN8FPRXyii6P1yRosG",
+                "length": 307.333,
+                "name": "Atomic Clock",
+                "popularity": "0.31673",
+                "track-number": "7"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1QsV3ayBgHi016iEgjmIYa",
+                    "name": "Monster Magnet's Greatest Hits",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4hvwEwrCmGj22uURGVET7Q",
+                        "name": "Monster Magnet"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USAM10000086",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2iHF5jU01STCodoHfSPYLH",
+                "length": 345.374,
+                "name": "Melt",
+                "popularity": "0.33267",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6r9wDqP72VUJALDPMtwTbS",
+                    "name": "Truckfighters - Mania",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:5X1eZAEqHcO5lYy7tgjw5h",
+                        "name": "Truckfighters"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "SEWOL0910001",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3vUxHAIdQIDOlfPvRYsiVf",
+                "length": 476.281,
+                "name": "Last Curfew",
+                "popularity": "0.34633",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1QsV3ayBgHi016iEgjmIYa",
+                    "name": "Monster Magnet's Greatest Hits",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4hvwEwrCmGj22uURGVET7Q",
+                        "name": "Monster Magnet"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USAM19800091",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3azSRGmcZSaSZVV3Izg4Tg",
+                "length": 212.244,
+                "name": "Powertrip",
+                "popularity": "0.50627",
+                "track-number": "6"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6PHq3E3aKdVE8n2IytSAsV",
+                    "name": "Gravity X",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:5X1eZAEqHcO5lYy7tgjw5h",
+                        "name": "Truckfighters"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "SEWOL0500101",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:23JiM1Bl7SxamhXtdXFBr6",
+                "length": 450.398,
+                "name": "Desert Cruiser",
+                "popularity": "0.45230",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:78guAsers0klWl6RwzgDLd",
+                    "name": "Audioslave",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:2ziB7fzrXBoh1HUPS6sVFn",
+                        "name": "Audioslave"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USSM10211589",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1Qdnvn4XlmZANCVy3XjrQo",
+                "length": 278.155,
+                "name": "Show Me How To Live",
+                "popularity": "0.63684",
+                "redirects": [
+                    "spotify:track:5ZxaSlPGLpbbsEXyNGSIrp",
+                    "spotify:track:7yluNX1ksqHHj3rqH4fo1k",
+                    "spotify:track:6j29pfuBmzBSU6Bd4fP9tx"
+                ],
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4aHGoMJUqP9t5IkUDmpN8f",
+                    "name": "Rated R - Deluxe Edition",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4pejUc4iciQfgdX6OKulQn",
+                        "name": "Queens Of The Stone Age"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH CZ DE DK ES FI GB HK HR IL IN IT LI LU MC MY NL NO NZ PL PT RU SE SG SK TR TW UA ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USIR10000329",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2GClIkNR8dP3E2jZEklaZE",
+                "length": 241.265,
+                "name": "Auto Pilot",
+                "popularity": "0.48939",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6PHq3E3aKdVE8n2IytSAsV",
+                    "name": "Gravity X",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:5X1eZAEqHcO5lYy7tgjw5h",
+                        "name": "Truckfighters"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "SEWOL0500113",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3UkYt4eZbCZAWVHwung7zn",
+                "length": 508.884,
+                "name": "Altered State",
+                "popularity": "0.29351",
+                "track-number": "13"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:5dQRWh5ETy5Aa0s3qZFEOZ"
     }
 ]
