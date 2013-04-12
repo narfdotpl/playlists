@@ -25,3 +25,15 @@
 12. Audioslave - Show Me How To Live
 13. Queens Of The Stone Age - Auto Pilot
 14. Truckfighters - Altered State
+
+
+[5K](http://open.spotify.com/user/1166776863/playlist/0EjMivyDuZquEjHZ8rWFID)
+----
+
+1. The Prodigy - Voodoo People (Pendulum Mix)
+2. Biting Elbows - Bad Motherfucker
+3. The Qemists, Mike Patton - Lost Weekend
+4. The Offspring - Staring At The Sun
+5. The Qemists - Stompbox
+6. Slipknot - Before I Forget
+7. The Prodigy - Voodoo People (Remastered)
