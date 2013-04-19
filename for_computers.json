@@ -774,5 +774,109 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:0EjMivyDuZquEjHZ8rWFID"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/4JpEcRNNZPzfdNBF32K9fs",
+        "name": "r4\u2264+a",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:381oom8nio77eU6BuUb4UO",
+                    "name": "Make It Bun Dem",
+                    "released": "2012"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:5he5w2lnU9x7JFhnwcekXX",
+                        "name": "Skrillex"
+                    },
+                    {
+                        "href": "spotify:artist:5Q0EbsguYCE2s3bXErxyjP",
+                        "name": "Damian \"Jr. Gong\" Marley"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GE GF GG GI GL GP GR GS HR HU IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USAT21202262",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6AbVJjzv7thIvmMCuhZrmK",
+                "length": 213.943,
+                "name": "Make It Bun Dem",
+                "popularity": "0.80177",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2KZKR8bLDZPUxOE6JhTh4X",
+                    "name": "Rage Valley EP",
+                    "released": "2011"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:2DuJi13MWHjRHrqRUwk8vH",
+                        "name": "Knife Party"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBAHT1200225",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0QIYINh2AwmOmdu8CRYvlw",
+                "length": 272.377,
+                "name": "Bonfire",
+                "popularity": "0.78849",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5JO4VNIpUBdYY2atwO3lFY",
+                    "name": "Cypress X Rusko EP 01",
+                    "released": "2012"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4P0dddbxPil35MNN9G2MEX",
+                        "name": "Cypress Hill"
+                    },
+                    {
+                        "href": "spotify:artist:4BTcOR2hEQZQQL5AMo5u10",
+                        "name": "Rusko"
+                    },
+                    {
+                        "href": "spotify:artist:3QJzdZJYIAcoET1GcfpNGi",
+                        "name": "Damian Marley"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "GBUM71203716",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2D3rFGmbygUZ0167aBjnxn",
+                "length": 203.224,
+                "name": "Can't Keep Me Down",
+                "popularity": "0.62253",
+                "track-number": "4"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:4JpEcRNNZPzfdNBF32K9fs"
     }
 ]

@@ -37,3 +37,11 @@
 5. The Qemists - Stompbox
 6. Slipknot - Before I Forget
 7. The Prodigy - Voodoo People (Remastered)
+
+
+[r4≤+a](http://open.spotify.com/user/1166776863/playlist/4JpEcRNNZPzfdNBF32K9fs)
+-------
+
+1. Skrillex, Damian "Jr. Gong" Marley - Make It Bun Dem
+2. Knife Party - Bonfire
+3. Cypress Hill, Rusko, Damian Marley - Can't Keep Me Down
