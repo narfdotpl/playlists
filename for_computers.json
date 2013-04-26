@@ -28,7 +28,7 @@
                 "href": "spotify:track:0Le202Yj1zphNm3QyfN1sB",
                 "length": 410.239,
                 "name": "Mouth Of Ghosts",
-                "popularity": "0.33800",
+                "popularity": "0.33895",
                 "track-number": "13"
             },
             {
@@ -56,7 +56,7 @@
                 "href": "spotify:track:3muqbu7Pc3iwtafZc6Oymw",
                 "length": 194.125,
                 "name": "Danger - Keep Away",
-                "popularity": "0.44890",
+                "popularity": "0.45309",
                 "redirects": [
                     "spotify:track:6fGUro5hEugGVVqpaubKwG"
                 ],
@@ -87,7 +87,7 @@
                 "href": "spotify:track:3RptaQ5Xb8WvtpItZ2f9Hi",
                 "length": 276.456,
                 "name": "Snuff",
-                "popularity": "0.51468",
+                "popularity": "0.51569",
                 "track-number": "11"
             },
             {
@@ -115,7 +115,7 @@
                 "href": "spotify:track:5aUtonvQxGEL8T1rKI3J01",
                 "length": 235.095,
                 "name": "Darkness",
-                "popularity": "0.37464",
+                "popularity": "0.38052",
                 "redirects": [
                     "spotify:track:5cZ6cZaH9D44Zghuv7WslV"
                 ],
@@ -146,7 +146,7 @@
                 "href": "spotify:track:3KnMPlQpxTGSXpGL7VQYAa",
                 "length": 203.564,
                 "name": "Count To Six And Die (The Vacuum Of Infinite Space Encompassing)",
-                "popularity": "0.27122",
+                "popularity": "0.27455",
                 "redirects": [
                     "spotify:track:1jYhhiAxQZfhGzQLY2w49k",
                     "spotify:track:6auJii7mOsNWtXL98eUEDR",
@@ -177,6 +177,7 @@
                     "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
                 },
                 "available": true,
+                "explicit": true,
                 "external-ids": [
                     {
                         "id": "USAM19800072",
@@ -186,7 +187,7 @@
                 "href": "spotify:track:3ne6tgtarLRGXs5C6CeOZf",
                 "length": 356.381,
                 "name": "Space Lord",
-                "popularity": "0.53922",
+                "popularity": "0.54112",
                 "track-number": "5"
             },
             {
@@ -214,7 +215,7 @@
                 "href": "spotify:track:2GRMtlOgU1IMfg5EEiboTL",
                 "length": 351.1,
                 "name": "Electric Worry (Live)",
-                "popularity": "0.54261",
+                "popularity": "0.54397",
                 "track-number": "14"
             },
             {
@@ -243,7 +244,7 @@
                 "href": "spotify:track:3ZBsNNMRzXFAeWIJ4yfrPw",
                 "length": 340.825,
                 "name": "Beast",
-                "popularity": "0.45230",
+                "popularity": "0.42881",
                 "redirects": [
                     "spotify:track:7fSd1dMfhniNnZJ0R9Pm2x"
                 ],
@@ -274,7 +275,7 @@
                 "href": "spotify:track:2L1Fopvkm0yPiDf67sMscY",
                 "length": 182.962,
                 "name": "Shift Kicker",
-                "popularity": "0.41653",
+                "popularity": "0.41879",
                 "track-number": "2"
             },
             {
@@ -302,7 +303,7 @@
                 "href": "spotify:track:1HWd9NWladOfRFzL4tcemj",
                 "length": 299.333,
                 "name": "Silver Future",
-                "popularity": "0.28887",
+                "popularity": "0.29614",
                 "track-number": "12"
             },
             {
@@ -330,7 +331,7 @@
                 "href": "spotify:track:2fvHpEsEJL515BfVBTKX2a",
                 "length": 280.822,
                 "name": "Lucky Dutch",
-                "popularity": "0.41082",
+                "popularity": "0.41361",
                 "track-number": "3"
             },
             {
@@ -358,7 +359,7 @@
                 "href": "spotify:track:6nlBjN8FPRXyii6P1yRosG",
                 "length": 307.333,
                 "name": "Atomic Clock",
-                "popularity": "0.32148",
+                "popularity": "0.32518",
                 "track-number": "7"
             },
             {
@@ -386,7 +387,7 @@
                 "href": "spotify:track:2iHF5jU01STCodoHfSPYLH",
                 "length": 345.374,
                 "name": "Melt",
-                "popularity": "0.33596",
+                "popularity": "0.33859",
                 "track-number": "4"
             },
             {
@@ -414,7 +415,7 @@
                 "href": "spotify:track:3vUxHAIdQIDOlfPvRYsiVf",
                 "length": 476.281,
                 "name": "Last Curfew",
-                "popularity": "0.37507",
+                "popularity": "0.37942",
                 "track-number": "1"
             },
             {
@@ -443,7 +444,7 @@
                 "href": "spotify:track:3azSRGmcZSaSZVV3Izg4Tg",
                 "length": 212.244,
                 "name": "Powertrip",
-                "popularity": "0.50875",
+                "popularity": "0.51052",
                 "track-number": "6"
             },
             {
@@ -471,7 +472,7 @@
                 "href": "spotify:track:23JiM1Bl7SxamhXtdXFBr6",
                 "length": 450.398,
                 "name": "Desert Cruiser",
-                "popularity": "0.46852",
+                "popularity": "0.47134",
                 "track-number": "1"
             },
             {
@@ -499,7 +500,7 @@
                 "href": "spotify:track:1Qdnvn4XlmZANCVy3XjrQo",
                 "length": 278.155,
                 "name": "Show Me How To Live",
-                "popularity": "0.64642",
+                "popularity": "0.65137",
                 "redirects": [
                     "spotify:track:5ZxaSlPGLpbbsEXyNGSIrp",
                     "spotify:track:7yluNX1ksqHHj3rqH4fo1k",
@@ -532,7 +533,7 @@
                 "href": "spotify:track:2GClIkNR8dP3E2jZEklaZE",
                 "length": 241.265,
                 "name": "Auto Pilot",
-                "popularity": "0.50734",
+                "popularity": "0.51117",
                 "track-number": "4"
             },
             {
@@ -560,7 +561,7 @@
                 "href": "spotify:track:3UkYt4eZbCZAWVHwung7zn",
                 "length": 508.884,
                 "name": "Altered State",
-                "popularity": "0.30232",
+                "popularity": "0.30589",
                 "track-number": "13"
             }
         ],
@@ -595,7 +596,7 @@
                 "href": "spotify:track:4IwnNqIML38mYMXGKVsScD",
                 "length": 308.143,
                 "name": "Voodoo People (Pendulum Mix)",
-                "popularity": "0.63380",
+                "popularity": "0.63540",
                 "track-number": "3"
             },
             {
@@ -624,7 +625,7 @@
                 "href": "spotify:track:7MtcHoqyYMFue7J8pmXZ8a",
                 "length": 206.989,
                 "name": "Bad Motherfucker",
-                "popularity": "0.57622",
+                "popularity": "0.58107",
                 "track-number": "1"
             },
             {
@@ -657,7 +658,7 @@
                 "href": "spotify:track:1cflU1Z14wbWK20b3LoWzy",
                 "length": 275.332,
                 "name": "Lost Weekend",
-                "popularity": "0.42988",
+                "popularity": "0.43186",
                 "track-number": "2"
             },
             {
@@ -685,7 +686,7 @@
                 "href": "spotify:track:5HJek8cnHgsGwNi4LAgzQX",
                 "length": 132.946,
                 "name": "Staring At The Sun",
-                "popularity": "0.64216",
+                "popularity": "0.64551",
                 "track-number": "3"
             },
             {
@@ -713,7 +714,7 @@
                 "href": "spotify:track:4ro5roa4DG0J6no8tDDi5i",
                 "length": 270.05,
                 "name": "Stompbox",
-                "popularity": "0.46319",
+                "popularity": "0.46435",
                 "track-number": "1"
             },
             {
@@ -741,7 +742,7 @@
                 "href": "spotify:track:3texlpoI2o4DydGUr3pXi5",
                 "length": 264.664,
                 "name": "Before I Forget",
-                "popularity": "0.50361",
+                "popularity": "0.50405",
                 "track-number": "14"
             },
             {
@@ -769,7 +770,7 @@
                 "href": "spotify:track:1dWteEXxzhg5xGNZZ6dJQX",
                 "length": 387.467,
                 "name": "Voodoo People (Remastered)",
-                "popularity": "0.42097",
+                "popularity": "0.42200",
                 "track-number": "5"
             }
         ],
@@ -808,7 +809,7 @@
                 "href": "spotify:track:6AbVJjzv7thIvmMCuhZrmK",
                 "length": 213.943,
                 "name": "Make It Bun Dem",
-                "popularity": "0.80177",
+                "popularity": "0.80187",
                 "track-number": "1"
             },
             {
@@ -836,7 +837,7 @@
                 "href": "spotify:track:0QIYINh2AwmOmdu8CRYvlw",
                 "length": 272.377,
                 "name": "Bonfire",
-                "popularity": "0.78849",
+                "popularity": "0.78974",
                 "track-number": "3"
             },
             {
@@ -873,7 +874,7 @@
                 "href": "spotify:track:2D3rFGmbygUZ0167aBjnxn",
                 "length": 203.224,
                 "name": "Can't Keep Me Down",
-                "popularity": "0.62253",
+                "popularity": "0.62316",
                 "track-number": "4"
             }
         ],
