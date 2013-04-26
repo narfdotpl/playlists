@@ -879,5 +879,420 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:4JpEcRNNZPzfdNBF32K9fs"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/7wjunxPOqqdTC0zmWUTo5p",
+        "name": "In Your Face",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:2bX1oTBIzJKxZYu1scsAIt",
+                    "name": "Sacrament",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3JFsVIxOn7STeilPICkkB2",
+                        "name": "Lamb of God"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AT AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BW BY BZ CA CD CF CG CH CI CK CM CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GU GW GY HR HT HU IE IL IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MZ NA NC NE NG NL NO NP NR NU OM PF PG PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SH SI SK SL SM SN SO SR ST SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG UZ VA VC VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USSM10602528",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2oUnALmrZdI0U4fME9pqiH",
+                "length": 221.133,
+                "name": "Redneck",
+                "popularity": "0.28473",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4zrx57VBT6JiXCYWeoVDYz",
+                    "name": "Red Harvest",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4APnCNlupzw0eNxRIjSM45",
+                        "name": "bloodsimple"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10701821",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7d6V9VE4pV1mXsMbO1WF1V",
+                "length": 227.669,
+                "name": "Dark Helmet",
+                "popularity": "0.29969",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2dNADktB0Xh4CHcxRvHvcz",
+                    "name": "Antennas To Hell",
+                    "released": "2012"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:05fG473iIaoy82BF1aGhL8",
+                        "name": "Slipknot"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "NLA329980196",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0YbUPhJ1hcFDsUV3U7kQ5k",
+                "length": 159.954,
+                "name": "Spit It Out",
+                "popularity": "0.52330",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0di6csJNq2u6uXBVCjCsNa",
+                    "name": "3",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6159IBm5gLPwG4BcJXseXc",
+                        "name": "Soulfly"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "NLA320219786",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:22koV9Br3DHgP6h51G0az2",
+                "length": 262.285,
+                "name": "Four Elements",
+                "popularity": "0.16249",
+                "redirects": [
+                    "spotify:track:6Y86bmum5FdZrUKlpv5Aij",
+                    "spotify:track:27o8hPkA0Punkdn24Zi0sA",
+                    "spotify:track:1kvEVmhqGNoPyCAFwHHupG"
+                ],
+                "track-number": "11"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2dNADktB0Xh4CHcxRvHvcz",
+                    "name": "Antennas To Hell",
+                    "released": "2012"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:05fG473iIaoy82BF1aGhL8",
+                        "name": "Slipknot"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "NLA320420785",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7wO8F8oAZUU719e3CEOLEj",
+                "length": 252.899,
+                "name": "Duality",
+                "popularity": "0.50452",
+                "track-number": "13"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:73k8aD6VzabLHfwIdiasdS",
+                    "name": "Resolution",
+                    "released": "2011"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3JFsVIxOn7STeilPICkkB2",
+                        "name": "Lamb of God"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USSM11105838",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3Kjn1rP9M8u8YQWd30RfSO",
+                "length": 229.63,
+                "name": "To The End",
+                "popularity": "0.41777",
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4zrx57VBT6JiXCYWeoVDYz",
+                    "name": "Red Harvest",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4APnCNlupzw0eNxRIjSM45",
+                        "name": "bloodsimple"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10701820",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4SpyRye60emFFxacJhwlW6",
+                "length": 227.643,
+                "name": "Red Harvest",
+                "popularity": "0.32249",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2dNADktB0Xh4CHcxRvHvcz",
+                    "name": "Antennas To Hell",
+                    "released": "2012"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:05fG473iIaoy82BF1aGhL8",
+                        "name": "Slipknot"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "NLA321292281",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3texlpoI2o4DydGUr3pXi5",
+                "length": 264.664,
+                "name": "Before I Forget",
+                "popularity": "0.50405",
+                "track-number": "14"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3EYFN0Qx0TMeJwSVgWO1ky",
+                    "name": "Supremacy",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:17Mb968quDHpjCkIyq30QV",
+                        "name": "Hatebreed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "NLA320682406",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2nEql85VIJw8u0Siw3bdBu",
+                "length": 137.13,
+                "name": "As Diehard As They Come",
+                "popularity": "0.35791",
+                "redirects": [
+                    "spotify:track:797pM06PZbFWbKeqV3zOPO"
+                ],
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:22cwC9T4GqpPukJzWNBrlH",
+                    "name": "Ashes Of The Wake",
+                    "released": "2004"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3JFsVIxOn7STeilPICkkB2",
+                        "name": "Lamb of God"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USSM10409073",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0lCwaZYSRy6q0jLmnYiQxi",
+                "length": 230.493,
+                "name": "Laid To Rest",
+                "popularity": "0.59758",
+                "redirects": [
+                    "spotify:track:6FYmmrLhCG6gLOI3z4C957",
+                    "spotify:track:3HAyJqYeR9n8QbpBDAHAih"
+                ],
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2dNADktB0Xh4CHcxRvHvcz",
+                    "name": "Antennas To Hell",
+                    "released": "2012"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:05fG473iIaoy82BF1aGhL8",
+                        "name": "Slipknot"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "NLA329980192",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6dBYrgbtKnUH0kXTsuv6Wq",
+                "length": 200.165,
+                "name": "(sic)",
+                "popularity": "0.52996",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4zrx57VBT6JiXCYWeoVDYz",
+                    "name": "Red Harvest",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4APnCNlupzw0eNxRIjSM45",
+                        "name": "bloodsimple"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10701822",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6VOM9VW2HspbL77jPEaBxW",
+                "length": 237.971,
+                "name": "Dead Man Walking",
+                "popularity": "0.43236",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2dNADktB0Xh4CHcxRvHvcz",
+                    "name": "Antennas To Hell",
+                    "released": "2012"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:05fG473iIaoy82BF1aGhL8",
+                        "name": "Slipknot"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "NLA329980194",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2OabutYqS7EZwJwAaRM6PF",
+                "length": 148.006,
+                "name": "Wait And Bleed",
+                "popularity": "0.52964",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:65ai7QRrruWGNPcVU23PgD",
+                    "name": "Ire Works",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7IGcjaMGAtsvKBLQX26W4i",
+                        "name": "The Dillinger Escape Plan"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "US2640769909",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4TOZ8TuZQRMEgJjNsgewg2",
+                "length": 235.539,
+                "name": "Milk Lizard",
+                "popularity": "0.49320",
+                "track-number": "9"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:7wjunxPOqqdTC0zmWUTo5p"
     }
 ]

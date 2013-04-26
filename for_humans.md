@@ -45,3 +45,22 @@
 1. Skrillex, Damian "Jr. Gong" Marley - Make It Bun Dem
 2. Knife Party - Bonfire
 3. Cypress Hill, Rusko, Damian Marley - Can't Keep Me Down
+
+
+[In Your Face](http://open.spotify.com/user/1166776863/playlist/7wjunxPOqqdTC0zmWUTo5p)
+--------------
+
+1. Lamb of God - Redneck
+2. bloodsimple - Dark Helmet
+3. Slipknot - Spit It Out
+4. Soulfly - Four Elements
+5. Slipknot - Duality
+6. Lamb of God - To The End
+7. bloodsimple - Red Harvest
+8. Slipknot - Before I Forget
+9. Hatebreed - As Diehard As They Come
+10. Lamb of God - Laid To Rest
+11. Slipknot - (sic)
+12. bloodsimple - Dead Man Walking
+13. Slipknot - Wait And Bleed
+14. The Dillinger Escape Plan - Milk Lizard
