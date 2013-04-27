@@ -280,31 +280,31 @@
             },
             {
                 "album": {
-                    "href": "spotify:album:1QsV3ayBgHi016iEgjmIYa",
-                    "name": "Monster Magnet's Greatest Hits",
-                    "released": "2003"
+                    "href": "spotify:album:6bL6rFAbAPxrmvuRZx9tfz",
+                    "name": "Gutter Phenomenon",
+                    "released": "2005"
                 },
                 "artists": [
                     {
-                        "href": "spotify:artist:4hvwEwrCmGj22uURGVET7Q",
-                        "name": "Monster Magnet"
+                        "href": "spotify:artist:0o7WWONtleH6PWLn5GIoCM",
+                        "name": "Every Time I Die"
                     }
                 ],
                 "availability": {
-                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
                 },
                 "available": true,
                 "external-ids": [
                     {
-                        "id": "USAM10000227",
+                        "id": "US3H40505806",
                         "type": "isrc"
                     }
                 ],
-                "href": "spotify:track:1HWd9NWladOfRFzL4tcemj",
-                "length": 299.333,
-                "name": "Silver Future",
-                "popularity": "0.29614",
-                "track-number": "12"
+                "href": "spotify:track:22EXrfNV0f9ZcWMpK2lF67",
+                "length": 172.87,
+                "name": "The New Black",
+                "popularity": "0.47430",
+                "track-number": "6"
             },
             {
                 "album": {
@@ -361,6 +361,34 @@
                 "name": "Atomic Clock",
                 "popularity": "0.32518",
                 "track-number": "7"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1QsV3ayBgHi016iEgjmIYa",
+                    "name": "Monster Magnet's Greatest Hits",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4hvwEwrCmGj22uURGVET7Q",
+                        "name": "Monster Magnet"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USAM10000227",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1HWd9NWladOfRFzL4tcemj",
+                "length": 299.333,
+                "name": "Silver Future",
+                "popularity": "0.29614",
+                "track-number": "12"
             },
             {
                 "album": {
