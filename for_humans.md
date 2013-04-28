@@ -56,12 +56,13 @@
 3. Slipknot - Spit It Out
 4. Soulfly - Four Elements
 5. Slipknot - Duality
-6. Lamb of God - To The End
-7. bloodsimple - Red Harvest
-8. Slipknot - Before I Forget
-9. Hatebreed - As Diehard As They Come
-10. Lamb of God - Laid To Rest
-11. Slipknot - (sic)
-12. bloodsimple - Dead Man Walking
-13. Slipknot - Wait And Bleed
-14. The Dillinger Escape Plan - Milk Lizard
+6. Soil - Halo
+7. Lamb of God - To The End
+8. bloodsimple - Red Harvest
+9. Slipknot - Before I Forget
+10. Hatebreed - As Diehard As They Come
+11. Lamb of God - Laid To Rest
+12. Slipknot - (sic)
+13. bloodsimple - Dead Man Walking
+14. Slipknot - Wait And Bleed
+15. The Dillinger Escape Plan - Milk Lizard
