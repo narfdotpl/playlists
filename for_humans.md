@@ -66,3 +66,16 @@
 13. bloodsimple - Dead Man Walking
 14. Slipknot - Wait And Bleed
 15. The Dillinger Escape Plan - Milk Lizard
+
+
+[Ableton](http://open.spotify.com/user/1166776863/playlist/26AuvGkNQOXD39e8Me83Ve)
+---------
+
+1. The Glitch Mob - We Can Make The World Stop
+2. Pretty Lights - High School Art Class
+3. Daft Punk, The Glitch Mob - Derezzed (Remixed By The Glitch Mob)
+4. The Chemical Brothers - Block Rockin' Beats
+5. Pretty Lights - Total Fascination
+6. Daft Punk - Aerodynamic
+7. Daft Punk - Derezzed
+8. Pretty Lights - Still Night
