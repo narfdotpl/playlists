@@ -16,16 +16,17 @@
 3. Nico Vega - Beast
 4. Fu Manchu - Shift Kicker
 5. Every Time I Die - The New Black
-6. Radio Moscow - Lucky Dutch
-7. Monster Magnet - Atomic Clock
-8. Monster Magnet - Silver Future
-9. Monster Magnet - Melt
-10. Truckfighters - Last Curfew
-11. Monster Magnet - Powertrip
-12. Truckfighters - Desert Cruiser
-13. Audioslave - Show Me How To Live
-14. Queens Of The Stone Age - Auto Pilot
-15. Truckfighters - Altered State
+6. The Exploders - Wolf Cub
+7. Radio Moscow - Lucky Dutch
+8. Monster Magnet - Atomic Clock
+9. Truckfighters - Last Curfew
+10. Monster Magnet - Melt
+11. Monster Magnet - Silver Future
+12. Monster Magnet - Powertrip
+13. Truckfighters - Desert Cruiser
+14. Audioslave - Show Me How To Live
+15. Queens Of The Stone Age - Auto Pilot
+16. Truckfighters - Altered State
 
 
 [5K](http://open.spotify.com/user/1166776863/playlist/0EjMivyDuZquEjHZ8rWFID)

@@ -308,6 +308,34 @@
             },
             {
                 "album": {
+                    "href": "spotify:album:5JnyCvxAI4Xxhl0iRESCtT",
+                    "name": "LIVE [in Spaceland - August 21st, 2006]",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4aQ4AvVu6QEZTDbcffjrWx",
+                        "name": "The Exploders"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USKUF0600424",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5v3TK5H6rxRhwSiXERpB28",
+                "length": 128.449,
+                "name": "Wolf Cub",
+                "popularity": "0.12508",
+                "track-number": "1"
+            },
+            {
+                "album": {
                     "href": "spotify:album:4u6gA01uAYXbPYvWNag5oU",
                     "name": "Radio Moscow",
                     "released": "2007"
@@ -364,31 +392,31 @@
             },
             {
                 "album": {
-                    "href": "spotify:album:1QsV3ayBgHi016iEgjmIYa",
-                    "name": "Monster Magnet's Greatest Hits",
-                    "released": "2003"
+                    "href": "spotify:album:6r9wDqP72VUJALDPMtwTbS",
+                    "name": "Truckfighters - Mania",
+                    "released": "2009"
                 },
                 "artists": [
                     {
-                        "href": "spotify:artist:4hvwEwrCmGj22uURGVET7Q",
-                        "name": "Monster Magnet"
+                        "href": "spotify:artist:5X1eZAEqHcO5lYy7tgjw5h",
+                        "name": "Truckfighters"
                     }
                 ],
                 "availability": {
-                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
                 },
                 "available": true,
                 "external-ids": [
                     {
-                        "id": "USAM10000227",
+                        "id": "SEWOL0910001",
                         "type": "isrc"
                     }
                 ],
-                "href": "spotify:track:1HWd9NWladOfRFzL4tcemj",
-                "length": 299.333,
-                "name": "Silver Future",
-                "popularity": "0.29557",
-                "track-number": "12"
+                "href": "spotify:track:3vUxHAIdQIDOlfPvRYsiVf",
+                "length": 476.281,
+                "name": "Last Curfew",
+                "popularity": "0.38108",
+                "track-number": "1"
             },
             {
                 "album": {
@@ -420,31 +448,31 @@
             },
             {
                 "album": {
-                    "href": "spotify:album:6r9wDqP72VUJALDPMtwTbS",
-                    "name": "Truckfighters - Mania",
-                    "released": "2009"
+                    "href": "spotify:album:1QsV3ayBgHi016iEgjmIYa",
+                    "name": "Monster Magnet's Greatest Hits",
+                    "released": "2003"
                 },
                 "artists": [
                     {
-                        "href": "spotify:artist:5X1eZAEqHcO5lYy7tgjw5h",
-                        "name": "Truckfighters"
+                        "href": "spotify:artist:4hvwEwrCmGj22uURGVET7Q",
+                        "name": "Monster Magnet"
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
                 },
                 "available": true,
                 "external-ids": [
                     {
-                        "id": "SEWOL0910001",
+                        "id": "USAM10000227",
                         "type": "isrc"
                     }
                 ],
-                "href": "spotify:track:3vUxHAIdQIDOlfPvRYsiVf",
-                "length": 476.281,
-                "name": "Last Curfew",
-                "popularity": "0.38108",
-                "track-number": "1"
+                "href": "spotify:track:1HWd9NWladOfRFzL4tcemj",
+                "length": 299.333,
+                "name": "Silver Future",
+                "popularity": "0.29557",
+                "track-number": "12"
             },
             {
                 "album": {
