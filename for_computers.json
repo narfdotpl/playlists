@@ -1621,5 +1621,298 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:26AuvGkNQOXD39e8Me83Ve"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/3Ev1ieBjpTFJMuLRmY1i0K",
+        "name": "Kids These Days...",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:1uIgPRSggJqaVxJAwUpPok",
+                    "name": "Believers Never Die - Greatest Hits",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4UXqAaa6dQYAk18Lv7PEgX",
+                        "name": "Fall Out Boy"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USUM70835313",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5D1eaML0qst8jrxB5GRugn",
+                "length": 219.12,
+                "name": "I Don't Care",
+                "popularity": "0.56823",
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3MCqjuNms0vjGyUDQ92Ivs",
+                    "name": "Left For Dead",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3IJ770I1QPmwVp7yug0eJ4",
+                        "name": "Lustra"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "uscgj0612390",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1LkoYGxmYpO6QSEvY5C0Zl",
+                "length": 175.406,
+                "name": "Scotty Doesn't Know",
+                "popularity": "0.65329",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:51yHlapHANyjwnZmws6JY6",
+                    "name": "She Hates Me",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3dXaa6jwM7B52GZpaJEIr5",
+                        "name": "Puddle Of Mudd"
+                    }
+                ],
+                "availability": {
+                    "territories": ""
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USIR10110582",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1b7W82wt7cFgOQQ5XVKKoN",
+                "length": 217.002,
+                "name": "She Hates Me",
+                "popularity": "0.26047",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:7avNT7QnpWXl1Khqnsguaw",
+                    "name": "Costello Music",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3M4ThdJR28z9eSMcQHAZ5G",
+                        "name": "The Fratellis"
+                    }
+                ],
+                "availability": {
+                    "territories": "BE CH CZ DE DK EE ES FI FR GB HU IE IS IT LT LV NL NO PL PT SE SK"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBUM70601571",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1bCmvezFg5MRcENzCGG1Cy",
+                "length": 215.564,
+                "name": "Chelsea Dagger",
+                "popularity": "0.59456",
+                "redirects": [
+                    "spotify:track:4ckM6OsyZuOK50okobsj8S"
+                ],
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1uIgPRSggJqaVxJAwUpPok",
+                    "name": "Believers Never Die - Greatest Hits",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4UXqAaa6dQYAk18Lv7PEgX",
+                        "name": "Fall Out Boy"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USDJ20500174",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4AfoSbXgn3O9sD8XbiHiNq",
+                "length": 181.654,
+                "name": "Dance, Dance",
+                "popularity": "0.55179",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3A1l195b8jDN3qY8AGoXCl",
+                    "name": "Na Na Na [Na Na Na Na Na Na Na Na Na]",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb",
+                        "name": "My Chemical Romance"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USRE11000826",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5FbMKftNTXCKiBYSf0TQrs",
+                "length": 203.668,
+                "name": "Na Na Na [Na Na Na Na Na Na Na Na Na]",
+                "popularity": "0.68592",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1uIgPRSggJqaVxJAwUpPok",
+                    "name": "Believers Never Die - Greatest Hits",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4UXqAaa6dQYAk18Lv7PEgX",
+                        "name": "Fall Out Boy"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USUM70700326",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0263Q0WRYFVGUEWZ03LNAr",
+                "length": 208.505,
+                "name": "Thnks fr th Mmrs",
+                "popularity": "0.61056",
+                "track-number": "8"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4ZDwEvXIKxWdwhAQK8ndBU",
+                    "name": "One-X",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:2xiIXseIJcq3nG7C8fHeBj",
+                        "name": "Three Days Grace"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USJI10600117",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:56sk7jBpZV0CD31G9hEU3b",
+                "length": 231.67,
+                "name": "Animal I Have Become",
+                "popularity": "0.73153",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:03n4EmWNweUARTWYtmlPqt",
+                    "name": "To Be Loved: The Best Of Papa Roach",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4RddZ3iHvSpGV4dvATac9X",
+                        "name": "Papa Roach"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH CZ DE DK EE FI FR GB HR IE IL IN IS IT LT LU LV NL NO NZ PL PT RU SE SG SK TR TW UA ZA"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USUM70605315",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:50kypkfAkqg0d2YXQwe7mt",
+                "length": 181.471,
+                "name": "...To Be Loved",
+                "popularity": "0.56801",
+                "track-number": "8"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1uIgPRSggJqaVxJAwUpPok",
+                    "name": "Believers Never Die - Greatest Hits",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4UXqAaa6dQYAk18Lv7PEgX",
+                        "name": "Fall Out Boy"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USUM70619006",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0vEqw7o97NVkzhfX0oUdA7",
+                "length": 213.525,
+                "name": "This Ain't A Scene, It's An Arms Race",
+                "popularity": "0.59811",
+                "track-number": "7"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:3Ev1ieBjpTFJMuLRmY1i0K"
     }
 ]

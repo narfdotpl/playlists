@@ -80,3 +80,18 @@
 6. Daft Punk - Aerodynamic
 7. Daft Punk - Derezzed
 8. Pretty Lights - Still Night
+
+
+[Kids These Days...](http://open.spotify.com/user/1166776863/playlist/3Ev1ieBjpTFJMuLRmY1i0K)
+--------------------
+
+1. Fall Out Boy - I Don't Care
+2. Lustra - Scotty Doesn't Know
+3. Puddle Of Mudd - She Hates Me
+4. The Fratellis - Chelsea Dagger
+5. Fall Out Boy - Dance, Dance
+6. My Chemical Romance - Na Na Na [Na Na Na Na Na Na Na Na Na]
+7. Fall Out Boy - Thnks fr th Mmrs
+8. Three Days Grace - Animal I Have Become
+9. Papa Roach - ...To Be Loved
+10. Fall Out Boy - This Ain't A Scene, It's An Arms Race
