@@ -92,6 +92,7 @@
 5. Fall Out Boy - Dance, Dance
 6. My Chemical Romance - Na Na Na [Na Na Na Na Na Na Na Na Na]
 7. Fall Out Boy - Thnks fr th Mmrs
-8. Three Days Grace - Animal I Have Become
-9. Papa Roach - ...To Be Loved
-10. Fall Out Boy - This Ain't A Scene, It's An Arms Race
+8. AFI - Miss Murder
+9. Three Days Grace - Animal I Have Become
+10. Papa Roach - ...To Be Loved
+11. Fall Out Boy - This Ain't A Scene, It's An Arms Race

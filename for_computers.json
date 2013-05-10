@@ -1829,6 +1829,37 @@
             },
             {
                 "album": {
+                    "href": "spotify:album:58M3z3OMcaFtWbPJS5Bb0W",
+                    "name": "DECEMBERUNDERGROUND",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:19I4tYiChJoxEO5EuviXpz",
+                        "name": "AFI"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IS IT LI LT LV MC MY NL NO NZ PL PT RU SE SG SK TR TW UA ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USUM70602578",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6A5M31nKvt6GYaGL7XpX2w",
+                "length": 206.832,
+                "name": "Miss Murder",
+                "popularity": "0.58451",
+                "redirects": [
+                    "spotify:track:08CT8t3bO7xGKCjZait7ZP"
+                ],
+                "track-number": "3"
+            },
+            {
+                "album": {
                     "href": "spotify:album:4ZDwEvXIKxWdwhAQK8ndBU",
                     "name": "One-X",
                     "released": "2006"
