@@ -96,3 +96,18 @@
 9. Three Days Grace - Animal I Have Become
 10. Papa Roach - ...To Be Loved
 11. Fall Out Boy - This Ain't A Scene, It's An Arms Race
+
+
+[Wax](http://open.spotify.com/user/1166776863/playlist/7fR5dECza4cx3KE9IbqE0i)
+-----
+
+1. RJD2 - Ghostwriter
+2. Bonobo - Kong
+3. Prefuse 73 - Storm Returns (A Prefuse/Tommy Guerrero Interlude)
+4. Bonobo - El Toro
+5. Prefuse 73 - Perverted Undertone
+6. Bonobo, Andreya Triana - Eyesdown
+7. DJ Food - Turtle Soup
+8. RJD2 - 1976
+9. Kid Koala - 1 bit Blues - 10,000 miles
+10. RJD2 - Smoke & Mirrors
