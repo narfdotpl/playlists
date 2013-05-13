@@ -44,9 +44,10 @@
 [r4≤+a](http://open.spotify.com/user/1166776863/playlist/4JpEcRNNZPzfdNBF32K9fs)
 -------
 
-1. Skrillex, Damian "Jr. Gong" Marley - Make It Bun Dem
-2. Knife Party - Bonfire
-3. Cypress Hill, Rusko, Damian Marley - Can't Keep Me Down
+1. Cypress Hill, Rusko, Damian Marley - Can't Keep Me Down
+2. Skrillex, Damian "Jr. Gong" Marley - Make It Bun Dem
+3. Knife Party - Bonfire
+4. BreakBeatBuddha, Shugga Sherm - Endurance
 
 
 [In Your Face](http://open.spotify.com/user/1166776863/playlist/7wjunxPOqqdTC0zmWUTo5p)
