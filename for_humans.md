@@ -98,7 +98,7 @@
 11. Fall Out Boy - This Ain't A Scene, It's An Arms Race
 
 
-[Chillax Wax](http://open.spotify.com/user/1166776863/playlist/7fR5dECza4cx3KE9IbqE0i)
+[Wax Chillax](http://open.spotify.com/user/1166776863/playlist/7fR5dECza4cx3KE9IbqE0i)
 -------------
 
 1. RJD2 - Ghostwriter
