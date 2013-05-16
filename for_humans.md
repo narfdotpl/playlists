@@ -58,16 +58,17 @@
 3. Slipknot - Spit It Out
 4. Soulfly - Four Elements
 5. Slipknot - Duality
-6. Soil - Halo
-7. Lamb of God - To The End
-8. bloodsimple - Red Harvest
-9. Slipknot - Before I Forget
-10. Hatebreed - As Diehard As They Come
-11. Lamb of God - Laid To Rest
-12. Slipknot - (sic)
-13. bloodsimple - Dead Man Walking
-14. Slipknot - Wait And Bleed
-15. The Dillinger Escape Plan - Milk Lizard
+6. Drowning Pool - Step Up
+7. Soil - Halo
+8. Lamb of God - To The End
+9. bloodsimple - Red Harvest
+10. Slipknot - Before I Forget
+11. Hatebreed - As Diehard As They Come
+12. Lamb of God - Laid To Rest
+13. Slipknot - (sic)
+14. bloodsimple - Dead Man Walking
+15. Slipknot - Wait And Bleed
+16. The Dillinger Escape Plan - Milk Lizard
 
 
 [Ableton](http://open.spotify.com/user/1166776863/playlist/26AuvGkNQOXD39e8Me83Ve)
