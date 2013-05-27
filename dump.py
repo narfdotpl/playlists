@@ -5,6 +5,7 @@ from __future__ import absolute_import, division
 import codecs
 import json
 from os.path import dirname, join, realpath
+from time import sleep
 
 from BeautifulSoup import BeautifulSoup
 import requests
@@ -59,6 +60,7 @@ def download_playlist_data(spotify_uri):
 
 
 def download_track_data(spotify_uri):
+    sleep(0.1)
     http_url = 'http://ws.spotify.com/lookup/1/.json?uri=' + spotify_uri
     return json.loads(requests.get(http_url).text)['track']
 
