@@ -2296,5 +2296,213 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:7fR5dECza4cx3KE9IbqE0i"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/5cN1UX2UoFUkd4NKaUw1S0",
+        "name": "Regret Metal",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:4dKcYaqnQbCfYFtm1qPIi8",
+                    "name": "Healing",
+                    "released": "2001"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1XFVzEMC5dyIus9DaPpAdK",
+                        "name": "Unloco"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USMV20000221",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:18SBAnCjYQHI01roOFxmPv",
+                "length": 362.708,
+                "name": "Bystander",
+                "popularity": "0.15018",
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5LEXck3kfixFaA3CqVE7bC",
+                    "name": "White Pony",
+                    "released": "2000"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+                        "name": "Deftones"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USMV20000039",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+                "length": 299.856,
+                "name": "Change [In The House Of Flies]",
+                "popularity": "0.63835",
+                "track-number": "11"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:30YN03R4Bjl8Qwz8wPRoXG",
+                    "name": "Adrenaline",
+                    "released": "1995"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+                        "name": "Deftones"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USMV20000048",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5zFalOg043nNnRYtU7TS1T",
+                "length": 244.559,
+                "name": "Minus Blindfold",
+                "popularity": "0.43917",
+                "redirects": [
+                    "spotify:track:0WfH5H3m5EyvP00lwb7iJZ"
+                ],
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0jwcVOk3uHCBS2Nyj1MvQu",
+                    "name": "See You On The Other Side",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD",
+                        "name": "Korn"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH ML MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USVI20500590",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2KSaLYsC5rqDDzYOWCglVe",
+                "length": 255.043,
+                "name": "Liar",
+                "popularity": "0.42771",
+                "track-number": "11"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4iLPd0Abb4S96sB2QEz2bl",
+                    "name": "The Matrix Reloaded: The Album",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1XFVzEMC5dyIus9DaPpAdK",
+                        "name": "Unloco"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FO FR GF GI GL GR HR HU IE IS IT KY LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM TR UA US VA VG"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USMV20200186",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5irCAOBSFNzRKe2bJQQ1CA",
+                "length": 156.346,
+                "name": "Bruises",
+                "popularity": "0.37744",
+                "track-number": "8"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2MwTe2PM8IAZy84vfYtpEz",
+                    "name": "The Darker Side of Nonsense",
+                    "released": "2001"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:01JN808vH1vhH7O7IsyRgX",
+                        "name": "Dry Kill Logic"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "NLA320119428",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7gTJ8VCvaguiFUeEDsG93w",
+                "length": 176.138,
+                "name": "A Better Man Than Me",
+                "popularity": "0.27872",
+                "track-number": "7"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2MwTe2PM8IAZy84vfYtpEz",
+                    "name": "The Darker Side of Nonsense",
+                    "released": "2001"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:01JN808vH1vhH7O7IsyRgX",
+                        "name": "Dry Kill Logic"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "NLA320119426",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:78SOBkauu6CnXV2OtpDrHK",
+                "length": 272.56,
+                "name": "Rot",
+                "popularity": "0.43926",
+                "track-number": "8"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:5cN1UX2UoFUkd4NKaUw1S0"
     }
 ]

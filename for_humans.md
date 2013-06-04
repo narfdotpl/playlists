@@ -113,3 +113,15 @@
 8. RJD2 - 1976
 9. Kid Koala - 1 bit Blues - 10,000 miles
 10. RJD2 - Smoke & Mirrors
+
+
+[Regret Metal](http://open.spotify.com/user/1166776863/playlist/5cN1UX2UoFUkd4NKaUw1S0)
+--------------
+
+1. Unloco - Bystander
+2. Deftones - Change [In The House Of Flies]
+3. Deftones - Minus Blindfold
+4. Korn - Liar
+5. Unloco - Bruises
+6. Dry Kill Logic - A Better Man Than Me
+7. Dry Kill Logic - Rot
