@@ -125,3 +125,22 @@
 5. Unloco - Bruises
 6. Dry Kill Logic - A Better Man Than Me
 7. Dry Kill Logic - Rot
+
+
+[Covers](http://open.spotify.com/user/1166776863/playlist/4u0JwggJBMHUAc62dcT9Ch)
+--------
+
+1. Alien Ant Farm - Smooth Criminal
+2. Fall Out Boy, John Mayer - Beat It
+3. John 5 - Beat It
+4. John 5 - Welcome to the Jungle
+5. Dope - Rebel Yell
+6. Dope - You Spin Me Round (Like A Record)
+7. Marilyn Manson - Personal Jesus
+8. Marilyn Manson - Sweet Dreams (Are Made Of This) - Album Version (Explicit )
+9. Marilyn Manson - Tainted Love
+10. Sepultura - Angel
+11. Sepultura - Bullet The Blue Sky
+12. The White Stripes - Jolene (Live)
+13. Korn - Creep - Live
+14. Limp Bizkit - Behind Blue Eyes

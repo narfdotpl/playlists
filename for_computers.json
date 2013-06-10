@@ -2504,5 +2504,421 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:5cN1UX2UoFUkd4NKaUw1S0"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/4u0JwggJBMHUAc62dcT9Ch",
+        "name": "Covers",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:07mJ8UjL2BzPTDBE4r0LmK",
+                    "name": "The Ultimate Workout Collection: Blood Sweat And Tears",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6TZdvF1kFzwnQLgHQynzsO",
+                        "name": "Alien Ant Farm"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH CZ DE DK ES FI FR GB HR HU IE IL IS IT LU NL NO NZ PL PT RU SE SG SK TW UA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USDW10022224",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6wrdOEEUufGoGshPplymxS",
+                "length": 209.499,
+                "name": "Smooth Criminal",
+                "popularity": "0.61724",
+                "track-number": "10"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1uIgPRSggJqaVxJAwUpPok",
+                    "name": "Believers Never Die - Greatest Hits",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4UXqAaa6dQYAk18Lv7PEgX",
+                        "name": "Fall Out Boy"
+                    },
+                    {
+                        "href": "spotify:artist:0hEurMDQu99nJRq8pTxO14",
+                        "name": "John Mayer"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USUM70808144",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2ds9vlk6o6BRCc2FAkmOvX",
+                "length": 229.656,
+                "name": "Beat It",
+                "popularity": "0.62621",
+                "track-number": "11"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5rVq9KTUMupNjkz0ddgqID",
+                    "name": "God Told Me to",
+                    "released": "2012"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7mAqCk75DUBWgcC0sqhzwX",
+                        "name": "John 5"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "TCABF1243649",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:41cWduSCDzGw0oBIMYGokY",
+                "length": 254.363,
+                "name": "Beat It",
+                "popularity": "0.33196",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1ddCKL7CfLfPUkFq1VKNrN",
+                    "name": "The Devil Knows My Name",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7mAqCk75DUBWgcC0sqhzwX",
+                        "name": "John 5"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SK SM TR UA VA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "NLB930700245",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3TaCMKUCKiGsSyhTe1ZgLt",
+                "length": 269.188,
+                "name": "Welcome to the Jungle",
+                "popularity": "0.19875",
+                "track-number": "6"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0k6Ew5871sZiRi8px0iEYr",
+                    "name": "No Regrets",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7fWgqc4HJi3pcHhK8hKg2p",
+                        "name": "Dope"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USKO10900164",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2rF1yxzb3jIySvXxqoDrNn",
+                "length": 245.317,
+                "name": "Rebel Yell",
+                "popularity": "0.51317",
+                "track-number": "13"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:70qlX6W0tE04QAwKQuv1db",
+                    "name": "Felons and Revolutionaries",
+                    "released": "1999"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7fWgqc4HJi3pcHhK8hKg2p",
+                        "name": "Dope"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USSM10008762",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0Hxty2K8F2DrrCXQyQVpBo",
+                "length": 163.876,
+                "name": "You Spin Me Round (Like A Record)",
+                "popularity": "0.62715",
+                "track-number": "14"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1jPWRQHWuYXnVyb9lj6jFc",
+                    "name": "Lest We Forget (The Best Of) Deluxe PAL",
+                    "released": "2004"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:2VYQTNDsvvKN9wmU5W7xpj",
+                        "name": "Marilyn Manson"
+                    }
+                ],
+                "availability": {
+                    "territories": "CZ HK PL SG SK TH TW ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USIR10400620",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7plOseI79HZ6Jkropa90Yj",
+                "length": 246.938,
+                "name": "Personal Jesus",
+                "popularity": "0.14991",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1jPWRQHWuYXnVyb9lj6jFc",
+                    "name": "Lest We Forget (The Best Of) Deluxe PAL",
+                    "released": "2004"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:2VYQTNDsvvKN9wmU5W7xpj",
+                        "name": "Marilyn Manson"
+                    }
+                ],
+                "availability": {
+                    "territories": "CZ HK PL SG SK TH TW ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USIR19500314",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:346nfvQvaQgDcnEogShdg4",
+                "length": 291.751,
+                "name": "Sweet Dreams (Are Made Of This) - Album Version (Explicit )",
+                "popularity": "0.15889",
+                "track-number": "9"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:56WBZtg0HC6FKSE5pJA9C8",
+                    "name": "The Golden Age Of Grotesque",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:2VYQTNDsvvKN9wmU5W7xpj",
+                        "name": "Marilyn Manson"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LT LU LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USIR10120378",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3Q8IgbIg5sgm1cq5GeJ54N",
+                "length": 200.662,
+                "name": "Tainted Love",
+                "popularity": "0.49227",
+                "redirects": [
+                    "spotify:track:6bvhc5WpN1a41cm49Etov0",
+                    "spotify:track:3UGooGSeDXZXFrtYeUmQU4"
+                ],
+                "track-number": "16"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0tHH3mXwoyVgW3e5qntkUN",
+                    "name": "Roorback (Special Edition)",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4",
+                        "name": "Sepultura"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AL AT AU BA BE BG BY CH CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM UA VA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "DEA450301960",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3iZvTHIEHd6R8hb2ReiCDR",
+                "length": 314.314,
+                "name": "Angel",
+                "popularity": "0.36071",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0tHH3mXwoyVgW3e5qntkUN",
+                    "name": "Roorback (Special Edition)",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4",
+                        "name": "Sepultura"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AL AT AU BA BE BG BY CH CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM UA VA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "DEA450302000",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1eD4hZm6zU8d0CSMCYActp",
+                "length": 275.175,
+                "name": "Bullet The Blue Sky",
+                "popularity": "0.26819",
+                "track-number": "6"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3ceMHqU0n0gNEEBUKLNH2B",
+                    "name": "Under Great White Northern Lights",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4F84IBURUo98rz4r61KF70",
+                        "name": "The White Stripes"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CF CG CH CI CK CL CM CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HM HN HR HT HU IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0900494",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2KWgKzzwFrPPZYkLNJy6qF",
+                "length": 235.487,
+                "name": "Jolene (Live)",
+                "popularity": "0.47658",
+                "track-number": "9"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2iSOOlZPxyl3V1jb71SvsC",
+                    "name": "MTV Unplugged",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD",
+                        "name": "Korn"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH ML MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USVI20700171",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5z1vCywwTJAP8qSkGJymFY",
+                "length": 231.277,
+                "name": "Creep - Live",
+                "popularity": "0.50838",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:67iZAEB1D2l5dEz7zhwglK",
+                    "name": "Results May Vary",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb",
+                        "name": "Limp Bizkit"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USIR10312186",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2kA0IBd1u0Be6QJE60Ty6F",
+                "length": 270.26,
+                "name": "Behind Blue Eyes",
+                "popularity": "0.68878",
+                "redirects": [
+                    "spotify:track:4fzJsBnXAkIer4eJIk0xEJ",
+                    "spotify:track:4u9E6FhnmarZbMK3xhfJog",
+                    "spotify:track:5BFZDEtn1zwlLrBrTAvWu4",
+                    "spotify:track:4ZQu4enmDidQZV9AYGcLtN",
+                    "spotify:track:0Wz7eNZBa9upyI6WufEo4r",
+                    "spotify:track:0T09LQTX3aiUkgvYwDcKhW"
+                ],
+                "track-number": "15"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:4u0JwggJBMHUAc62dcT9Ch"
     }
 ]
