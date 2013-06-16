@@ -148,3 +148,16 @@
 16. Nouvelle Vague - Guns Of Brixton
 17. Nouvelle Vague - Ever Fallen In Love
 18. Nouvelle Vague - In A Manner Of Speaking
+
+
+[Worn Out Jeans](http://open.spotify.com/user/1166776863/playlist/5ZbFi7etCQdJqtFp1rWIbM)
+----------------
+
+1. Seether - Gasoline
+2. Saving Abel - New Tattoo
+3. Foo Fighters - The Pretender
+4. Stone Sour - Do Me A Favor
+5. Guano Apes - You Can't Stop Me
+6. Seether - Fake It
+7. Saliva - Always
+8. Stone Sour - Bother

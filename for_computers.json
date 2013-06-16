@@ -3032,5 +3032,251 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:4u0JwggJBMHUAc62dcT9Ch"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/5ZbFi7etCQdJqtFp1rWIbM",
+        "name": "Worn Out Jeans",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:7ID6UK0LDEnU58fSJppw3i",
+                    "name": "Disclaimer II",
+                    "released": "2004"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6B5c4sch27tWHAGdarpPaW",
+                        "name": "Seether"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AG AI AL AM AN AQ AR AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LT LU LV LY MA MC MD ME MF MG MH ML MN MO MQ MR MS MT MV MX MY NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PN PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VC VE VG VN VU WF WS YE YT ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWU30400064",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:58xzJAfYb3kljNqAC9f1UM",
+                "length": 168.765,
+                "name": "Gasoline",
+                "popularity": "0.44673",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6Nft5QnHcxYvLwAQc3mo8O",
+                    "name": "Saving Abel",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:2AVVj8ezW2mJ0v8u7XydiF",
+                        "name": "Saving Abel"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH ML MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USVI20800034",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6cXxbf1eyxNDkjbGEawVFV",
+                "length": 262.913,
+                "name": "New Tattoo",
+                "popularity": "0.48169",
+                "redirects": [
+                    "spotify:track:1Q92Se4okWpODsaVf77vCR"
+                ],
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3ph1ceuYuayuzoIJzPQji2",
+                    "name": "Echoes, Silence, Patience & Grace",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD",
+                        "name": "Foo Fighters"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CI CK CL CM CO CR CU CV CZ DJ DM DO EC EG EH ER ET FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GT GU GW GY HN HR HT HU IE IL IO IQ IR IS JM JO KE KG KH KI KM KN KP KW KY KZ LA LC LI LK LR LS LY MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MU MV MW MX MZ NC NE NG NI NP NR NU OM PA PE PF PG PK PL PM PN PR PS PW PY QA RE RS RU RW SA SB SC SD SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TO TR TT TV TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRW30700007",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3oD1KZsKRrg8G45Qy3rhfY",
+                "length": 269.658,
+                "name": "The Pretender",
+                "popularity": "0.44389",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1ELcic3NPR2Gi2se01bn7t",
+                    "name": "House of Gold & Bones Part 2",
+                    "released": "2013"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:49qiE8dj4JuNdpYGRPdKbF",
+                        "name": "Stone Sour"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "NLA321292541",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4Ma6fKktonx1Tu7Lzljcz5",
+                "length": 224.689,
+                "name": "Do Me A Favor",
+                "popularity": "0.56754",
+                "track-number": "10"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2YT5Jdw4Fr8YV8SoT8kl8X",
+                    "name": "Walking On A Thin Line",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4whxX965DKKqYkXmk33b4E",
+                        "name": "Guano Apes"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "DEC760200343",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6EvMtEt0L5ieXHtxj60ve4",
+                "length": 191.25,
+                "name": "You Can't Stop Me",
+                "popularity": "0.44725",
+                "redirects": [
+                    "spotify:track:4G7pCoBdCJsZHCCDjt1eQI"
+                ],
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2uPtoi11SIEIqNCPGXDj5L",
+                    "name": "Finding Beauty In Negative Spaces",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6B5c4sch27tWHAGdarpPaW",
+                        "name": "Seether"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AG AI AL AM AN AQ AR AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LT LU LV LY MA MC MD ME MF MG MH ML MN MO MQ MR MS MT MV MX MY NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PN PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VC VE VG VN VU WF WS YE YT ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWU30700132",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2UNo9DIX2UzaWMJHbCXZ44",
+                "length": 194.125,
+                "name": "Fake It",
+                "popularity": "0.64401",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6Trb6MUN99WFIkgyaCnhXw",
+                    "name": "Back Into Your System",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:5S6hjAxgxjsLylsTtMIimO",
+                        "name": "Saliva"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IS IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TW UA ZA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USDJ20201135",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2HerxRQish8VLHvu20oxz2",
+                "length": 231.46,
+                "name": "Always",
+                "popularity": "0.52419",
+                "redirects": [
+                    "spotify:track:4FrJn0D2MGRInmnJVMlA8S"
+                ],
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5KTvCRHj0TC6D5IU9TI85F",
+                    "name": "Stone Sour",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:49qiE8dj4JuNdpYGRPdKbF",
+                        "name": "Stone Sour"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "NLA320219861",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1p5mModFIkQBuFxAfLI0vK",
+                "length": 240.663,
+                "name": "Bother",
+                "popularity": "0.54077",
+                "redirects": [
+                    "spotify:track:1Wwx6nXFNBrI8KP1pcmbvP",
+                    "spotify:track:1j0uUX7bULnXierm4GYr27",
+                    "spotify:track:0OR1VcXYkyRiQEFtUciGyD"
+                ],
+                "track-number": "8"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:5ZbFi7etCQdJqtFp1rWIbM"
     }
 ]
