@@ -134,13 +134,17 @@
 2. Fall Out Boy, John Mayer - Beat It
 3. John 5 - Beat It
 4. John 5 - Welcome to the Jungle
-5. Dope - Rebel Yell
-6. Dope - You Spin Me Round (Like A Record)
-7. Marilyn Manson - Personal Jesus
-8. Marilyn Manson - Sweet Dreams (Are Made Of This) - Album Version (Explicit )
-9. Marilyn Manson - Tainted Love
-10. Sepultura - Angel
-11. Sepultura - Bullet The Blue Sky
-12. The White Stripes - Jolene (Live)
-13. Korn - Creep - Live
-14. Limp Bizkit - Behind Blue Eyes
+5. Seether - Careless Whisper
+6. Dope - Rebel Yell
+7. Dope - You Spin Me Round (Like A Record)
+8. Marilyn Manson - Personal Jesus
+9. Marilyn Manson - Sweet Dreams (Are Made Of This) - Album Version (Explicit )
+10. Marilyn Manson - Tainted Love
+11. Sepultura - Angel
+12. Sepultura - Bullet The Blue Sky
+13. The White Stripes - Jolene (Live)
+14. Korn - Creep - Live
+15. Limp Bizkit - Behind Blue Eyes
+16. Nouvelle Vague - Guns Of Brixton
+17. Nouvelle Vague - Ever Fallen In Love
+18. Nouvelle Vague - In A Manner Of Speaking

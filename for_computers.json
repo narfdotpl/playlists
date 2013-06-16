@@ -2627,6 +2627,34 @@
             },
             {
                 "album": {
+                    "href": "spotify:album:2uPtoi11SIEIqNCPGXDj5L",
+                    "name": "Finding Beauty In Negative Spaces",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6B5c4sch27tWHAGdarpPaW",
+                        "name": "Seether"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AG AI AL AM AN AQ AR AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LT LU LV LY MA MC MD ME MF MG MH ML MN MO MQ MR MS MT MV MX MY NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PN PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VC VE VG VN VU WF WS YE YT ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWU30900001",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2eBcPwPWuJ5AEFrs1Sb4s3",
+                "length": 302.287,
+                "name": "Careless Whisper",
+                "popularity": "0.58815",
+                "track-number": "13"
+            },
+            {
+                "album": {
                     "href": "spotify:album:0k6Ew5871sZiRi8px0iEYr",
                     "name": "No Regrets",
                     "released": "2009"
@@ -2917,6 +2945,90 @@
                     "spotify:track:0T09LQTX3aiUkgvYwDcKhW"
                 ],
                 "track-number": "15"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:75Y9mjR8mFGdiYJXQgq2Y9",
+                    "name": "Nouvelle Vague Special Edition",
+                    "released": "2004"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4h7NLIlg1oYdEtfQJfyto0",
+                        "name": "Nouvelle Vague"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBEWK0400022",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:57byua1wdKVH3DM7qRoQ6l",
+                "length": 247.226,
+                "name": "Guns Of Brixton",
+                "popularity": "0.49516",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3WvuFV72BObrX9ULi7jLEm",
+                    "name": "Bande \u00e0 Part\u00a0",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4h7NLIlg1oYdEtfQJfyto0",
+                        "name": "Nouvelle Vague"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AL AT BA BE BG BY CH CZ DE DK EE ES FI FR GR HR HU IL IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SK SM TR UA VA"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "FR13Z0600002",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0ehSg6Qnt2UpGdAYgppcQM",
+                "length": 199.982,
+                "name": "Ever Fallen In Love",
+                "popularity": "0.55160",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:75Y9mjR8mFGdiYJXQgq2Y9",
+                    "name": "Nouvelle Vague Special Edition",
+                    "released": "2004"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4h7NLIlg1oYdEtfQJfyto0",
+                        "name": "Nouvelle Vague"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBEWK0400021",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7xLvHwHaLneCoygBBckUru",
+                "length": 238.258,
+                "name": "In A Manner Of Speaking",
+                "popularity": "0.57908",
+                "track-number": "3"
             }
         ],
         "uri": "spotify:user:1166776863:playlist:4u0JwggJBMHUAc62dcT9Ch"
