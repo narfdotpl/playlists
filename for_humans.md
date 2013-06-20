@@ -155,9 +155,10 @@
 
 1. Seether - Gasoline
 2. Saving Abel - New Tattoo
-3. Foo Fighters - The Pretender
+3. Theory Of A Deadman - Bad Girlfriend
 4. Stone Sour - Do Me A Favor
-5. Guano Apes - You Can't Stop Me
-6. Seether - Fake It
-7. Saliva - Always
-8. Stone Sour - Bother
+5. Foo Fighters - The Pretender
+6. Guano Apes - You Can't Stop Me
+7. Seether - Fake It
+8. Saliva - Always
+9. Stone Sour - Bother

@@ -3098,31 +3098,35 @@
             },
             {
                 "album": {
-                    "href": "spotify:album:3ph1ceuYuayuzoIJzPQji2",
-                    "name": "Echoes, Silence, Patience & Grace",
-                    "released": "2007"
+                    "href": "spotify:album:1AB8tdwS9hY4iyulXexNab",
+                    "name": "Scars & Souvenirs",
+                    "released": "2008"
                 },
                 "artists": [
                     {
-                        "href": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD",
-                        "name": "Foo Fighters"
+                        "href": "spotify:artist:74eX4C98E4FCrAMl39qRsJ",
+                        "name": "Theory Of A Deadman"
                     }
                 ],
                 "availability": {
-                    "territories": "AE AF AG AI AM AN AO AQ AR AZ BB BF BH BI BJ BM BO BR BS BT BW BY BZ CD CF CG CI CL CM CO CR CU CV CZ DJ DM DO EC EG EH ER ET FK GA GB GD GE GF GH GI GM GN GP GQ GT GU GW GY HN HT HU IE IL IO IQ IR JM JO KE KG KM KN KW KY KZ LB LC LR LS LY MD MG ML MN MP MQ MR MS MU MW MX MZ NA NE NG NI NU OM PA PE PK PL PM PN PS PY QA RU RW SA SC SD SH SK SL SN SO SR ST SV SY SZ TC TD TG TJ TK TM TN TR TT TZ UA UG UY UZ VC VE VG WF YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
                 },
                 "available": true,
+                "explicit": true,
                 "external-ids": [
                     {
-                        "id": "USRW30700007",
+                        "id": "NLA320786463",
                         "type": "isrc"
                     }
                 ],
-                "href": "spotify:track:3oD1KZsKRrg8G45Qy3rhfY",
-                "length": 269.658,
-                "name": "The Pretender",
-                "popularity": "0.44574",
-                "track-number": "1"
+                "href": "spotify:track:5ynWvN3bQymHVThxutO4hG",
+                "length": 205.865,
+                "name": "Bad Girlfriend",
+                "popularity": "0.66539",
+                "redirects": [
+                    "spotify:track:3q8hYdwsC7IJRPDekAMI3Y"
+                ],
+                "track-number": "8"
             },
             {
                 "album": {
@@ -3151,6 +3155,34 @@
                 "name": "Do Me A Favor",
                 "popularity": "0.56761",
                 "track-number": "10"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3ph1ceuYuayuzoIJzPQji2",
+                    "name": "Echoes, Silence, Patience & Grace",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD",
+                        "name": "Foo Fighters"
+                    }
+                ],
+                "availability": {
+                    "territories": "AE AF AG AI AM AN AO AQ AR AZ BB BF BH BI BJ BM BO BR BS BT BW BY BZ CD CF CG CI CL CM CO CR CU CV CZ DJ DM DO EC EG EH ER ET FK GA GB GD GE GF GH GI GM GN GP GQ GT GU GW GY HN HT HU IE IL IO IQ IR JM JO KE KG KM KN KW KY KZ LB LC LR LS LY MD MG ML MN MP MQ MR MS MU MW MX MZ NA NE NG NI NU OM PA PE PK PL PM PN PS PY QA RU RW SA SC SD SH SK SL SN SO SR ST SV SY SZ TC TD TG TJ TK TM TN TR TT TZ UA UG UY UZ VC VE VG WF YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRW30700007",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3oD1KZsKRrg8G45Qy3rhfY",
+                "length": 269.658,
+                "name": "The Pretender",
+                "popularity": "0.44574",
+                "track-number": "1"
             },
             {
                 "album": {
