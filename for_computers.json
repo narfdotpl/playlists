@@ -3310,5 +3310,804 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:5ZbFi7etCQdJqtFp1rWIbM"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/1FSp9oEY65IrjgYtdjWZu4",
+        "name": "Hoodies",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:1I5SVaDdqLe0rJkvWQ4lZO",
+                    "name": "The Life of Riley",
+                    "released": "2011"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4Q6bcEc5YCypvMZ5kjaTMp",
+                        "name": "Drapht"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "AUBM01000558",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2bgAKETXNWV8p5OgPZ33fG",
+                "length": 202.962,
+                "name": "Rapunzel",
+                "popularity": "0.44098",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4skla2Fdp2EdBXR6286gXF",
+                    "name": "Day Of The Dog",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI00627010",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7Jeq7pytUKAYgWbljMx2zw",
+                "length": 117.965,
+                "name": "Blazin'",
+                "popularity": "0.37386",
+                "track-number": "18"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3ny2SwzzuF4ep34pk5RXtE",
+                    "name": "Flying Colours",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI00845870",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:22ieYKXx548wrmLdZF9wAV",
+                "length": 258.965,
+                "name": "Happy In MY Hoody",
+                "popularity": "0.39158",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4skla2Fdp2EdBXR6286gXF",
+                    "name": "Day Of The Dog",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI00616800",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:62oCkdrehcnLP3kTMhFIxB",
+                "length": 237.787,
+                "name": "Up Jumped The Boogie",
+                "popularity": "0.29450",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4skla2Fdp2EdBXR6286gXF",
+                    "name": "Day Of The Dog",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI00616880",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:77BHdqcOxR7pfV5fa5W53g",
+                "length": 258.782,
+                "name": "Party At My Place",
+                "popularity": "0.35932",
+                "track-number": "11"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:57uKKLbScUxaoeG76Q94Yi",
+                    "name": "Brothers Grimm",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4Q6bcEc5YCypvMZ5kjaTMp",
+                        "name": "Drapht"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AUOB10800406",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5BKfl79Ox0UXxHA6RKpCDO",
+                "length": 231.722,
+                "name": "Where Ya From",
+                "popularity": "0.37726",
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1I5SVaDdqLe0rJkvWQ4lZO",
+                    "name": "The Life of Riley",
+                    "released": "2011"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4Q6bcEc5YCypvMZ5kjaTMp",
+                        "name": "Drapht"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AUBM01100050",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0oFhbOmvDPOJFFNo2djkRH",
+                "length": 247.069,
+                "name": "Sing It (The Life of Riley)",
+                "popularity": "0.38994",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6nl1aV3TaFElHYxEwpxVHz",
+                    "name": "Running On Air",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI01071780",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3I0TBdlzSEhJzrCBQqfuBO",
+                "length": 174.229,
+                "name": "Down By The River",
+                "popularity": "0.49253",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6nl1aV3TaFElHYxEwpxVHz",
+                    "name": "Running On Air",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI01072790",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0dQcxdg94MhUHMHhfbgLQ3",
+                "length": 252.873,
+                "name": "Where The Wild Things Are(feat: Mind Over Matter)",
+                "popularity": "0.37490",
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:57uKKLbScUxaoeG76Q94Yi",
+                    "name": "Brothers Grimm",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4Q6bcEc5YCypvMZ5kjaTMp",
+                        "name": "Drapht"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AUOB10800399",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2L2f3Z8amWm4SN4yFjpy8b",
+                "length": 214.466,
+                "name": "Jimmy Recard",
+                "popularity": "0.37064",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4skla2Fdp2EdBXR6286gXF",
+                    "name": "Day Of The Dog",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI00616820",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3Lg03JDCkPzVkbLYMdT4Qu",
+                "length": 235.068,
+                "name": "Coppin' It Sweet",
+                "popularity": "0.27761",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:57uKKLbScUxaoeG76Q94Yi",
+                    "name": "Brothers Grimm",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4Q6bcEc5YCypvMZ5kjaTMp",
+                        "name": "Drapht"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AUOB10800407",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2FawiYoWqZS6zL7YP2wMh8",
+                "length": 283.907,
+                "name": "Put On A Record",
+                "popularity": "0.24214",
+                "track-number": "13"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0y13VbGddQ4azdVWakksAL",
+                    "name": "Meteora",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz",
+                        "name": "Linkin Park"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWB10300472",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6O8Fqxnk5OlOivJHklfkPZ",
+                "length": 179.092,
+                "name": "Nobody's Listening",
+                "popularity": "0.59022",
+                "redirects": [
+                    "spotify:track:2BCBfBqJL6xFNOzDdFRfRB",
+                    "spotify:track:6exDW5m6UX7e6dLr0EtZtw"
+                ],
+                "track-number": "11"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4IeQ4pMgtlYDNzB3SD5J54",
+                    "name": "The Rising Tied",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7dWYWUbO68rXJOcyA7SpJk",
+                        "name": "Fort Minor"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GE GF GG GI GL GP GR GS HR HU IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA VA VG WF YT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWB10504791",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1NDJi8zWYCHCFJAjbb97bz",
+                "length": 231.748,
+                "name": "Kenji",
+                "popularity": "0.49587",
+                "track-number": "13"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5LKeYIFEhZevycUwXFUPkl",
+                    "name": "Doremifasofa",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4xoSsaeRDZmGmUrceHcPph",
+                        "name": "Sofa"
+                    },
+                    {
+                        "href": "spotify:artist:52XMlxvCIzmiNkzSqEw3Uv",
+                        "name": "O.S.T.R."
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "PLA810900027",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7xruRQSKUlSqWMs5reansn",
+                "length": 278.783,
+                "name": "Affairz (feat. O.S.T.R.)",
+                "popularity": "0.33191",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1I5SVaDdqLe0rJkvWQ4lZO",
+                    "name": "The Life of Riley",
+                    "released": "2011"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4Q6bcEc5YCypvMZ5kjaTMp",
+                        "name": "Drapht"
+                    },
+                    {
+                        "href": "spotify:artist:2j9Ronn6pPSxcsqnDbVGpZ",
+                        "name": "Urthboy"
+                    },
+                    {
+                        "href": "spotify:artist:6ztaFqFjn3vO5fn5rANjzP",
+                        "name": "Mantra"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "AUBM01100060",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4twBaMIbO85dFpG9ewr4I0",
+                "length": 253.527,
+                "name": "We Own the Night",
+                "popularity": "0.23899",
+                "track-number": "16"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3ny2SwzzuF4ep34pk5RXtE",
+                    "name": "Flying Colours",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI00845950",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3klqOZQoSX8zOMRbro2aIh",
+                "length": 232.768,
+                "name": "Royal Flush",
+                "popularity": "0.30950",
+                "track-number": "13"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6nl1aV3TaFElHYxEwpxVHz",
+                    "name": "Running On Air",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI01072740",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:128iS546yKs9blCvzHHjtU",
+                "length": 236.297,
+                "name": "Family Affair",
+                "popularity": "0.45581",
+                "track-number": "7"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1I5SVaDdqLe0rJkvWQ4lZO",
+                    "name": "The Life of Riley",
+                    "released": "2011"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4Q6bcEc5YCypvMZ5kjaTMp",
+                        "name": "Drapht"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AUBM01100055",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5DLbhjgR46OkPLijgZ9DHy",
+                "length": 239.173,
+                "name": "People Don't Know",
+                "popularity": "0.24744",
+                "track-number": "8"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2GgGkZEnZINvPTS4Rm9SiL",
+                    "name": "Flowers In The Pavement",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI00964900",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7oOEIIrKjhYykifzsmjtly",
+                "length": 216.453,
+                "name": "This Is For You",
+                "popularity": "0.31906",
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1I5SVaDdqLe0rJkvWQ4lZO",
+                    "name": "The Life of Riley",
+                    "released": "2011"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4Q6bcEc5YCypvMZ5kjaTMp",
+                        "name": "Drapht"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "AUBM01100054",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:301Wpv2K72cIrGapKTRCJt",
+                "length": 175.563,
+                "name": "Won't Listen When",
+                "popularity": "0.23728",
+                "track-number": "7"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6nl1aV3TaFElHYxEwpxVHz",
+                    "name": "Running On Air",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI01072710",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4dFpc8oA3SroWIKyMQNINT",
+                "length": 231.539,
+                "name": "Addicted",
+                "popularity": "0.55766",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6nl1aV3TaFElHYxEwpxVHz",
+                    "name": "Running On Air",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI01072730",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:08evcZZA2SaGcZZRPNY4pt",
+                "length": 183.145,
+                "name": "Art House Audio",
+                "popularity": "0.46778",
+                "track-number": "6"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4skla2Fdp2EdBXR6286gXF",
+                    "name": "Day Of The Dog",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI00626990",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5njuMdKa50f41rS2rPQBmY",
+                "length": 254.939,
+                "name": "Good Morning Australia",
+                "popularity": "0.25267",
+                "track-number": "16"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1I5SVaDdqLe0rJkvWQ4lZO",
+                    "name": "The Life of Riley",
+                    "released": "2011"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4Q6bcEc5YCypvMZ5kjaTMp",
+                        "name": "Drapht"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "AUBM01100059",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6jd8k1uSXnh83fQEYXHVXL",
+                "length": 247.932,
+                "name": "Good Morning",
+                "popularity": "0.19856",
+                "track-number": "15"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6nl1aV3TaFElHYxEwpxVHz",
+                    "name": "Running On Air",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1xSSjJrKTO2ZNPU81uLtmI",
+                        "name": "Bliss n Eso"
+                    }
+                ],
+                "availability": {
+                    "territories": "worldwide"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AULI01072830",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7HxCOz4AM5dhwU6hLbxqMd",
+                "length": 223.068,
+                "name": "Late One Night",
+                "popularity": "0.35469",
+                "track-number": "16"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:57uKKLbScUxaoeG76Q94Yi",
+                    "name": "Brothers Grimm",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4Q6bcEc5YCypvMZ5kjaTMp",
+                        "name": "Drapht"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "AUOB10800396",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:12UWCmtVA67ovsnicQR502",
+                "length": 220.297,
+                "name": "Falling",
+                "popularity": "0.30427",
+                "track-number": "2"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:1FSp9oEY65IrjgYtdjWZu4"
     }
 ]

@@ -162,3 +162,35 @@
 7. Seether - Fake It
 8. Saliva - Always
 9. Stone Sour - Bother
+
+
+[Hoodies](http://open.spotify.com/user/1166776863/playlist/1FSp9oEY65IrjgYtdjWZu4)
+---------
+
+1. Drapht - Rapunzel
+2. Bliss n Eso - Blazin'
+3. Bliss n Eso - Happy In MY Hoody
+4. Bliss n Eso - Up Jumped The Boogie
+5. Bliss n Eso - Party At My Place
+6. Drapht - Where Ya From
+7. Drapht - Sing It (The Life of Riley)
+8. Bliss n Eso - Down By The River
+9. Bliss n Eso - Where The Wild Things Are(feat: Mind Over Matter)
+10. Drapht - Jimmy Recard
+11. Bliss n Eso - Coppin' It Sweet
+12. Drapht - Put On A Record
+13. Linkin Park - Nobody's Listening
+14. Fort Minor - Kenji
+15. Sofa, O.S.T.R. - Affairz (feat. O.S.T.R.)
+16. Drapht, Urthboy, Mantra - We Own the Night
+17. Bliss n Eso - Royal Flush
+18. Bliss n Eso - Family Affair
+19. Drapht - People Don't Know
+20. Bliss n Eso - This Is For You
+21. Drapht - Won't Listen When
+22. Bliss n Eso - Addicted
+23. Bliss n Eso - Art House Audio
+24. Bliss n Eso - Good Morning Australia
+25. Drapht - Good Morning
+26. Bliss n Eso - Late One Night
+27. Drapht - Falling
