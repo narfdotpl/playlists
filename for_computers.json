@@ -4109,5 +4109,98 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:1FSp9oEY65IrjgYtdjWZu4"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/0CHRO5pjeKOdJf5Hr4fAZk",
+        "name": "Watch Out, Mom!",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:08P1QzWSf6QsxoyLKtf8XD",
+                    "name": "Ready To Go",
+                    "released": "2013"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb",
+                        "name": "Limp Bizkit"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USCM51300339",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6UHMkQUSqFhyBLHQcY9y4T",
+                "length": 361.741,
+                "name": "Ready To Go",
+                "popularity": "0.57883",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2l6mZS1RQM7PQAEeaCR3Um",
+                    "name": "You Want Some Of This?",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:0ru4hXR4RJY1mikvbQKgWa",
+                        "name": "Jon Lajoie"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USTC80923149",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2KldK81uQyPpbJLwEekaLQ",
+                "length": 201.734,
+                "name": "Everyday Normal Guy",
+                "popularity": "0.49031",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:7veX7LL21NWpbqTOqFX0Vw",
+                    "name": "Love Mugen",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:5PRPuZbf1ia2JcLdxBxtXB",
+                        "name": "Kyo Itachi"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USA8Y1010362",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0WB9HrYWOfyGSii6NFzEAS",
+                "length": 165.889,
+                "name": "Andromede Vibes - Ode To Samurai Champloo",
+                "popularity": "0.36432",
+                "track-number": "3"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:0CHRO5pjeKOdJf5Hr4fAZk"
     }
 ]
