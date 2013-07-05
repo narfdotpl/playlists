@@ -161,7 +161,8 @@
 6. Guano Apes - You Can't Stop Me
 7. Seether - Fake It
 8. Saliva - Always
-9. Stone Sour - Bother
+9. 3 Doors Down - When I'm Gone
+10. Stone Sour - Bother
 
 
 [Hoodies](http://open.spotify.com/user/1166776863/playlist/1FSp9oEY65IrjgYtdjWZu4)

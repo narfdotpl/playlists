@@ -3276,6 +3276,40 @@
             },
             {
                 "album": {
+                    "href": "spotify:album:3vF6tOBY8xo3X2o1retYxS",
+                    "name": "Away From The Sun",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:2RTUTCvo6onsAnheUk3aL9",
+                        "name": "3 Doors Down"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LT LV MY NL NO NZ PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USUR10200759",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1Nuqm2gavvcmZtEFWvbDbK",
+                "length": 260.795,
+                "name": "When I'm Gone",
+                "popularity": "0.60741",
+                "redirects": [
+                    "spotify:track:5S9kO53GQVMhr04fRyKRIm",
+                    "spotify:track:6Sy4sXSbqScJkCecpHJ3UN",
+                    "spotify:track:1Cv6O7sCrXVUTz3uizb0NJ",
+                    "spotify:track:0Pw7yUcLh3nIpPuK73Ueef"
+                ],
+                "track-number": "1"
+            },
+            {
+                "album": {
                     "href": "spotify:album:5KTvCRHj0TC6D5IU9TI85F",
                     "name": "Stone Sour",
                     "released": "2002"
