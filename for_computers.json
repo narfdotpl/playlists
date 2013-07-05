@@ -16,7 +16,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -28,7 +28,7 @@
                 "href": "spotify:track:0Le202Yj1zphNm3QyfN1sB",
                 "length": 410.239,
                 "name": "Mouth Of Ghosts",
-                "popularity": "0.34867",
+                "popularity": "0.34921",
                 "track-number": "13"
             },
             {
@@ -44,7 +44,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -56,7 +56,7 @@
                 "href": "spotify:track:3muqbu7Pc3iwtafZc6Oymw",
                 "length": 194.125,
                 "name": "Danger - Keep Away",
-                "popularity": "0.44818",
+                "popularity": "0.45575",
                 "redirects": [
                     "spotify:track:6fGUro5hEugGVVqpaubKwG"
                 ],
@@ -75,7 +75,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -87,7 +87,7 @@
                 "href": "spotify:track:3RptaQ5Xb8WvtpItZ2f9Hi",
                 "length": 276.456,
                 "name": "Snuff",
-                "popularity": "0.50431",
+                "popularity": "0.50932",
                 "track-number": "11"
             },
             {
@@ -103,7 +103,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FO FR GB GF GI GL GR HR HU IE IS IT KY LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM TR UA US VA VG"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -115,7 +115,7 @@
                 "href": "spotify:track:5aUtonvQxGEL8T1rKI3J01",
                 "length": 235.095,
                 "name": "Darkness",
-                "popularity": "0.38681",
+                "popularity": "0.38989",
                 "redirects": [
                     "spotify:track:5cZ6cZaH9D44Zghuv7WslV"
                 ],
@@ -134,7 +134,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AT AU BE CH CN CZ DK EE ES FI FR GB HK HR HU IE IN IS IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                    "territories": "AT AU BE CH DK EE ES FI FR GB HK IE IS IT LT LV MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -146,7 +146,7 @@
                 "href": "spotify:track:3KnMPlQpxTGSXpGL7VQYAa",
                 "length": 203.564,
                 "name": "Count To Six And Die (The Vacuum Of Infinite Space Encompassing)",
-                "popularity": "0.26063",
+                "popularity": "0.26513",
                 "redirects": [
                     "spotify:track:1jYhhiAxQZfhGzQLY2w49k",
                     "spotify:track:6auJii7mOsNWtXL98eUEDR",
@@ -174,7 +174,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                    "territories": "AT AU BE CH DE DK ES FI FR GB HK IE IT MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "explicit": true,
@@ -187,7 +187,7 @@
                 "href": "spotify:track:3ne6tgtarLRGXs5C6CeOZf",
                 "length": 356.381,
                 "name": "Space Lord",
-                "popularity": "0.53289",
+                "popularity": "0.53933",
                 "track-number": "5"
             },
             {
@@ -203,7 +203,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -215,7 +215,7 @@
                 "href": "spotify:track:2GRMtlOgU1IMfg5EEiboTL",
                 "length": 351.1,
                 "name": "Electric Worry (Live)",
-                "popularity": "0.53334",
+                "popularity": "0.53880",
                 "track-number": "14"
             },
             {
@@ -244,7 +244,7 @@
                 "href": "spotify:track:3ZBsNNMRzXFAeWIJ4yfrPw",
                 "length": 340.825,
                 "name": "Beast",
-                "popularity": "0.22187",
+                "popularity": "0.20186",
                 "redirects": [
                     "spotify:track:7fSd1dMfhniNnZJ0R9Pm2x"
                 ],
@@ -263,7 +263,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -275,7 +275,7 @@
                 "href": "spotify:track:2L1Fopvkm0yPiDf67sMscY",
                 "length": 182.962,
                 "name": "Shift Kicker",
-                "popularity": "0.41187",
+                "popularity": "0.41763",
                 "track-number": "2"
             },
             {
@@ -291,7 +291,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -303,7 +303,7 @@
                 "href": "spotify:track:22EXrfNV0f9ZcWMpK2lF67",
                 "length": 172.87,
                 "name": "The New Black",
-                "popularity": "0.46798",
+                "popularity": "0.47207",
                 "track-number": "6"
             },
             {
@@ -319,7 +319,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -331,7 +331,7 @@
                 "href": "spotify:track:5v3TK5H6rxRhwSiXERpB28",
                 "length": 128.449,
                 "name": "Wolf Cub",
-                "popularity": "0.11133",
+                "popularity": "0.12295",
                 "track-number": "1"
             },
             {
@@ -347,7 +347,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -359,7 +359,7 @@
                 "href": "spotify:track:2fvHpEsEJL515BfVBTKX2a",
                 "length": 280.822,
                 "name": "Lucky Dutch",
-                "popularity": "0.40440",
+                "popularity": "0.40631",
                 "track-number": "3"
             },
             {
@@ -375,7 +375,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                    "territories": "AT AU BE CH DE DK ES FI FR GB HK IE IT MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -387,7 +387,7 @@
                 "href": "spotify:track:6nlBjN8FPRXyii6P1yRosG",
                 "length": 307.333,
                 "name": "Atomic Clock",
-                "popularity": "0.31264",
+                "popularity": "0.31863",
                 "track-number": "7"
             },
             {
@@ -403,7 +403,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -415,7 +415,7 @@
                 "href": "spotify:track:3vUxHAIdQIDOlfPvRYsiVf",
                 "length": 476.281,
                 "name": "Last Curfew",
-                "popularity": "0.36129",
+                "popularity": "0.36659",
                 "track-number": "1"
             },
             {
@@ -431,7 +431,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                    "territories": "AT AU BE CH DE DK ES FI FR GB HK IE IT MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -443,7 +443,7 @@
                 "href": "spotify:track:2iHF5jU01STCodoHfSPYLH",
                 "length": 345.374,
                 "name": "Melt",
-                "popularity": "0.33187",
+                "popularity": "0.33286",
                 "track-number": "4"
             },
             {
@@ -459,7 +459,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                    "territories": "AT AU BE CH DE DK ES FI FR GB HK IE IT MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -471,7 +471,7 @@
                 "href": "spotify:track:1HWd9NWladOfRFzL4tcemj",
                 "length": 299.333,
                 "name": "Silver Future",
-                "popularity": "0.27821",
+                "popularity": "0.28675",
                 "track-number": "12"
             },
             {
@@ -487,7 +487,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AT AU BE CH CN CZ DE DK ES FI FR GB HK HR HU IE IN IT MY NL NO NZ PL PT RU SE SG SK TH TW ZA"
+                    "territories": "AT AU BE CH DE DK ES FI FR GB HK IE IT MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "explicit": true,
@@ -500,7 +500,7 @@
                 "href": "spotify:track:3azSRGmcZSaSZVV3Izg4Tg",
                 "length": 212.244,
                 "name": "Powertrip",
-                "popularity": "0.49900",
+                "popularity": "0.50471",
                 "track-number": "6"
             },
             {
@@ -516,7 +516,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -528,7 +528,7 @@
                 "href": "spotify:track:23JiM1Bl7SxamhXtdXFBr6",
                 "length": 450.398,
                 "name": "Desert Cruiser",
-                "popularity": "0.45534",
+                "popularity": "0.46418",
                 "track-number": "1"
             },
             {
@@ -544,7 +544,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CL CM CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -556,7 +556,7 @@
                 "href": "spotify:track:1Qdnvn4XlmZANCVy3XjrQo",
                 "length": 278.155,
                 "name": "Show Me How To Live",
-                "popularity": "0.65382",
+                "popularity": "0.65727",
                 "redirects": [
                     "spotify:track:5ZxaSlPGLpbbsEXyNGSIrp",
                     "spotify:track:7yluNX1ksqHHj3rqH4fo1k",
@@ -577,7 +577,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AT AU BE CH CZ DE DK ES FI GB HK HR IL IN IT LI LU MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                    "territories": "AD AT AU BE CH DE DK ES FI GB HK IT LI LU MC MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -589,7 +589,7 @@
                 "href": "spotify:track:2GClIkNR8dP3E2jZEklaZE",
                 "length": 241.265,
                 "name": "Auto Pilot",
-                "popularity": "0.52983",
+                "popularity": "0.52782",
                 "track-number": "4"
             },
             {
@@ -605,7 +605,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -617,7 +617,7 @@
                 "href": "spotify:track:3UkYt4eZbCZAWVHwung7zn",
                 "length": 508.884,
                 "name": "Altered State",
-                "popularity": "0.28291",
+                "popularity": "0.28927",
                 "track-number": "13"
             }
         ],
@@ -640,7 +640,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AL AM AN AO AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BO BR BS BT BW BY BZ CA CC CF CG CH CL CM CN CO CR CU CX CY CZ DE DJ DK DM DO DZ EC EE EG ER ES ET FI FJ FK FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GT GW GY HK HM HN HR HT HU ID IE IL IM IN IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MK ML MN MO MQ MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PR PT PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TM TN TR TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -652,7 +652,7 @@
                 "href": "spotify:track:4IwnNqIML38mYMXGKVsScD",
                 "length": 308.143,
                 "name": "Voodoo People (Pendulum Mix)",
-                "popularity": "0.63049",
+                "popularity": "0.63411",
                 "track-number": "3"
             },
             {
@@ -668,7 +668,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -681,7 +681,7 @@
                 "href": "spotify:track:7MtcHoqyYMFue7J8pmXZ8a",
                 "length": 206.989,
                 "name": "Bad Motherfucker",
-                "popularity": "0.54119",
+                "popularity": "0.53961",
                 "track-number": "1"
             },
             {
@@ -701,7 +701,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -714,7 +714,7 @@
                 "href": "spotify:track:1cflU1Z14wbWK20b3LoWzy",
                 "length": 275.332,
                 "name": "Lost Weekend",
-                "popularity": "0.42695",
+                "popularity": "0.43476",
                 "track-number": "2"
             },
             {
@@ -730,7 +730,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -742,7 +742,7 @@
                 "href": "spotify:track:5HJek8cnHgsGwNi4LAgzQX",
                 "length": 132.946,
                 "name": "Staring At The Sun",
-                "popularity": "0.64108",
+                "popularity": "0.64467",
                 "track-number": "3"
             },
             {
@@ -758,7 +758,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -770,7 +770,7 @@
                 "href": "spotify:track:4ro5roa4DG0J6no8tDDi5i",
                 "length": 270.05,
                 "name": "Stompbox",
-                "popularity": "0.45597",
+                "popularity": "0.46704",
                 "track-number": "1"
             },
             {
@@ -786,7 +786,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB IE IS LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -798,7 +798,7 @@
                 "href": "spotify:track:3texlpoI2o4DydGUr3pXi5",
                 "length": 264.664,
                 "name": "Before I Forget",
-                "popularity": "0.49556",
+                "popularity": "0.50376",
                 "track-number": "14"
             },
             {
@@ -814,7 +814,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AL AM AN AO AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BO BR BS BT BW BY BZ CA CC CF CG CH CL CM CN CO CR CU CX CY CZ DE DJ DK DM DO DZ EC EE EG ER ES ET FI FJ FK FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GW GY HK HM HN HR HT HU ID IE IL IN IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MK ML MN MO MQ MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PR PT PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TM TN TR TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE ZA ZM ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -826,7 +826,7 @@
                 "href": "spotify:track:1dWteEXxzhg5xGNZZ6dJQX",
                 "length": 387.467,
                 "name": "Voodoo People (Remastered)",
-                "popularity": "0.41906",
+                "popularity": "0.42512",
                 "track-number": "5"
             }
         ],
@@ -857,7 +857,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "explicit": true,
@@ -870,7 +870,7 @@
                 "href": "spotify:track:2D3rFGmbygUZ0167aBjnxn",
                 "length": 203.224,
                 "name": "Can't Keep Me Down",
-                "popularity": "0.60672",
+                "popularity": "0.60993",
                 "track-number": "4"
             },
             {
@@ -890,7 +890,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GE GF GG GI GL GP GR GS HR HU IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR IS IT LI LT LU LV MC NL NO NZ PL PT SE"
                 },
                 "available": true,
                 "external-ids": [
@@ -902,7 +902,7 @@
                 "href": "spotify:track:6AbVJjzv7thIvmMCuhZrmK",
                 "length": 213.943,
                 "name": "Make It Bun Dem",
-                "popularity": "0.78162",
+                "popularity": "0.78421",
                 "track-number": "1"
             },
             {
@@ -918,7 +918,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -930,7 +930,7 @@
                 "href": "spotify:track:0QIYINh2AwmOmdu8CRYvlw",
                 "length": 272.377,
                 "name": "Bonfire",
-                "popularity": "0.77483",
+                "popularity": "0.77802",
                 "track-number": "3"
             },
             {
@@ -950,7 +950,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -962,7 +962,7 @@
                 "href": "spotify:track:0f7eslXohKBikCWrZBnZwk",
                 "length": 245.631,
                 "name": "Endurance",
-                "popularity": "0.20526",
+                "popularity": "0.21030",
                 "track-number": "2"
             }
         ],
@@ -985,7 +985,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AL AM AN AO AQ AT AZ BA BE BF BG BI BJ BT BW BY CA CD CF CG CH CI CM CU CV CY CZ DE DJ DK DZ EE EH ER ES ET FI FK FO FR GA GB GE GH GI GL GM GN GQ GR GU GW HR HU IE IL IO IS IT KE KG KM KZ LI LR LS LT LU LV LY MA MC MD ME MG MK ML MN MP MR MT MU MW MZ NA NC NE NG NL NO NU PF PL PN PT RE RO RS RU RW SC SD SE SH SI SK SL SM SN SO ST SZ TD TF TG TJ TK TM TR TZ UA UG UZ VA WF YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE"
                 },
                 "available": true,
                 "explicit": true,
@@ -998,7 +998,7 @@
                 "href": "spotify:track:2oUnALmrZdI0U4fME9pqiH",
                 "length": 221.133,
                 "name": "Redneck",
-                "popularity": "0.26985",
+                "popularity": "0.27898",
                 "track-number": "3"
             },
             {
@@ -1014,7 +1014,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1026,7 +1026,7 @@
                 "href": "spotify:track:7d6V9VE4pV1mXsMbO1WF1V",
                 "length": 227.669,
                 "name": "Dark Helmet",
-                "popularity": "0.28521",
+                "popularity": "0.28823",
                 "track-number": "3"
             },
             {
@@ -1042,7 +1042,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB IE IS LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "explicit": true,
@@ -1055,7 +1055,7 @@
                 "href": "spotify:track:0YbUPhJ1hcFDsUV3U7kQ5k",
                 "length": 159.954,
                 "name": "Spit It Out",
-                "popularity": "0.51095",
+                "popularity": "0.51703",
                 "track-number": "4"
             },
             {
@@ -1071,7 +1071,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1083,7 +1083,7 @@
                 "href": "spotify:track:22koV9Br3DHgP6h51G0az2",
                 "length": 262.285,
                 "name": "Four Elements",
-                "popularity": "0.15305",
+                "popularity": "0.15908",
                 "redirects": [
                     "spotify:track:6Y86bmum5FdZrUKlpv5Aij",
                     "spotify:track:27o8hPkA0Punkdn24Zi0sA",
@@ -1104,7 +1104,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB IE IS LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1116,7 +1116,7 @@
                 "href": "spotify:track:7wO8F8oAZUU719e3CEOLEj",
                 "length": 252.899,
                 "name": "Duality",
-                "popularity": "0.49836",
+                "popularity": "0.50795",
                 "track-number": "13"
             },
             {
@@ -1132,7 +1132,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AG AI AL AM AN AO AQ AR AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH ML MN MO MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PN PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -1144,7 +1144,7 @@
                 "href": "spotify:track:5pJ23eUIq8H83mQUUJbICk",
                 "length": 197.524,
                 "name": "Step Up",
-                "popularity": "0.50277",
+                "popularity": "0.50910",
                 "track-number": "2"
             },
             {
@@ -1160,7 +1160,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1172,7 +1172,7 @@
                 "href": "spotify:track:1QixTwDZCcfBzA7QMyont0",
                 "length": 195.877,
                 "name": "Halo",
-                "popularity": "0.57619",
+                "popularity": "0.58111",
                 "track-number": "2"
             },
             {
@@ -1188,7 +1188,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA VA VG WF YT"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB IE IS IT LT LU LV MC NL NO NZ PL PT SE"
                 },
                 "available": true,
                 "external-ids": [
@@ -1200,7 +1200,7 @@
                 "href": "spotify:track:3Kjn1rP9M8u8YQWd30RfSO",
                 "length": 229.63,
                 "name": "To The End",
-                "popularity": "0.40051",
+                "popularity": "0.40468",
                 "track-number": "12"
             },
             {
@@ -1216,7 +1216,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1228,7 +1228,7 @@
                 "href": "spotify:track:4SpyRye60emFFxacJhwlW6",
                 "length": 227.643,
                 "name": "Red Harvest",
-                "popularity": "0.31301",
+                "popularity": "0.32059",
                 "track-number": "2"
             },
             {
@@ -1244,7 +1244,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB IE IS LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1256,7 +1256,7 @@
                 "href": "spotify:track:3texlpoI2o4DydGUr3pXi5",
                 "length": 264.664,
                 "name": "Before I Forget",
-                "popularity": "0.49556",
+                "popularity": "0.50376",
                 "track-number": "14"
             },
             {
@@ -1272,7 +1272,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1284,7 +1284,7 @@
                 "href": "spotify:track:2nEql85VIJw8u0Siw3bdBu",
                 "length": 137.13,
                 "name": "As Diehard As They Come",
-                "popularity": "0.36118",
+                "popularity": "0.36431",
                 "redirects": [
                     "spotify:track:797pM06PZbFWbKeqV3zOPO"
                 ],
@@ -1303,7 +1303,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -1316,7 +1316,7 @@
                 "href": "spotify:track:0lCwaZYSRy6q0jLmnYiQxi",
                 "length": 230.493,
                 "name": "Laid To Rest",
-                "popularity": "0.59849",
+                "popularity": "0.60234",
                 "redirects": [
                     "spotify:track:6FYmmrLhCG6gLOI3z4C957",
                     "spotify:track:3HAyJqYeR9n8QbpBDAHAih"
@@ -1336,7 +1336,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB IE IS LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "explicit": true,
@@ -1349,7 +1349,7 @@
                 "href": "spotify:track:6dBYrgbtKnUH0kXTsuv6Wq",
                 "length": 200.165,
                 "name": "(sic)",
-                "popularity": "0.51881",
+                "popularity": "0.52790",
                 "track-number": "1"
             },
             {
@@ -1365,7 +1365,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1377,7 +1377,7 @@
                 "href": "spotify:track:6VOM9VW2HspbL77jPEaBxW",
                 "length": 237.971,
                 "name": "Dead Man Walking",
-                "popularity": "0.42135",
+                "popularity": "0.42706",
                 "track-number": "4"
             },
             {
@@ -1393,7 +1393,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB IE IS LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1405,7 +1405,7 @@
                 "href": "spotify:track:2OabutYqS7EZwJwAaRM6PF",
                 "length": 148.006,
                 "name": "Wait And Bleed",
-                "popularity": "0.52255",
+                "popularity": "0.53174",
                 "track-number": "3"
             },
             {
@@ -1421,7 +1421,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1433,7 +1433,7 @@
                 "href": "spotify:track:4TOZ8TuZQRMEgJjNsgewg2",
                 "length": 235.539,
                 "name": "Milk Lizard",
-                "popularity": "0.50117",
+                "popularity": "0.50241",
                 "track-number": "9"
             }
         ],
@@ -1456,7 +1456,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1468,7 +1468,7 @@
                 "href": "spotify:track:48n92l7OnLEURhalUBtsl7",
                 "length": 326.262,
                 "name": "We Can Make The World Stop",
-                "popularity": "0.73409",
+                "popularity": "0.73591",
                 "track-number": "1"
             },
             {
@@ -1484,7 +1484,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1496,7 +1496,7 @@
                 "href": "spotify:track:1P0wLge0z6CiDMztVH0q9i",
                 "length": 533.225,
                 "name": "High School Art Class",
-                "popularity": "0.57247",
+                "popularity": "0.57845",
                 "track-number": "1"
             },
             {
@@ -1516,7 +1516,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AL BA BE BG BH CY CZ DK EE ES FI FO FR GB GI GR HR HU IE IL IQ IR IS IT JO KW LB LI LT LU LV MC ME MT NL NO OM PL PT QA RO RS SA SE SI SK SM SY TR UA YE ZA"
+                    "territories": "AD BE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE"
                 },
                 "available": true,
                 "external-ids": [
@@ -1528,7 +1528,7 @@
                 "href": "spotify:track:48mZ0CGCffjH49h5lAPTIe",
                 "length": 262.521,
                 "name": "Derezzed (Remixed By The Glitch Mob)",
-                "popularity": "0.66119",
+                "popularity": "0.65629",
                 "track-number": "1"
             },
             {
@@ -1544,7 +1544,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH ML MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1556,7 +1556,7 @@
                 "href": "spotify:track:2LCIunS81ISzaUg47Bmalx",
                 "length": 315.176,
                 "name": "Block Rockin' Beats",
-                "popularity": "0.47349",
+                "popularity": "0.47778",
                 "redirects": [
                     "spotify:track:6fzWjCJy1XWwbOr9fj7rYk",
                     "spotify:track:3qhhfxSNW5Nt0paWOtZ6mk"
@@ -1576,7 +1576,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1588,7 +1588,7 @@
                 "href": "spotify:track:54Og8bEQGpIm2IeZ04D1FK",
                 "length": 315.804,
                 "name": "Total Fascination",
-                "popularity": "0.60955",
+                "popularity": "0.61536",
                 "track-number": "5"
             },
             {
@@ -1604,7 +1604,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH ML MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1616,7 +1616,7 @@
                 "href": "spotify:track:3H3cOQ6LBLSvmcaV7QkZEu",
                 "length": 207.773,
                 "name": "Aerodynamic",
-                "popularity": "0.71586",
+                "popularity": "0.71052",
                 "redirects": [
                     "spotify:track:1e6ikgxjrK4cziO6vpzpHb",
                     "spotify:track:52FgWiSzmlJmqZlPFQhEJy"
@@ -1636,7 +1636,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AL BA BG BH CY CZ DK EE ES FI FO FR GB GI GR HR HU IE IL IQ IR IS IT JO KW LB LI LT LV MC ME MT NL NO OM PL PT QA RO RS SA SE SI SK SM SY TR UA YE ZA"
+                    "territories": "AD DK EE ES FI FR GB IE IS IT LI LT LV MC NL NO PL PT SE"
                 },
                 "available": true,
                 "external-ids": [
@@ -1648,7 +1648,7 @@
                 "href": "spotify:track:5aZCwTIsfqv22p5bewcrgf",
                 "length": 104.265,
                 "name": "Derezzed",
-                "popularity": "0.63663",
+                "popularity": "0.63423",
                 "track-number": "13"
             },
             {
@@ -1664,7 +1664,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1676,7 +1676,7 @@
                 "href": "spotify:track:3B7xeHyUY0ClCKAmeKNH1E",
                 "length": 331.674,
                 "name": "Still Night",
-                "popularity": "0.60706",
+                "popularity": "0.60986",
                 "track-number": "1"
             }
         ],
@@ -1699,7 +1699,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -1711,7 +1711,7 @@
                 "href": "spotify:track:5D1eaML0qst8jrxB5GRugn",
                 "length": 219.12,
                 "name": "I Don't Care",
-                "popularity": "0.55801",
+                "popularity": "0.56131",
                 "track-number": "12"
             },
             {
@@ -1727,7 +1727,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1739,7 +1739,7 @@
                 "href": "spotify:track:1LkoYGxmYpO6QSEvY5C0Zl",
                 "length": 175.406,
                 "name": "Scotty Doesn't Know",
-                "popularity": "0.65230",
+                "popularity": "0.65549",
                 "track-number": "2"
             },
             {
@@ -1768,7 +1768,7 @@
                 "href": "spotify:track:1b7W82wt7cFgOQQ5XVKKoN",
                 "length": 217.002,
                 "name": "She Hates Me",
-                "popularity": "0.09459",
+                "popularity": "0.06847",
                 "track-number": "1"
             },
             {
@@ -1784,7 +1784,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "BE CH CZ DE DK EE ES FI FR GB HU IE IS IT LT LV NL NO PL PT SE SK"
+                    "territories": "BE CH DE DK EE ES FI FR GB IE IS IT LT LV NL NO PL PT SE"
                 },
                 "available": true,
                 "external-ids": [
@@ -1796,7 +1796,7 @@
                 "href": "spotify:track:1bCmvezFg5MRcENzCGG1Cy",
                 "length": 215.564,
                 "name": "Chelsea Dagger",
-                "popularity": "0.55948",
+                "popularity": "0.55889",
                 "redirects": [
                     "spotify:track:4ckM6OsyZuOK50okobsj8S"
                 ],
@@ -1815,7 +1815,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -1827,7 +1827,7 @@
                 "href": "spotify:track:4AfoSbXgn3O9sD8XbiHiNq",
                 "length": 181.654,
                 "name": "Dance, Dance",
-                "popularity": "0.53736",
+                "popularity": "0.53894",
                 "track-number": "5"
             },
             {
@@ -1843,7 +1843,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "explicit": true,
@@ -1856,7 +1856,7 @@
                 "href": "spotify:track:5FbMKftNTXCKiBYSf0TQrs",
                 "length": 203.668,
                 "name": "Na Na Na [Na Na Na Na Na Na Na Na Na]",
-                "popularity": "0.67051",
+                "popularity": "0.67369",
                 "track-number": "1"
             },
             {
@@ -1872,7 +1872,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -1884,7 +1884,7 @@
                 "href": "spotify:track:0263Q0WRYFVGUEWZ03LNAr",
                 "length": 208.505,
                 "name": "Thnks fr th Mmrs",
-                "popularity": "0.58607",
+                "popularity": "0.58768",
                 "track-number": "8"
             },
             {
@@ -1900,7 +1900,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IS IT LI LT LV MC MY NL NO NZ PL PT RU SE SG SK TR TW UA ZA"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LV MC MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -1912,7 +1912,7 @@
                 "href": "spotify:track:6A5M31nKvt6GYaGL7XpX2w",
                 "length": 206.832,
                 "name": "Miss Murder",
-                "popularity": "0.57655",
+                "popularity": "0.58124",
                 "redirects": [
                     "spotify:track:08CT8t3bO7xGKCjZait7ZP"
                 ],
@@ -1931,7 +1931,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1943,7 +1943,7 @@
                 "href": "spotify:track:56sk7jBpZV0CD31G9hEU3b",
                 "length": 231.67,
                 "name": "Animal I Have Become",
-                "popularity": "0.72119",
+                "popularity": "0.72416",
                 "track-number": "3"
             },
             {
@@ -1959,7 +1959,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AT AU BE CH CZ DE DK EE FI FR GB HR IE IL IN IS IT LT LU LV NL NO NZ PL PT RU SE SG SK TR TW UA ZA"
+                    "territories": "AT AU BE CH DE DK EE FI FR GB IE IS IT LT LU LV NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "explicit": true,
@@ -1972,7 +1972,7 @@
                 "href": "spotify:track:50kypkfAkqg0d2YXQwe7mt",
                 "length": 181.471,
                 "name": "...To Be Loved",
-                "popularity": "0.56946",
+                "popularity": "0.58242",
                 "track-number": "8"
             },
             {
@@ -1988,7 +1988,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -2000,7 +2000,7 @@
                 "href": "spotify:track:0vEqw7o97NVkzhfX0oUdA7",
                 "length": 213.525,
                 "name": "This Ain't A Scene, It's An Arms Race",
-                "popularity": "0.57092",
+                "popularity": "0.57190",
                 "track-number": "7"
             }
         ],
@@ -2023,7 +2023,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2035,7 +2035,7 @@
                 "href": "spotify:track:5Nn2Dj7OQsGL6pgQ9iIzPp",
                 "length": 318.262,
                 "name": "Ghostwriter",
-                "popularity": "0.71650",
+                "popularity": "0.71558",
                 "track-number": "6"
             },
             {
@@ -2051,7 +2051,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2063,7 +2063,7 @@
                 "href": "spotify:track:7Cg3F9ZsZ2TYUnlza49NYh",
                 "length": 238.101,
                 "name": "Kong",
-                "popularity": "0.65102",
+                "popularity": "0.65184",
                 "track-number": "3"
             },
             {
@@ -2079,7 +2079,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2091,7 +2091,7 @@
                 "href": "spotify:track:4XC3MjxO8z5SYzaIWgBNG1",
                 "length": 316.118,
                 "name": "Storm Returns (A Prefuse/Tommy Guerrero Interlude)",
-                "popularity": "0.47308",
+                "popularity": "0.48023",
                 "track-number": "19"
             },
             {
@@ -2107,7 +2107,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2119,7 +2119,7 @@
                 "href": "spotify:track:6bwcWOibIUyOJQ2FgMbeIH",
                 "length": 224.558,
                 "name": "El Toro",
-                "popularity": "0.60343",
+                "popularity": "0.60379",
                 "track-number": "5"
             },
             {
@@ -2135,7 +2135,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2147,7 +2147,7 @@
                 "href": "spotify:track:0DjzUUdiltvAnYSwdhTbms",
                 "length": 198.283,
                 "name": "Perverted Undertone",
-                "popularity": "0.44321",
+                "popularity": "0.44316",
                 "track-number": "16"
             },
             {
@@ -2167,7 +2167,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2179,7 +2179,7 @@
                 "href": "spotify:track:0XiHcuUEf1wmvmX1cOaVR9",
                 "length": 326.576,
                 "name": "Eyesdown",
-                "popularity": "0.61753",
+                "popularity": "0.61855",
                 "track-number": "4"
             },
             {
@@ -2195,7 +2195,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2207,7 +2207,7 @@
                 "href": "spotify:track:2vfUiPmBnOaOEIX6DerOFc",
                 "length": 284.718,
                 "name": "Turtle Soup",
-                "popularity": "0.35354",
+                "popularity": "0.35816",
                 "track-number": "4"
             },
             {
@@ -2223,7 +2223,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2235,7 +2235,7 @@
                 "href": "spotify:track:09aNhXGvfo8wAhUxcsDFlZ",
                 "length": 147.483,
                 "name": "1976",
-                "popularity": "0.58969",
+                "popularity": "0.59626",
                 "track-number": "3"
             },
             {
@@ -2251,7 +2251,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2263,7 +2263,7 @@
                 "href": "spotify:track:7u7qoYoCxbMyugDea70cLh",
                 "length": 241.552,
                 "name": "1 bit Blues - 10,000 miles",
-                "popularity": "0.40262",
+                "popularity": "0.41686",
                 "track-number": "1"
             },
             {
@@ -2279,7 +2279,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2291,7 +2291,7 @@
                 "href": "spotify:track:2C1nOw1nRxJaBWb9I1x05A",
                 "length": 266.495,
                 "name": "Smoke & Mirrors",
-                "popularity": "0.61717",
+                "popularity": "0.62295",
                 "track-number": "3"
             }
         ],
@@ -2314,7 +2314,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2326,7 +2326,7 @@
                 "href": "spotify:track:18SBAnCjYQHI01roOFxmPv",
                 "length": 362.708,
                 "name": "Bystander",
-                "popularity": "0.16771",
+                "popularity": "0.17612",
                 "track-number": "12"
             },
             {
@@ -2342,7 +2342,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2354,7 +2354,7 @@
                 "href": "spotify:track:51c94ac31swyDQj9B3Lzs3",
                 "length": 299.856,
                 "name": "Change [In The House Of Flies]",
-                "popularity": "0.63836",
+                "popularity": "0.64139",
                 "track-number": "11"
             },
             {
@@ -2370,7 +2370,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2382,7 +2382,7 @@
                 "href": "spotify:track:5zFalOg043nNnRYtU7TS1T",
                 "length": 244.559,
                 "name": "Minus Blindfold",
-                "popularity": "0.43364",
+                "popularity": "0.43599",
                 "redirects": [
                     "spotify:track:0WfH5H3m5EyvP00lwb7iJZ"
                 ],
@@ -2401,7 +2401,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH ML MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -2414,7 +2414,7 @@
                 "href": "spotify:track:2KSaLYsC5rqDDzYOWCglVe",
                 "length": 255.043,
                 "name": "Liar",
-                "popularity": "0.43796",
+                "popularity": "0.44265",
                 "track-number": "11"
             },
             {
@@ -2430,7 +2430,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FO FR GF GI GL GR HR HU IE IS IT KY LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM TR UA US VA VG"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR IE IS IT LI LT LU LV MC NL NO PL PT SE US"
                 },
                 "available": true,
                 "explicit": true,
@@ -2443,7 +2443,7 @@
                 "href": "spotify:track:5irCAOBSFNzRKe2bJQQ1CA",
                 "length": 156.346,
                 "name": "Bruises",
-                "popularity": "0.38035",
+                "popularity": "0.38290",
                 "track-number": "8"
             },
             {
@@ -2459,7 +2459,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2471,7 +2471,7 @@
                 "href": "spotify:track:7gTJ8VCvaguiFUeEDsG93w",
                 "length": 176.138,
                 "name": "A Better Man Than Me",
-                "popularity": "0.27514",
+                "popularity": "0.28127",
                 "track-number": "7"
             },
             {
@@ -2487,7 +2487,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2499,7 +2499,7 @@
                 "href": "spotify:track:78SOBkauu6CnXV2OtpDrHK",
                 "length": 272.56,
                 "name": "Rot",
-                "popularity": "0.44086",
+                "popularity": "0.44545",
                 "track-number": "8"
             }
         ],
@@ -2522,7 +2522,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AT AU BE CH CZ DE DK ES FI FR GB HR HU IE IL IS IT LU NL NO NZ PL PT RU SE SG SK TW UA"
+                    "territories": "AT AU BE CH DE DK ES FI FR GB IE IS IT LU NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -2534,7 +2534,7 @@
                 "href": "spotify:track:6wrdOEEUufGoGshPplymxS",
                 "length": 209.499,
                 "name": "Smooth Criminal",
-                "popularity": "0.61990",
+                "popularity": "0.62343",
                 "track-number": "10"
             },
             {
@@ -2554,7 +2554,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -2566,7 +2566,7 @@
                 "href": "spotify:track:2ds9vlk6o6BRCc2FAkmOvX",
                 "length": 229.656,
                 "name": "Beat It",
-                "popularity": "0.62531",
+                "popularity": "0.62709",
                 "track-number": "11"
             },
             {
@@ -2582,7 +2582,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2594,7 +2594,7 @@
                 "href": "spotify:track:41cWduSCDzGw0oBIMYGokY",
                 "length": 254.363,
                 "name": "Beat It",
-                "popularity": "0.33804",
+                "popularity": "0.34721",
                 "track-number": "2"
             },
             {
@@ -2610,7 +2610,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SK SM TR UA VA"
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE"
                 },
                 "available": true,
                 "external-ids": [
@@ -2622,7 +2622,7 @@
                 "href": "spotify:track:3TaCMKUCKiGsSyhTe1ZgLt",
                 "length": 269.188,
                 "name": "Welcome to the Jungle",
-                "popularity": "0.19553",
+                "popularity": "0.20353",
                 "track-number": "6"
             },
             {
@@ -2638,7 +2638,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AG AI AL AM AN AQ AR AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LT LU LV LY MA MC MD ME MF MG MH ML MN MO MQ MR MS MT MV MX MY NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PN PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VC VE VG VN VU WF WS YE YT ZZ"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -2650,7 +2650,7 @@
                 "href": "spotify:track:2eBcPwPWuJ5AEFrs1Sb4s3",
                 "length": 302.287,
                 "name": "Careless Whisper",
-                "popularity": "0.59012",
+                "popularity": "0.59755",
                 "track-number": "13"
             },
             {
@@ -2666,7 +2666,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -2679,7 +2679,7 @@
                 "href": "spotify:track:2rF1yxzb3jIySvXxqoDrNn",
                 "length": 245.317,
                 "name": "Rebel Yell",
-                "popularity": "0.51924",
+                "popularity": "0.52991",
                 "track-number": "13"
             },
             {
@@ -2695,7 +2695,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2707,7 +2707,7 @@
                 "href": "spotify:track:0Hxty2K8F2DrrCXQyQVpBo",
                 "length": 163.876,
                 "name": "You Spin Me Round (Like A Record)",
-                "popularity": "0.63029",
+                "popularity": "0.63365",
                 "track-number": "14"
             },
             {
@@ -2723,7 +2723,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "CZ HK PL SG SK TH TW ZA"
+                    "territories": "HK PL SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -2735,7 +2735,7 @@
                 "href": "spotify:track:7plOseI79HZ6Jkropa90Yj",
                 "length": 246.938,
                 "name": "Personal Jesus",
-                "popularity": "0.15891",
+                "popularity": "0.17725",
                 "track-number": "2"
             },
             {
@@ -2751,7 +2751,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "CZ HK PL SG SK TH TW ZA"
+                    "territories": "HK PL SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -2763,7 +2763,7 @@
                 "href": "spotify:track:346nfvQvaQgDcnEogShdg4",
                 "length": 291.751,
                 "name": "Sweet Dreams (Are Made Of This) - Album Version (Explicit )",
-                "popularity": "0.16807",
+                "popularity": "0.18132",
                 "track-number": "9"
             },
             {
@@ -2779,7 +2779,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LT LU LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                    "territories": "AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LT LU LV MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -2791,7 +2791,7 @@
                 "href": "spotify:track:3Q8IgbIg5sgm1cq5GeJ54N",
                 "length": 200.662,
                 "name": "Tainted Love",
-                "popularity": "0.50116",
+                "popularity": "0.50637",
                 "redirects": [
                     "spotify:track:6bvhc5WpN1a41cm49Etov0",
                     "spotify:track:3UGooGSeDXZXFrtYeUmQU4"
@@ -2811,7 +2811,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AL AT AU BA BE BG BY CH CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM UA VA"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE"
                 },
                 "available": true,
                 "external-ids": [
@@ -2823,7 +2823,7 @@
                 "href": "spotify:track:3iZvTHIEHd6R8hb2ReiCDR",
                 "length": 314.314,
                 "name": "Angel",
-                "popularity": "0.35723",
+                "popularity": "0.35683",
                 "track-number": "2"
             },
             {
@@ -2839,7 +2839,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AL AT AU BA BE BG BY CH CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM UA VA"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE"
                 },
                 "available": true,
                 "external-ids": [
@@ -2851,7 +2851,7 @@
                 "href": "spotify:track:1eD4hZm6zU8d0CSMCYActp",
                 "length": 275.175,
                 "name": "Bullet The Blue Sky",
-                "popularity": "0.26934",
+                "popularity": "0.27168",
                 "track-number": "6"
             },
             {
@@ -2867,7 +2867,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CF CG CH CI CK CL CM CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HM HN HR HT HU IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC MX NL NO NZ PL PT SE"
                 },
                 "available": true,
                 "external-ids": [
@@ -2879,7 +2879,7 @@
                 "href": "spotify:track:2KWgKzzwFrPPZYkLNJy6qF",
                 "length": 235.487,
                 "name": "Jolene (Live)",
-                "popularity": "0.48005",
+                "popularity": "0.48392",
                 "track-number": "9"
             },
             {
@@ -2895,7 +2895,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH ML MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -2907,7 +2907,7 @@
                 "href": "spotify:track:5z1vCywwTJAP8qSkGJymFY",
                 "length": 231.277,
                 "name": "Creep - Live",
-                "popularity": "0.51061",
+                "popularity": "0.51461",
                 "track-number": "5"
             },
             {
@@ -2923,7 +2923,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -2935,7 +2935,7 @@
                 "href": "spotify:track:2kA0IBd1u0Be6QJE60Ty6F",
                 "length": 270.26,
                 "name": "Behind Blue Eyes",
-                "popularity": "0.69510",
+                "popularity": "0.70185",
                 "redirects": [
                     "spotify:track:4fzJsBnXAkIer4eJIk0xEJ",
                     "spotify:track:4u9E6FhnmarZbMK3xhfJog",
@@ -2959,7 +2959,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -2971,7 +2971,7 @@
                 "href": "spotify:track:57byua1wdKVH3DM7qRoQ6l",
                 "length": 247.226,
                 "name": "Guns Of Brixton",
-                "popularity": "0.49716",
+                "popularity": "0.50411",
                 "track-number": "4"
             },
             {
@@ -2987,7 +2987,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AL AT BA BE BG BY CH CZ DE DK EE ES FI FR GR HR HU IL IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SK SM TR UA VA"
+                    "territories": "AD AT BE CH DE DK EE ES FI FR IS IT LI LT LU LV MC NL NO PL PT SE"
                 },
                 "available": true,
                 "external-ids": [
@@ -2999,7 +2999,7 @@
                 "href": "spotify:track:0ehSg6Qnt2UpGdAYgppcQM",
                 "length": 199.982,
                 "name": "Ever Fallen In Love",
-                "popularity": "0.55296",
+                "popularity": "0.55484",
                 "track-number": "2"
             },
             {
@@ -3015,7 +3015,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -3027,7 +3027,7 @@
                 "href": "spotify:track:7xLvHwHaLneCoygBBckUru",
                 "length": 238.258,
                 "name": "In A Manner Of Speaking",
-                "popularity": "0.58000",
+                "popularity": "0.58264",
                 "track-number": "3"
             }
         ],
@@ -3050,7 +3050,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AG AI AL AM AN AQ AR AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LT LU LV LY MA MC MD ME MF MG MH ML MN MO MQ MR MS MT MV MX MY NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PN PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VC VE VG VN VU WF WS YE YT ZZ"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -3062,7 +3062,7 @@
                 "href": "spotify:track:58xzJAfYb3kljNqAC9f1UM",
                 "length": 168.765,
                 "name": "Gasoline",
-                "popularity": "0.44930",
+                "popularity": "0.45437",
                 "track-number": "1"
             },
             {
@@ -3078,7 +3078,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH ML MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -3090,7 +3090,7 @@
                 "href": "spotify:track:6cXxbf1eyxNDkjbGEawVFV",
                 "length": 262.913,
                 "name": "New Tattoo",
-                "popularity": "0.48424",
+                "popularity": "0.48975",
                 "redirects": [
                     "spotify:track:1Q92Se4okWpODsaVf77vCR"
                 ],
@@ -3109,7 +3109,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3122,7 +3122,7 @@
                 "href": "spotify:track:5ynWvN3bQymHVThxutO4hG",
                 "length": 205.865,
                 "name": "Bad Girlfriend",
-                "popularity": "0.66539",
+                "popularity": "0.67369",
                 "redirects": [
                     "spotify:track:3q8hYdwsC7IJRPDekAMI3Y"
                 ],
@@ -3141,7 +3141,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LT LU LV MC NL NO NZ PL PT SE US"
                 },
                 "available": true,
                 "external-ids": [
@@ -3153,7 +3153,7 @@
                 "href": "spotify:track:4Ma6fKktonx1Tu7Lzljcz5",
                 "length": 224.689,
                 "name": "Do Me A Favor",
-                "popularity": "0.56761",
+                "popularity": "0.57237",
                 "track-number": "10"
             },
             {
@@ -3169,7 +3169,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AE AF AG AI AM AN AO AQ AR AZ BB BF BH BI BJ BM BO BR BS BT BW BY BZ CD CF CG CI CL CM CO CR CU CV CZ DJ DM DO EC EG EH ER ET FK GA GB GD GE GF GH GI GM GN GP GQ GT GU GW GY HN HT HU IE IL IO IQ IR JM JO KE KG KM KN KW KY KZ LB LC LR LS LY MD MG ML MN MP MQ MR MS MU MW MX MZ NA NE NG NI NU OM PA PE PK PL PM PN PS PY QA RU RW SA SC SD SH SK SL SN SO SR ST SV SY SZ TC TD TG TJ TK TM TN TR TT TZ UA UG UY UZ VC VE VG WF YE YT ZA ZM ZW ZZ"
+                    "territories": "GB IE MX PL"
                 },
                 "available": true,
                 "external-ids": [
@@ -3181,7 +3181,7 @@
                 "href": "spotify:track:3oD1KZsKRrg8G45Qy3rhfY",
                 "length": 269.658,
                 "name": "The Pretender",
-                "popularity": "0.44574",
+                "popularity": "0.44690",
                 "track-number": "1"
             },
             {
@@ -3197,7 +3197,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -3209,7 +3209,7 @@
                 "href": "spotify:track:6EvMtEt0L5ieXHtxj60ve4",
                 "length": 191.25,
                 "name": "You Can't Stop Me",
-                "popularity": "0.45010",
+                "popularity": "0.45718",
                 "redirects": [
                     "spotify:track:4G7pCoBdCJsZHCCDjt1eQI"
                 ],
@@ -3228,7 +3228,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AG AI AL AM AN AQ AR AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BN BO BR BS BT BV BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GM GN GP GQ GR GS GT GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LT LU LV LY MA MC MD ME MF MG MH ML MN MO MQ MR MS MT MV MX MY NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PN PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VC VE VG VN VU WF WS YE YT ZZ"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -3240,7 +3240,7 @@
                 "href": "spotify:track:2UNo9DIX2UzaWMJHbCXZ44",
                 "length": 194.125,
                 "name": "Fake It",
-                "popularity": "0.64661",
+                "popularity": "0.65478",
                 "track-number": "2"
             },
             {
@@ -3256,7 +3256,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IS IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TW UA ZA"
+                    "territories": "AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LT LV MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -3268,7 +3268,7 @@
                 "href": "spotify:track:2HerxRQish8VLHvu20oxz2",
                 "length": 231.46,
                 "name": "Always",
-                "popularity": "0.52817",
+                "popularity": "0.54283",
                 "redirects": [
                     "spotify:track:4FrJn0D2MGRInmnJVMlA8S"
                 ],
@@ -3287,7 +3287,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CA CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IS IT LI LT LU LV MC NL NO PL PT SE US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3300,7 +3300,7 @@
                 "href": "spotify:track:1p5mModFIkQBuFxAfLI0vK",
                 "length": 240.663,
                 "name": "Bother",
-                "popularity": "0.54485",
+                "popularity": "0.55135",
                 "redirects": [
                     "spotify:track:1Wwx6nXFNBrI8KP1pcmbvP",
                     "spotify:track:1j0uUX7bULnXierm4GYr27",
@@ -3328,7 +3328,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -3340,7 +3340,7 @@
                 "href": "spotify:track:2bgAKETXNWV8p5OgPZ33fG",
                 "length": 202.962,
                 "name": "Rapunzel",
-                "popularity": "0.44098",
+                "popularity": "0.44688",
                 "track-number": "4"
             },
             {
@@ -3356,7 +3356,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3369,7 +3369,7 @@
                 "href": "spotify:track:7Jeq7pytUKAYgWbljMx2zw",
                 "length": 117.965,
                 "name": "Blazin'",
-                "popularity": "0.37386",
+                "popularity": "0.38125",
                 "track-number": "18"
             },
             {
@@ -3385,7 +3385,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3398,7 +3398,7 @@
                 "href": "spotify:track:22ieYKXx548wrmLdZF9wAV",
                 "length": 258.965,
                 "name": "Happy In MY Hoody",
-                "popularity": "0.39158",
+                "popularity": "0.39651",
                 "track-number": "5"
             },
             {
@@ -3414,7 +3414,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3427,7 +3427,7 @@
                 "href": "spotify:track:62oCkdrehcnLP3kTMhFIxB",
                 "length": 237.787,
                 "name": "Up Jumped The Boogie",
-                "popularity": "0.29450",
+                "popularity": "0.30440",
                 "track-number": "3"
             },
             {
@@ -3443,7 +3443,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3456,7 +3456,7 @@
                 "href": "spotify:track:77BHdqcOxR7pfV5fa5W53g",
                 "length": 258.782,
                 "name": "Party At My Place",
-                "popularity": "0.35932",
+                "popularity": "0.36650",
                 "track-number": "11"
             },
             {
@@ -3472,7 +3472,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3485,7 +3485,7 @@
                 "href": "spotify:track:5BKfl79Ox0UXxHA6RKpCDO",
                 "length": 231.722,
                 "name": "Where Ya From",
-                "popularity": "0.37726",
+                "popularity": "0.37712",
                 "track-number": "12"
             },
             {
@@ -3501,7 +3501,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3514,7 +3514,7 @@
                 "href": "spotify:track:0oFhbOmvDPOJFFNo2djkRH",
                 "length": 247.069,
                 "name": "Sing It (The Life of Riley)",
-                "popularity": "0.38994",
+                "popularity": "0.39314",
                 "track-number": "2"
             },
             {
@@ -3530,7 +3530,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3543,7 +3543,7 @@
                 "href": "spotify:track:3I0TBdlzSEhJzrCBQqfuBO",
                 "length": 174.229,
                 "name": "Down By The River",
-                "popularity": "0.49253",
+                "popularity": "0.49901",
                 "track-number": "4"
             },
             {
@@ -3559,7 +3559,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3572,7 +3572,7 @@
                 "href": "spotify:track:0dQcxdg94MhUHMHhfbgLQ3",
                 "length": 252.873,
                 "name": "Where The Wild Things Are(feat: Mind Over Matter)",
-                "popularity": "0.37490",
+                "popularity": "0.38608",
                 "track-number": "12"
             },
             {
@@ -3588,7 +3588,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3601,7 +3601,7 @@
                 "href": "spotify:track:2L2f3Z8amWm4SN4yFjpy8b",
                 "length": 214.466,
                 "name": "Jimmy Recard",
-                "popularity": "0.37064",
+                "popularity": "0.37665",
                 "track-number": "5"
             },
             {
@@ -3617,7 +3617,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3630,7 +3630,7 @@
                 "href": "spotify:track:3Lg03JDCkPzVkbLYMdT4Qu",
                 "length": 235.068,
                 "name": "Coppin' It Sweet",
-                "popularity": "0.27761",
+                "popularity": "0.29781",
                 "track-number": "5"
             },
             {
@@ -3646,7 +3646,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3659,7 +3659,7 @@
                 "href": "spotify:track:2FawiYoWqZS6zL7YP2wMh8",
                 "length": 283.907,
                 "name": "Put On A Record",
-                "popularity": "0.24214",
+                "popularity": "0.24574",
                 "track-number": "13"
             },
             {
@@ -3675,7 +3675,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "GF US"
+                    "territories": "US"
                 },
                 "available": true,
                 "external-ids": [
@@ -3687,7 +3687,7 @@
                 "href": "spotify:track:6O8Fqxnk5OlOivJHklfkPZ",
                 "length": 179.092,
                 "name": "Nobody's Listening",
-                "popularity": "0.59022",
+                "popularity": "0.59256",
                 "redirects": [
                     "spotify:track:2BCBfBqJL6xFNOzDdFRfRB",
                     "spotify:track:6exDW5m6UX7e6dLr0EtZtw"
@@ -3707,7 +3707,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AI AL AM AT AU AW AX AZ BA BE BG BL BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GE GF GG GI GL GP GR GS HR HU IM IO IS IT JE KY LI LT LU LV MC MD ME MF MK MQ MS MT NC NL NO NZ PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA VA VG WF YT"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR IS IT LI LT LU LV MC NL NO NZ PL PT SE"
                 },
                 "available": true,
                 "external-ids": [
@@ -3719,7 +3719,7 @@
                 "href": "spotify:track:1NDJi8zWYCHCFJAjbb97bz",
                 "length": 231.748,
                 "name": "Kenji",
-                "popularity": "0.49587",
+                "popularity": "0.49635",
                 "track-number": "13"
             },
             {
@@ -3739,7 +3739,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -3751,7 +3751,7 @@
                 "href": "spotify:track:7xruRQSKUlSqWMs5reansn",
                 "length": 278.783,
                 "name": "Affairz (feat. O.S.T.R.)",
-                "popularity": "0.33191",
+                "popularity": "0.33521",
                 "track-number": "2"
             },
             {
@@ -3775,7 +3775,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -3787,7 +3787,7 @@
                 "href": "spotify:track:4twBaMIbO85dFpG9ewr4I0",
                 "length": 253.527,
                 "name": "We Own the Night",
-                "popularity": "0.23899",
+                "popularity": "0.24047",
                 "track-number": "16"
             },
             {
@@ -3803,7 +3803,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3816,7 +3816,7 @@
                 "href": "spotify:track:3klqOZQoSX8zOMRbro2aIh",
                 "length": 232.768,
                 "name": "Royal Flush",
-                "popularity": "0.30950",
+                "popularity": "0.31971",
                 "track-number": "13"
             },
             {
@@ -3832,7 +3832,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3845,7 +3845,7 @@
                 "href": "spotify:track:128iS546yKs9blCvzHHjtU",
                 "length": 236.297,
                 "name": "Family Affair",
-                "popularity": "0.45581",
+                "popularity": "0.46302",
                 "track-number": "7"
             },
             {
@@ -3861,7 +3861,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3874,7 +3874,7 @@
                 "href": "spotify:track:5DLbhjgR46OkPLijgZ9DHy",
                 "length": 239.173,
                 "name": "People Don't Know",
-                "popularity": "0.24744",
+                "popularity": "0.25285",
                 "track-number": "8"
             },
             {
@@ -3890,7 +3890,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3903,7 +3903,7 @@
                 "href": "spotify:track:7oOEIIrKjhYykifzsmjtly",
                 "length": 216.453,
                 "name": "This Is For You",
-                "popularity": "0.31906",
+                "popularity": "0.32504",
                 "track-number": "12"
             },
             {
@@ -3919,7 +3919,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -3931,7 +3931,7 @@
                 "href": "spotify:track:301Wpv2K72cIrGapKTRCJt",
                 "length": 175.563,
                 "name": "Won't Listen When",
-                "popularity": "0.23728",
+                "popularity": "0.24941",
                 "track-number": "7"
             },
             {
@@ -3947,7 +3947,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3960,7 +3960,7 @@
                 "href": "spotify:track:4dFpc8oA3SroWIKyMQNINT",
                 "length": 231.539,
                 "name": "Addicted",
-                "popularity": "0.55766",
+                "popularity": "0.56141",
                 "track-number": "3"
             },
             {
@@ -3976,7 +3976,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -3989,7 +3989,7 @@
                 "href": "spotify:track:08evcZZA2SaGcZZRPNY4pt",
                 "length": 183.145,
                 "name": "Art House Audio",
-                "popularity": "0.46778",
+                "popularity": "0.47336",
                 "track-number": "6"
             },
             {
@@ -4005,7 +4005,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -4018,7 +4018,7 @@
                 "href": "spotify:track:5njuMdKa50f41rS2rPQBmY",
                 "length": 254.939,
                 "name": "Good Morning Australia",
-                "popularity": "0.25267",
+                "popularity": "0.26426",
                 "track-number": "16"
             },
             {
@@ -4034,7 +4034,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -4046,7 +4046,7 @@
                 "href": "spotify:track:6jd8k1uSXnh83fQEYXHVXL",
                 "length": 247.932,
                 "name": "Good Morning",
-                "popularity": "0.19856",
+                "popularity": "0.20708",
                 "track-number": "15"
             },
             {
@@ -4062,7 +4062,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "worldwide"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -4075,7 +4075,7 @@
                 "href": "spotify:track:7HxCOz4AM5dhwU6hLbxqMd",
                 "length": 223.068,
                 "name": "Late One Night",
-                "popularity": "0.35469",
+                "popularity": "0.36127",
                 "track-number": "16"
             },
             {
@@ -4091,7 +4091,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -4104,7 +4104,7 @@
                 "href": "spotify:track:12UWCmtVA67ovsnicQR502",
                 "length": 220.297,
                 "name": "Falling",
-                "popularity": "0.30427",
+                "popularity": "0.30945",
                 "track-number": "2"
             }
         ],
@@ -4127,7 +4127,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IS IT LI LT LU LV MC MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA"
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
                 "explicit": true,
@@ -4140,7 +4140,7 @@
                 "href": "spotify:track:6UHMkQUSqFhyBLHQcY9y4T",
                 "length": 361.741,
                 "name": "Ready To Go",
-                "popularity": "0.57883",
+                "popularity": "0.57645",
                 "track-number": "1"
             },
             {
@@ -4156,7 +4156,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "explicit": true,
@@ -4169,7 +4169,7 @@
                 "href": "spotify:track:2KldK81uQyPpbJLwEekaLQ",
                 "length": 201.734,
                 "name": "Everyday Normal Guy",
-                "popularity": "0.49031",
+                "popularity": "0.49532",
                 "track-number": "1"
             },
             {
@@ -4185,7 +4185,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -4197,7 +4197,7 @@
                 "href": "spotify:track:0WB9HrYWOfyGSii6NFzEAS",
                 "length": 165.889,
                 "name": "Andromede Vibes - Ode To Samurai Champloo",
-                "popularity": "0.36432",
+                "popularity": "0.37355",
                 "track-number": "3"
             }
         ],
