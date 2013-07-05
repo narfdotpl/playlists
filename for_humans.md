@@ -200,5 +200,6 @@
 -----------------
 
 1. Limp Bizkit - Ready To Go
-2. Jon Lajoie - Everyday Normal Guy
-3. Kyo Itachi - Andromede Vibes - Ode To Samurai Champloo
+2. (Hed) P.E. - Let's Ride
+3. Jon Lajoie - Everyday Normal Guy
+4. Kyo Itachi - Andromede Vibes - Ode To Samurai Champloo
