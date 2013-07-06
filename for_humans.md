@@ -137,17 +137,18 @@
 5. Seether - Careless Whisper
 6. Dope - Rebel Yell
 7. Dope - You Spin Me Round (Like A Record)
-8. Marilyn Manson - Personal Jesus
-9. Marilyn Manson - Sweet Dreams (Are Made Of This) - Album Version (Explicit )
-10. Marilyn Manson - Tainted Love
-11. Sepultura - Angel
-12. Sepultura - Bullet The Blue Sky
-13. The White Stripes - Jolene (Live)
-14. Korn - Creep - Live
-15. Limp Bizkit - Behind Blue Eyes
-16. Nouvelle Vague - Guns Of Brixton
-17. Nouvelle Vague - Ever Fallen In Love
-18. Nouvelle Vague - In A Manner Of Speaking
+8. Kangaroz - Kolorowe Sny
+9. Marilyn Manson - Personal Jesus
+10. Marilyn Manson - Sweet Dreams (Are Made Of This) - Album Version (Explicit )
+11. Marilyn Manson - Tainted Love
+12. Sepultura - Angel
+13. Sepultura - Bullet The Blue Sky
+14. The White Stripes - Jolene (Live)
+15. Korn - Creep - Live
+16. Limp Bizkit - Behind Blue Eyes
+17. Nouvelle Vague - Guns Of Brixton
+18. Nouvelle Vague - Ever Fallen In Love
+19. Nouvelle Vague - In A Manner Of Speaking
 
 
 [Worn Out Jeans](http://open.spotify.com/user/1166776863/playlist/5ZbFi7etCQdJqtFp1rWIbM)
