@@ -28,7 +28,7 @@
                 "href": "spotify:track:0Le202Yj1zphNm3QyfN1sB",
                 "length": 410.239,
                 "name": "Mouth Of Ghosts",
-                "popularity": "0.34921",
+                "popularity": "0.34000",
                 "track-number": "13"
             },
             {
@@ -56,10 +56,7 @@
                 "href": "spotify:track:3muqbu7Pc3iwtafZc6Oymw",
                 "length": 194.125,
                 "name": "Danger - Keep Away",
-                "popularity": "0.45575",
-                "redirects": [
-                    "spotify:track:6fGUro5hEugGVVqpaubKwG"
-                ],
+                "popularity": "0.45000",
                 "track-number": "14"
             },
             {
@@ -87,7 +84,7 @@
                 "href": "spotify:track:3RptaQ5Xb8WvtpItZ2f9Hi",
                 "length": 276.456,
                 "name": "Snuff",
-                "popularity": "0.50932",
+                "popularity": "0.51000",
                 "track-number": "11"
             },
             {
@@ -115,10 +112,7 @@
                 "href": "spotify:track:5aUtonvQxGEL8T1rKI3J01",
                 "length": 235.095,
                 "name": "Darkness",
-                "popularity": "0.38989",
-                "redirects": [
-                    "spotify:track:5cZ6cZaH9D44Zghuv7WslV"
-                ],
+                "popularity": "0.38000",
                 "track-number": "12"
             },
             {
@@ -146,12 +140,7 @@
                 "href": "spotify:track:3KnMPlQpxTGSXpGL7VQYAa",
                 "length": 203.564,
                 "name": "Count To Six And Die (The Vacuum Of Infinite Space Encompassing)",
-                "popularity": "0.26513",
-                "redirects": [
-                    "spotify:track:1jYhhiAxQZfhGzQLY2w49k",
-                    "spotify:track:6auJii7mOsNWtXL98eUEDR",
-                    "spotify:track:6YdkkB4VjOcqj23BlaWNXO"
-                ],
+                "popularity": "0.26000",
                 "track-number": "19"
             }
         ],
@@ -187,7 +176,7 @@
                 "href": "spotify:track:3ne6tgtarLRGXs5C6CeOZf",
                 "length": 356.381,
                 "name": "Space Lord",
-                "popularity": "0.53933",
+                "popularity": "0.54000",
                 "track-number": "5"
             },
             {
@@ -215,7 +204,7 @@
                 "href": "spotify:track:2GRMtlOgU1IMfg5EEiboTL",
                 "length": 351.1,
                 "name": "Electric Worry (Live)",
-                "popularity": "0.53880",
+                "popularity": "0.54000",
                 "track-number": "14"
             },
             {
@@ -244,10 +233,7 @@
                 "href": "spotify:track:3ZBsNNMRzXFAeWIJ4yfrPw",
                 "length": 340.825,
                 "name": "Beast",
-                "popularity": "0.18137",
-                "redirects": [
-                    "spotify:track:7fSd1dMfhniNnZJ0R9Pm2x"
-                ],
+                "popularity": "0.16000",
                 "track-number": "14"
             },
             {
@@ -275,7 +261,7 @@
                 "href": "spotify:track:2L1Fopvkm0yPiDf67sMscY",
                 "length": 182.962,
                 "name": "Shift Kicker",
-                "popularity": "0.41763",
+                "popularity": "0.41000",
                 "track-number": "2"
             },
             {
@@ -303,7 +289,7 @@
                 "href": "spotify:track:22EXrfNV0f9ZcWMpK2lF67",
                 "length": 172.87,
                 "name": "The New Black",
-                "popularity": "0.47309",
+                "popularity": "0.47000",
                 "track-number": "6"
             },
             {
@@ -331,7 +317,7 @@
                 "href": "spotify:track:5v3TK5H6rxRhwSiXERpB28",
                 "length": 128.449,
                 "name": "Wolf Cub",
-                "popularity": "0.12295",
+                "popularity": "0.11000",
                 "track-number": "1"
             },
             {
@@ -359,7 +345,7 @@
                 "href": "spotify:track:2fvHpEsEJL515BfVBTKX2a",
                 "length": 280.822,
                 "name": "Lucky Dutch",
-                "popularity": "0.40631",
+                "popularity": "0.40000",
                 "track-number": "3"
             },
             {
@@ -387,7 +373,7 @@
                 "href": "spotify:track:6nlBjN8FPRXyii6P1yRosG",
                 "length": 307.333,
                 "name": "Atomic Clock",
-                "popularity": "0.31863",
+                "popularity": "0.32000",
                 "track-number": "7"
             },
             {
@@ -415,7 +401,7 @@
                 "href": "spotify:track:3vUxHAIdQIDOlfPvRYsiVf",
                 "length": 476.281,
                 "name": "Last Curfew",
-                "popularity": "0.36659",
+                "popularity": "0.37000",
                 "track-number": "1"
             },
             {
@@ -443,7 +429,7 @@
                 "href": "spotify:track:2iHF5jU01STCodoHfSPYLH",
                 "length": 345.374,
                 "name": "Melt",
-                "popularity": "0.33286",
+                "popularity": "0.33000",
                 "track-number": "4"
             },
             {
@@ -471,7 +457,7 @@
                 "href": "spotify:track:1HWd9NWladOfRFzL4tcemj",
                 "length": 299.333,
                 "name": "Silver Future",
-                "popularity": "0.28675",
+                "popularity": "0.29000",
                 "track-number": "12"
             },
             {
@@ -500,7 +486,7 @@
                 "href": "spotify:track:3azSRGmcZSaSZVV3Izg4Tg",
                 "length": 212.244,
                 "name": "Powertrip",
-                "popularity": "0.50471",
+                "popularity": "0.50000",
                 "track-number": "6"
             },
             {
@@ -528,7 +514,7 @@
                 "href": "spotify:track:23JiM1Bl7SxamhXtdXFBr6",
                 "length": 450.398,
                 "name": "Desert Cruiser",
-                "popularity": "0.46418",
+                "popularity": "0.46000",
                 "track-number": "1"
             },
             {
@@ -556,12 +542,7 @@
                 "href": "spotify:track:1Qdnvn4XlmZANCVy3XjrQo",
                 "length": 278.155,
                 "name": "Show Me How To Live",
-                "popularity": "0.65946",
-                "redirects": [
-                    "spotify:track:5ZxaSlPGLpbbsEXyNGSIrp",
-                    "spotify:track:7yluNX1ksqHHj3rqH4fo1k",
-                    "spotify:track:6j29pfuBmzBSU6Bd4fP9tx"
-                ],
+                "popularity": "0.66000",
                 "track-number": "2"
             },
             {
@@ -589,7 +570,7 @@
                 "href": "spotify:track:2GClIkNR8dP3E2jZEklaZE",
                 "length": 241.265,
                 "name": "Auto Pilot",
-                "popularity": "0.52782",
+                "popularity": "0.52000",
                 "track-number": "4"
             },
             {
@@ -617,7 +598,7 @@
                 "href": "spotify:track:3UkYt4eZbCZAWVHwung7zn",
                 "length": 508.884,
                 "name": "Altered State",
-                "popularity": "0.28927",
+                "popularity": "0.29000",
                 "track-number": "13"
             }
         ],
@@ -652,7 +633,7 @@
                 "href": "spotify:track:4IwnNqIML38mYMXGKVsScD",
                 "length": 308.143,
                 "name": "Voodoo People (Pendulum Mix)",
-                "popularity": "0.63411",
+                "popularity": "0.63000",
                 "track-number": "3"
             },
             {
@@ -681,7 +662,7 @@
                 "href": "spotify:track:7MtcHoqyYMFue7J8pmXZ8a",
                 "length": 206.989,
                 "name": "Bad Motherfucker",
-                "popularity": "0.53961",
+                "popularity": "0.53000",
                 "track-number": "1"
             },
             {
@@ -714,7 +695,7 @@
                 "href": "spotify:track:1cflU1Z14wbWK20b3LoWzy",
                 "length": 275.332,
                 "name": "Lost Weekend",
-                "popularity": "0.43476",
+                "popularity": "0.44000",
                 "track-number": "2"
             },
             {
@@ -742,7 +723,7 @@
                 "href": "spotify:track:5HJek8cnHgsGwNi4LAgzQX",
                 "length": 132.946,
                 "name": "Staring At The Sun",
-                "popularity": "0.64467",
+                "popularity": "0.64000",
                 "track-number": "3"
             },
             {
@@ -770,7 +751,7 @@
                 "href": "spotify:track:4ro5roa4DG0J6no8tDDi5i",
                 "length": 270.05,
                 "name": "Stompbox",
-                "popularity": "0.46704",
+                "popularity": "0.47000",
                 "track-number": "1"
             },
             {
@@ -798,7 +779,7 @@
                 "href": "spotify:track:3texlpoI2o4DydGUr3pXi5",
                 "length": 264.664,
                 "name": "Before I Forget",
-                "popularity": "0.50376",
+                "popularity": "0.50000",
                 "track-number": "14"
             },
             {
@@ -826,7 +807,7 @@
                 "href": "spotify:track:1dWteEXxzhg5xGNZZ6dJQX",
                 "length": 387.467,
                 "name": "Voodoo People (Remastered)",
-                "popularity": "0.42512",
+                "popularity": "0.42000",
                 "track-number": "5"
             }
         ],
@@ -870,7 +851,7 @@
                 "href": "spotify:track:2D3rFGmbygUZ0167aBjnxn",
                 "length": 203.224,
                 "name": "Can't Keep Me Down",
-                "popularity": "0.60993",
+                "popularity": "0.61000",
                 "track-number": "4"
             },
             {
@@ -902,7 +883,7 @@
                 "href": "spotify:track:6AbVJjzv7thIvmMCuhZrmK",
                 "length": 213.943,
                 "name": "Make It Bun Dem",
-                "popularity": "0.78421",
+                "popularity": "0.78000",
                 "track-number": "1"
             },
             {
@@ -930,7 +911,7 @@
                 "href": "spotify:track:0QIYINh2AwmOmdu8CRYvlw",
                 "length": 272.377,
                 "name": "Bonfire",
-                "popularity": "0.77802",
+                "popularity": "0.77000",
                 "track-number": "3"
             },
             {
@@ -962,7 +943,7 @@
                 "href": "spotify:track:0f7eslXohKBikCWrZBnZwk",
                 "length": 245.631,
                 "name": "Endurance",
-                "popularity": "0.21030",
+                "popularity": "0.21000",
                 "track-number": "2"
             }
         ],
@@ -998,7 +979,7 @@
                 "href": "spotify:track:2oUnALmrZdI0U4fME9pqiH",
                 "length": 221.133,
                 "name": "Redneck",
-                "popularity": "0.27898",
+                "popularity": "0.28000",
                 "track-number": "3"
             },
             {
@@ -1026,7 +1007,7 @@
                 "href": "spotify:track:7d6V9VE4pV1mXsMbO1WF1V",
                 "length": 227.669,
                 "name": "Dark Helmet",
-                "popularity": "0.28823",
+                "popularity": "0.28000",
                 "track-number": "3"
             },
             {
@@ -1055,7 +1036,7 @@
                 "href": "spotify:track:0YbUPhJ1hcFDsUV3U7kQ5k",
                 "length": 159.954,
                 "name": "Spit It Out",
-                "popularity": "0.51957",
+                "popularity": "0.52000",
                 "track-number": "4"
             },
             {
@@ -1083,12 +1064,7 @@
                 "href": "spotify:track:22koV9Br3DHgP6h51G0az2",
                 "length": 262.285,
                 "name": "Four Elements",
-                "popularity": "0.15908",
-                "redirects": [
-                    "spotify:track:6Y86bmum5FdZrUKlpv5Aij",
-                    "spotify:track:27o8hPkA0Punkdn24Zi0sA",
-                    "spotify:track:1kvEVmhqGNoPyCAFwHHupG"
-                ],
+                "popularity": "0.16000",
                 "track-number": "11"
             },
             {
@@ -1116,7 +1092,7 @@
                 "href": "spotify:track:7wO8F8oAZUU719e3CEOLEj",
                 "length": 252.899,
                 "name": "Duality",
-                "popularity": "0.50795",
+                "popularity": "0.50000",
                 "track-number": "13"
             },
             {
@@ -1144,7 +1120,7 @@
                 "href": "spotify:track:5pJ23eUIq8H83mQUUJbICk",
                 "length": 197.524,
                 "name": "Step Up",
-                "popularity": "0.50910",
+                "popularity": "0.51000",
                 "track-number": "2"
             },
             {
@@ -1172,7 +1148,7 @@
                 "href": "spotify:track:1QixTwDZCcfBzA7QMyont0",
                 "length": 195.877,
                 "name": "Halo",
-                "popularity": "0.58620",
+                "popularity": "0.59000",
                 "track-number": "2"
             },
             {
@@ -1200,7 +1176,7 @@
                 "href": "spotify:track:3Kjn1rP9M8u8YQWd30RfSO",
                 "length": 229.63,
                 "name": "To The End",
-                "popularity": "0.40468",
+                "popularity": "0.40000",
                 "track-number": "12"
             },
             {
@@ -1228,7 +1204,7 @@
                 "href": "spotify:track:4SpyRye60emFFxacJhwlW6",
                 "length": 227.643,
                 "name": "Red Harvest",
-                "popularity": "0.32059",
+                "popularity": "0.32000",
                 "track-number": "2"
             },
             {
@@ -1256,7 +1232,7 @@
                 "href": "spotify:track:3texlpoI2o4DydGUr3pXi5",
                 "length": 264.664,
                 "name": "Before I Forget",
-                "popularity": "0.50376",
+                "popularity": "0.50000",
                 "track-number": "14"
             },
             {
@@ -1284,10 +1260,7 @@
                 "href": "spotify:track:2nEql85VIJw8u0Siw3bdBu",
                 "length": 137.13,
                 "name": "As Diehard As They Come",
-                "popularity": "0.36431",
-                "redirects": [
-                    "spotify:track:797pM06PZbFWbKeqV3zOPO"
-                ],
+                "popularity": "0.36000",
                 "track-number": "12"
             },
             {
@@ -1316,11 +1289,7 @@
                 "href": "spotify:track:0lCwaZYSRy6q0jLmnYiQxi",
                 "length": 230.493,
                 "name": "Laid To Rest",
-                "popularity": "0.60234",
-                "redirects": [
-                    "spotify:track:6FYmmrLhCG6gLOI3z4C957",
-                    "spotify:track:3HAyJqYeR9n8QbpBDAHAih"
-                ],
+                "popularity": "0.60000",
                 "track-number": "1"
             },
             {
@@ -1349,7 +1318,7 @@
                 "href": "spotify:track:6dBYrgbtKnUH0kXTsuv6Wq",
                 "length": 200.165,
                 "name": "(sic)",
-                "popularity": "0.52790",
+                "popularity": "0.53000",
                 "track-number": "1"
             },
             {
@@ -1377,7 +1346,7 @@
                 "href": "spotify:track:6VOM9VW2HspbL77jPEaBxW",
                 "length": 237.971,
                 "name": "Dead Man Walking",
-                "popularity": "0.42706",
+                "popularity": "0.43000",
                 "track-number": "4"
             },
             {
@@ -1405,7 +1374,7 @@
                 "href": "spotify:track:2OabutYqS7EZwJwAaRM6PF",
                 "length": 148.006,
                 "name": "Wait And Bleed",
-                "popularity": "0.53174",
+                "popularity": "0.53000",
                 "track-number": "3"
             },
             {
@@ -1433,7 +1402,7 @@
                 "href": "spotify:track:4TOZ8TuZQRMEgJjNsgewg2",
                 "length": 235.539,
                 "name": "Milk Lizard",
-                "popularity": "0.50157",
+                "popularity": "0.50000",
                 "track-number": "9"
             }
         ],
@@ -1468,7 +1437,7 @@
                 "href": "spotify:track:48n92l7OnLEURhalUBtsl7",
                 "length": 326.262,
                 "name": "We Can Make The World Stop",
-                "popularity": "0.73653",
+                "popularity": "0.73000",
                 "track-number": "1"
             },
             {
@@ -1496,7 +1465,7 @@
                 "href": "spotify:track:1P0wLge0z6CiDMztVH0q9i",
                 "length": 533.225,
                 "name": "High School Art Class",
-                "popularity": "0.57845",
+                "popularity": "0.58000",
                 "track-number": "1"
             },
             {
@@ -1528,7 +1497,7 @@
                 "href": "spotify:track:48mZ0CGCffjH49h5lAPTIe",
                 "length": 262.521,
                 "name": "Derezzed (Remixed By The Glitch Mob)",
-                "popularity": "0.65112",
+                "popularity": "0.64000",
                 "track-number": "1"
             },
             {
@@ -1556,11 +1525,7 @@
                 "href": "spotify:track:2LCIunS81ISzaUg47Bmalx",
                 "length": 315.176,
                 "name": "Block Rockin' Beats",
-                "popularity": "0.47778",
-                "redirects": [
-                    "spotify:track:6fzWjCJy1XWwbOr9fj7rYk",
-                    "spotify:track:3qhhfxSNW5Nt0paWOtZ6mk"
-                ],
+                "popularity": "0.47000",
                 "track-number": "1"
             },
             {
@@ -1588,7 +1553,7 @@
                 "href": "spotify:track:54Og8bEQGpIm2IeZ04D1FK",
                 "length": 315.804,
                 "name": "Total Fascination",
-                "popularity": "0.61536",
+                "popularity": "0.61000",
                 "track-number": "5"
             },
             {
@@ -1616,11 +1581,7 @@
                 "href": "spotify:track:3H3cOQ6LBLSvmcaV7QkZEu",
                 "length": 207.773,
                 "name": "Aerodynamic",
-                "popularity": "0.70564",
-                "redirects": [
-                    "spotify:track:1e6ikgxjrK4cziO6vpzpHb",
-                    "spotify:track:52FgWiSzmlJmqZlPFQhEJy"
-                ],
+                "popularity": "0.70000",
                 "track-number": "2"
             },
             {
@@ -1648,7 +1609,7 @@
                 "href": "spotify:track:5aZCwTIsfqv22p5bewcrgf",
                 "length": 104.265,
                 "name": "Derezzed",
-                "popularity": "0.63071",
+                "popularity": "0.62000",
                 "track-number": "13"
             },
             {
@@ -1676,7 +1637,7 @@
                 "href": "spotify:track:3B7xeHyUY0ClCKAmeKNH1E",
                 "length": 331.674,
                 "name": "Still Night",
-                "popularity": "0.61369",
+                "popularity": "0.61000",
                 "track-number": "1"
             }
         ],
@@ -1711,7 +1672,7 @@
                 "href": "spotify:track:5D1eaML0qst8jrxB5GRugn",
                 "length": 219.12,
                 "name": "I Don't Care",
-                "popularity": "0.56272",
+                "popularity": "0.56000",
                 "track-number": "12"
             },
             {
@@ -1739,7 +1700,7 @@
                 "href": "spotify:track:1LkoYGxmYpO6QSEvY5C0Zl",
                 "length": 175.406,
                 "name": "Scotty Doesn't Know",
-                "popularity": "0.65687",
+                "popularity": "0.65000",
                 "track-number": "2"
             },
             {
@@ -1768,7 +1729,7 @@
                 "href": "spotify:track:1b7W82wt7cFgOQQ5XVKKoN",
                 "length": 217.002,
                 "name": "She Hates Me",
-                "popularity": "0.06847",
+                "popularity": "0.05000",
                 "track-number": "1"
             },
             {
@@ -1796,10 +1757,7 @@
                 "href": "spotify:track:1bCmvezFg5MRcENzCGG1Cy",
                 "length": 215.564,
                 "name": "Chelsea Dagger",
-                "popularity": "0.55889",
-                "redirects": [
-                    "spotify:track:4ckM6OsyZuOK50okobsj8S"
-                ],
+                "popularity": "0.55000",
                 "track-number": "4"
             },
             {
@@ -1827,7 +1785,7 @@
                 "href": "spotify:track:4AfoSbXgn3O9sD8XbiHiNq",
                 "length": 181.654,
                 "name": "Dance, Dance",
-                "popularity": "0.53894",
+                "popularity": "0.54000",
                 "track-number": "5"
             },
             {
@@ -1856,7 +1814,7 @@
                 "href": "spotify:track:5FbMKftNTXCKiBYSf0TQrs",
                 "length": 203.668,
                 "name": "Na Na Na [Na Na Na Na Na Na Na Na Na]",
-                "popularity": "0.67560",
+                "popularity": "0.67000",
                 "track-number": "1"
             },
             {
@@ -1884,7 +1842,7 @@
                 "href": "spotify:track:0263Q0WRYFVGUEWZ03LNAr",
                 "length": 208.505,
                 "name": "Thnks fr th Mmrs",
-                "popularity": "0.58768",
+                "popularity": "0.58000",
                 "track-number": "8"
             },
             {
@@ -1912,10 +1870,7 @@
                 "href": "spotify:track:6A5M31nKvt6GYaGL7XpX2w",
                 "length": 206.832,
                 "name": "Miss Murder",
-                "popularity": "0.58124",
-                "redirects": [
-                    "spotify:track:08CT8t3bO7xGKCjZait7ZP"
-                ],
+                "popularity": "0.58000",
                 "track-number": "3"
             },
             {
@@ -1943,7 +1898,7 @@
                 "href": "spotify:track:56sk7jBpZV0CD31G9hEU3b",
                 "length": 231.67,
                 "name": "Animal I Have Become",
-                "popularity": "0.72582",
+                "popularity": "0.72000",
                 "track-number": "3"
             },
             {
@@ -1972,7 +1927,7 @@
                 "href": "spotify:track:50kypkfAkqg0d2YXQwe7mt",
                 "length": 181.471,
                 "name": "...To Be Loved",
-                "popularity": "0.58242",
+                "popularity": "0.58000",
                 "track-number": "8"
             },
             {
@@ -2000,7 +1955,7 @@
                 "href": "spotify:track:0vEqw7o97NVkzhfX0oUdA7",
                 "length": 213.525,
                 "name": "This Ain't A Scene, It's An Arms Race",
-                "popularity": "0.57190",
+                "popularity": "0.57000",
                 "track-number": "7"
             }
         ],
@@ -2035,7 +1990,7 @@
                 "href": "spotify:track:5Nn2Dj7OQsGL6pgQ9iIzPp",
                 "length": 318.262,
                 "name": "Ghostwriter",
-                "popularity": "0.71558",
+                "popularity": "0.71000",
                 "track-number": "6"
             },
             {
@@ -2063,7 +2018,7 @@
                 "href": "spotify:track:7Cg3F9ZsZ2TYUnlza49NYh",
                 "length": 238.101,
                 "name": "Kong",
-                "popularity": "0.65172",
+                "popularity": "0.65000",
                 "track-number": "3"
             },
             {
@@ -2091,7 +2046,7 @@
                 "href": "spotify:track:4XC3MjxO8z5SYzaIWgBNG1",
                 "length": 316.118,
                 "name": "Storm Returns (A Prefuse/Tommy Guerrero Interlude)",
-                "popularity": "0.48023",
+                "popularity": "0.48000",
                 "track-number": "19"
             },
             {
@@ -2119,7 +2074,7 @@
                 "href": "spotify:track:6bwcWOibIUyOJQ2FgMbeIH",
                 "length": 224.558,
                 "name": "El Toro",
-                "popularity": "0.60379",
+                "popularity": "0.60000",
                 "track-number": "5"
             },
             {
@@ -2147,7 +2102,7 @@
                 "href": "spotify:track:0DjzUUdiltvAnYSwdhTbms",
                 "length": 198.283,
                 "name": "Perverted Undertone",
-                "popularity": "0.44316",
+                "popularity": "0.44000",
                 "track-number": "16"
             },
             {
@@ -2179,7 +2134,7 @@
                 "href": "spotify:track:0XiHcuUEf1wmvmX1cOaVR9",
                 "length": 326.576,
                 "name": "Eyesdown",
-                "popularity": "0.61855",
+                "popularity": "0.62000",
                 "track-number": "4"
             },
             {
@@ -2207,7 +2162,7 @@
                 "href": "spotify:track:2vfUiPmBnOaOEIX6DerOFc",
                 "length": 284.718,
                 "name": "Turtle Soup",
-                "popularity": "0.35816",
+                "popularity": "0.35000",
                 "track-number": "4"
             },
             {
@@ -2235,7 +2190,7 @@
                 "href": "spotify:track:09aNhXGvfo8wAhUxcsDFlZ",
                 "length": 147.483,
                 "name": "1976",
-                "popularity": "0.59626",
+                "popularity": "0.59000",
                 "track-number": "3"
             },
             {
@@ -2263,7 +2218,7 @@
                 "href": "spotify:track:7u7qoYoCxbMyugDea70cLh",
                 "length": 241.552,
                 "name": "1 bit Blues - 10,000 miles",
-                "popularity": "0.41686",
+                "popularity": "0.42000",
                 "track-number": "1"
             },
             {
@@ -2291,7 +2246,7 @@
                 "href": "spotify:track:2C1nOw1nRxJaBWb9I1x05A",
                 "length": 266.495,
                 "name": "Smoke & Mirrors",
-                "popularity": "0.62295",
+                "popularity": "0.62000",
                 "track-number": "3"
             }
         ],
@@ -2326,7 +2281,7 @@
                 "href": "spotify:track:18SBAnCjYQHI01roOFxmPv",
                 "length": 362.708,
                 "name": "Bystander",
-                "popularity": "0.17612",
+                "popularity": "0.18000",
                 "track-number": "12"
             },
             {
@@ -2354,7 +2309,7 @@
                 "href": "spotify:track:51c94ac31swyDQj9B3Lzs3",
                 "length": 299.856,
                 "name": "Change [In The House Of Flies]",
-                "popularity": "0.64330",
+                "popularity": "0.64000",
                 "track-number": "11"
             },
             {
@@ -2382,10 +2337,7 @@
                 "href": "spotify:track:5zFalOg043nNnRYtU7TS1T",
                 "length": 244.559,
                 "name": "Minus Blindfold",
-                "popularity": "0.43599",
-                "redirects": [
-                    "spotify:track:0WfH5H3m5EyvP00lwb7iJZ"
-                ],
+                "popularity": "0.43000",
                 "track-number": "2"
             },
             {
@@ -2414,7 +2366,7 @@
                 "href": "spotify:track:2KSaLYsC5rqDDzYOWCglVe",
                 "length": 255.043,
                 "name": "Liar",
-                "popularity": "0.44265",
+                "popularity": "0.44000",
                 "track-number": "11"
             },
             {
@@ -2443,7 +2395,7 @@
                 "href": "spotify:track:5irCAOBSFNzRKe2bJQQ1CA",
                 "length": 156.346,
                 "name": "Bruises",
-                "popularity": "0.38501",
+                "popularity": "0.38000",
                 "track-number": "8"
             },
             {
@@ -2471,7 +2423,7 @@
                 "href": "spotify:track:7gTJ8VCvaguiFUeEDsG93w",
                 "length": 176.138,
                 "name": "A Better Man Than Me",
-                "popularity": "0.28127",
+                "popularity": "0.28000",
                 "track-number": "7"
             },
             {
@@ -2499,7 +2451,7 @@
                 "href": "spotify:track:78SOBkauu6CnXV2OtpDrHK",
                 "length": 272.56,
                 "name": "Rot",
-                "popularity": "0.44545",
+                "popularity": "0.44000",
                 "track-number": "8"
             }
         ],
@@ -2534,7 +2486,7 @@
                 "href": "spotify:track:6wrdOEEUufGoGshPplymxS",
                 "length": 209.499,
                 "name": "Smooth Criminal",
-                "popularity": "0.62453",
+                "popularity": "0.62000",
                 "track-number": "10"
             },
             {
@@ -2566,7 +2518,7 @@
                 "href": "spotify:track:2ds9vlk6o6BRCc2FAkmOvX",
                 "length": 229.656,
                 "name": "Beat It",
-                "popularity": "0.62709",
+                "popularity": "0.62000",
                 "track-number": "11"
             },
             {
@@ -2594,7 +2546,7 @@
                 "href": "spotify:track:41cWduSCDzGw0oBIMYGokY",
                 "length": 254.363,
                 "name": "Beat It",
-                "popularity": "0.34721",
+                "popularity": "0.35000",
                 "track-number": "2"
             },
             {
@@ -2622,7 +2574,7 @@
                 "href": "spotify:track:3TaCMKUCKiGsSyhTe1ZgLt",
                 "length": 269.188,
                 "name": "Welcome to the Jungle",
-                "popularity": "0.20353",
+                "popularity": "0.20000",
                 "track-number": "6"
             },
             {
@@ -2650,7 +2602,7 @@
                 "href": "spotify:track:2eBcPwPWuJ5AEFrs1Sb4s3",
                 "length": 302.287,
                 "name": "Careless Whisper",
-                "popularity": "0.59755",
+                "popularity": "0.60000",
                 "track-number": "13"
             },
             {
@@ -2679,7 +2631,7 @@
                 "href": "spotify:track:2rF1yxzb3jIySvXxqoDrNn",
                 "length": 245.317,
                 "name": "Rebel Yell",
-                "popularity": "0.52991",
+                "popularity": "0.53000",
                 "track-number": "13"
             },
             {
@@ -2707,7 +2659,7 @@
                 "href": "spotify:track:0Hxty2K8F2DrrCXQyQVpBo",
                 "length": 163.876,
                 "name": "You Spin Me Round (Like A Record)",
-                "popularity": "0.63654",
+                "popularity": "0.63000",
                 "track-number": "14"
             },
             {
@@ -2735,7 +2687,7 @@
                 "href": "spotify:track:1QXgbszFN1325tsaN9qihw",
                 "length": 250.049,
                 "name": "Kolorowe Sny",
-                "popularity": "0.10291",
+                "popularity": "0.09000",
                 "track-number": "12"
             },
             {
@@ -2763,7 +2715,7 @@
                 "href": "spotify:track:7plOseI79HZ6Jkropa90Yj",
                 "length": 246.938,
                 "name": "Personal Jesus",
-                "popularity": "0.17725",
+                "popularity": "0.18000",
                 "track-number": "2"
             },
             {
@@ -2791,7 +2743,7 @@
                 "href": "spotify:track:346nfvQvaQgDcnEogShdg4",
                 "length": 291.751,
                 "name": "Sweet Dreams (Are Made Of This) - Album Version (Explicit )",
-                "popularity": "0.18132",
+                "popularity": "0.19000",
                 "track-number": "9"
             },
             {
@@ -2819,11 +2771,7 @@
                 "href": "spotify:track:3Q8IgbIg5sgm1cq5GeJ54N",
                 "length": 200.662,
                 "name": "Tainted Love",
-                "popularity": "0.50837",
-                "redirects": [
-                    "spotify:track:6bvhc5WpN1a41cm49Etov0",
-                    "spotify:track:3UGooGSeDXZXFrtYeUmQU4"
-                ],
+                "popularity": "0.50000",
                 "track-number": "16"
             },
             {
@@ -2851,7 +2799,7 @@
                 "href": "spotify:track:3iZvTHIEHd6R8hb2ReiCDR",
                 "length": 314.314,
                 "name": "Angel",
-                "popularity": "0.35683",
+                "popularity": "0.35000",
                 "track-number": "2"
             },
             {
@@ -2879,7 +2827,7 @@
                 "href": "spotify:track:1eD4hZm6zU8d0CSMCYActp",
                 "length": 275.175,
                 "name": "Bullet The Blue Sky",
-                "popularity": "0.27168",
+                "popularity": "0.27000",
                 "track-number": "6"
             },
             {
@@ -2907,7 +2855,7 @@
                 "href": "spotify:track:2KWgKzzwFrPPZYkLNJy6qF",
                 "length": 235.487,
                 "name": "Jolene (Live)",
-                "popularity": "0.48503",
+                "popularity": "0.48000",
                 "track-number": "9"
             },
             {
@@ -2935,7 +2883,7 @@
                 "href": "spotify:track:5z1vCywwTJAP8qSkGJymFY",
                 "length": 231.277,
                 "name": "Creep - Live",
-                "popularity": "0.51461",
+                "popularity": "0.51000",
                 "track-number": "5"
             },
             {
@@ -2963,15 +2911,7 @@
                 "href": "spotify:track:2kA0IBd1u0Be6QJE60Ty6F",
                 "length": 270.26,
                 "name": "Behind Blue Eyes",
-                "popularity": "0.70185",
-                "redirects": [
-                    "spotify:track:4fzJsBnXAkIer4eJIk0xEJ",
-                    "spotify:track:4u9E6FhnmarZbMK3xhfJog",
-                    "spotify:track:5BFZDEtn1zwlLrBrTAvWu4",
-                    "spotify:track:4ZQu4enmDidQZV9AYGcLtN",
-                    "spotify:track:0Wz7eNZBa9upyI6WufEo4r",
-                    "spotify:track:0T09LQTX3aiUkgvYwDcKhW"
-                ],
+                "popularity": "0.70000",
                 "track-number": "15"
             },
             {
@@ -2999,7 +2939,7 @@
                 "href": "spotify:track:57byua1wdKVH3DM7qRoQ6l",
                 "length": 247.226,
                 "name": "Guns Of Brixton",
-                "popularity": "0.50411",
+                "popularity": "0.50000",
                 "track-number": "4"
             },
             {
@@ -3027,7 +2967,7 @@
                 "href": "spotify:track:0ehSg6Qnt2UpGdAYgppcQM",
                 "length": 199.982,
                 "name": "Ever Fallen In Love",
-                "popularity": "0.55643",
+                "popularity": "0.55000",
                 "track-number": "2"
             },
             {
@@ -3055,7 +2995,7 @@
                 "href": "spotify:track:7xLvHwHaLneCoygBBckUru",
                 "length": 238.258,
                 "name": "In A Manner Of Speaking",
-                "popularity": "0.58460",
+                "popularity": "0.58000",
                 "track-number": "3"
             }
         ],
@@ -3090,7 +3030,7 @@
                 "href": "spotify:track:58xzJAfYb3kljNqAC9f1UM",
                 "length": 168.765,
                 "name": "Gasoline",
-                "popularity": "0.45437",
+                "popularity": "0.45000",
                 "track-number": "1"
             },
             {
@@ -3118,10 +3058,7 @@
                 "href": "spotify:track:6cXxbf1eyxNDkjbGEawVFV",
                 "length": 262.913,
                 "name": "New Tattoo",
-                "popularity": "0.48975",
-                "redirects": [
-                    "spotify:track:1Q92Se4okWpODsaVf77vCR"
-                ],
+                "popularity": "0.48000",
                 "track-number": "1"
             },
             {
@@ -3150,10 +3087,7 @@
                 "href": "spotify:track:5ynWvN3bQymHVThxutO4hG",
                 "length": 205.865,
                 "name": "Bad Girlfriend",
-                "popularity": "0.67369",
-                "redirects": [
-                    "spotify:track:3q8hYdwsC7IJRPDekAMI3Y"
-                ],
+                "popularity": "0.67000",
                 "track-number": "8"
             },
             {
@@ -3181,7 +3115,7 @@
                 "href": "spotify:track:4Ma6fKktonx1Tu7Lzljcz5",
                 "length": 224.689,
                 "name": "Do Me A Favor",
-                "popularity": "0.57237",
+                "popularity": "0.57000",
                 "track-number": "10"
             },
             {
@@ -3209,7 +3143,7 @@
                 "href": "spotify:track:3oD1KZsKRrg8G45Qy3rhfY",
                 "length": 269.658,
                 "name": "The Pretender",
-                "popularity": "0.44690",
+                "popularity": "0.44000",
                 "track-number": "1"
             },
             {
@@ -3237,10 +3171,7 @@
                 "href": "spotify:track:6EvMtEt0L5ieXHtxj60ve4",
                 "length": 191.25,
                 "name": "You Can't Stop Me",
-                "popularity": "0.45718",
-                "redirects": [
-                    "spotify:track:4G7pCoBdCJsZHCCDjt1eQI"
-                ],
+                "popularity": "0.45000",
                 "track-number": "1"
             },
             {
@@ -3268,7 +3199,7 @@
                 "href": "spotify:track:2UNo9DIX2UzaWMJHbCXZ44",
                 "length": 194.125,
                 "name": "Fake It",
-                "popularity": "0.65478",
+                "popularity": "0.65000",
                 "track-number": "2"
             },
             {
@@ -3296,10 +3227,7 @@
                 "href": "spotify:track:2HerxRQish8VLHvu20oxz2",
                 "length": 231.46,
                 "name": "Always",
-                "popularity": "0.54283",
-                "redirects": [
-                    "spotify:track:4FrJn0D2MGRInmnJVMlA8S"
-                ],
+                "popularity": "0.55000",
                 "track-number": "3"
             },
             {
@@ -3327,13 +3255,7 @@
                 "href": "spotify:track:1Nuqm2gavvcmZtEFWvbDbK",
                 "length": 260.795,
                 "name": "When I'm Gone",
-                "popularity": "0.60840",
-                "redirects": [
-                    "spotify:track:5S9kO53GQVMhr04fRyKRIm",
-                    "spotify:track:6Sy4sXSbqScJkCecpHJ3UN",
-                    "spotify:track:1Cv6O7sCrXVUTz3uizb0NJ",
-                    "spotify:track:0Pw7yUcLh3nIpPuK73Ueef"
-                ],
+                "popularity": "0.60000",
                 "track-number": "1"
             },
             {
@@ -3362,12 +3284,7 @@
                 "href": "spotify:track:1p5mModFIkQBuFxAfLI0vK",
                 "length": 240.663,
                 "name": "Bother",
-                "popularity": "0.55135",
-                "redirects": [
-                    "spotify:track:1Wwx6nXFNBrI8KP1pcmbvP",
-                    "spotify:track:1j0uUX7bULnXierm4GYr27",
-                    "spotify:track:0OR1VcXYkyRiQEFtUciGyD"
-                ],
+                "popularity": "0.54000",
                 "track-number": "8"
             }
         ],
@@ -3402,7 +3319,7 @@
                 "href": "spotify:track:2bgAKETXNWV8p5OgPZ33fG",
                 "length": 202.962,
                 "name": "Rapunzel",
-                "popularity": "0.44688",
+                "popularity": "0.44000",
                 "track-number": "4"
             },
             {
@@ -3431,7 +3348,7 @@
                 "href": "spotify:track:7Jeq7pytUKAYgWbljMx2zw",
                 "length": 117.965,
                 "name": "Blazin'",
-                "popularity": "0.38125",
+                "popularity": "0.38000",
                 "track-number": "18"
             },
             {
@@ -3460,7 +3377,7 @@
                 "href": "spotify:track:22ieYKXx548wrmLdZF9wAV",
                 "length": 258.965,
                 "name": "Happy In MY Hoody",
-                "popularity": "0.39651",
+                "popularity": "0.40000",
                 "track-number": "5"
             },
             {
@@ -3489,7 +3406,7 @@
                 "href": "spotify:track:62oCkdrehcnLP3kTMhFIxB",
                 "length": 237.787,
                 "name": "Up Jumped The Boogie",
-                "popularity": "0.30440",
+                "popularity": "0.31000",
                 "track-number": "3"
             },
             {
@@ -3518,7 +3435,7 @@
                 "href": "spotify:track:77BHdqcOxR7pfV5fa5W53g",
                 "length": 258.782,
                 "name": "Party At My Place",
-                "popularity": "0.36650",
+                "popularity": "0.37000",
                 "track-number": "11"
             },
             {
@@ -3547,7 +3464,7 @@
                 "href": "spotify:track:5BKfl79Ox0UXxHA6RKpCDO",
                 "length": 231.722,
                 "name": "Where Ya From",
-                "popularity": "0.37712",
+                "popularity": "0.37000",
                 "track-number": "12"
             },
             {
@@ -3576,7 +3493,7 @@
                 "href": "spotify:track:0oFhbOmvDPOJFFNo2djkRH",
                 "length": 247.069,
                 "name": "Sing It (The Life of Riley)",
-                "popularity": "0.39314",
+                "popularity": "0.39000",
                 "track-number": "2"
             },
             {
@@ -3605,7 +3522,7 @@
                 "href": "spotify:track:3I0TBdlzSEhJzrCBQqfuBO",
                 "length": 174.229,
                 "name": "Down By The River",
-                "popularity": "0.49901",
+                "popularity": "0.50000",
                 "track-number": "4"
             },
             {
@@ -3634,7 +3551,7 @@
                 "href": "spotify:track:0dQcxdg94MhUHMHhfbgLQ3",
                 "length": 252.873,
                 "name": "Where The Wild Things Are(feat: Mind Over Matter)",
-                "popularity": "0.38608",
+                "popularity": "0.39000",
                 "track-number": "12"
             },
             {
@@ -3663,7 +3580,7 @@
                 "href": "spotify:track:2L2f3Z8amWm4SN4yFjpy8b",
                 "length": 214.466,
                 "name": "Jimmy Recard",
-                "popularity": "0.37665",
+                "popularity": "0.37000",
                 "track-number": "5"
             },
             {
@@ -3692,7 +3609,7 @@
                 "href": "spotify:track:3Lg03JDCkPzVkbLYMdT4Qu",
                 "length": 235.068,
                 "name": "Coppin' It Sweet",
-                "popularity": "0.29781",
+                "popularity": "0.30000",
                 "track-number": "5"
             },
             {
@@ -3721,7 +3638,7 @@
                 "href": "spotify:track:2FawiYoWqZS6zL7YP2wMh8",
                 "length": 283.907,
                 "name": "Put On A Record",
-                "popularity": "0.24574",
+                "popularity": "0.25000",
                 "track-number": "13"
             },
             {
@@ -3749,11 +3666,7 @@
                 "href": "spotify:track:6O8Fqxnk5OlOivJHklfkPZ",
                 "length": 179.092,
                 "name": "Nobody's Listening",
-                "popularity": "0.58655",
-                "redirects": [
-                    "spotify:track:2BCBfBqJL6xFNOzDdFRfRB",
-                    "spotify:track:6exDW5m6UX7e6dLr0EtZtw"
-                ],
+                "popularity": "0.58000",
                 "track-number": "11"
             },
             {
@@ -3781,7 +3694,7 @@
                 "href": "spotify:track:1NDJi8zWYCHCFJAjbb97bz",
                 "length": 231.748,
                 "name": "Kenji",
-                "popularity": "0.49635",
+                "popularity": "0.49000",
                 "track-number": "13"
             },
             {
@@ -3813,7 +3726,7 @@
                 "href": "spotify:track:7xruRQSKUlSqWMs5reansn",
                 "length": 278.783,
                 "name": "Affairz (feat. O.S.T.R.)",
-                "popularity": "0.33521",
+                "popularity": "0.33000",
                 "track-number": "2"
             },
             {
@@ -3849,7 +3762,7 @@
                 "href": "spotify:track:4twBaMIbO85dFpG9ewr4I0",
                 "length": 253.527,
                 "name": "We Own the Night",
-                "popularity": "0.24047",
+                "popularity": "0.24000",
                 "track-number": "16"
             },
             {
@@ -3878,7 +3791,7 @@
                 "href": "spotify:track:3klqOZQoSX8zOMRbro2aIh",
                 "length": 232.768,
                 "name": "Royal Flush",
-                "popularity": "0.31971",
+                "popularity": "0.32000",
                 "track-number": "13"
             },
             {
@@ -3907,7 +3820,7 @@
                 "href": "spotify:track:128iS546yKs9blCvzHHjtU",
                 "length": 236.297,
                 "name": "Family Affair",
-                "popularity": "0.46302",
+                "popularity": "0.47000",
                 "track-number": "7"
             },
             {
@@ -3936,7 +3849,7 @@
                 "href": "spotify:track:5DLbhjgR46OkPLijgZ9DHy",
                 "length": 239.173,
                 "name": "People Don't Know",
-                "popularity": "0.25285",
+                "popularity": "0.26000",
                 "track-number": "8"
             },
             {
@@ -3965,7 +3878,7 @@
                 "href": "spotify:track:7oOEIIrKjhYykifzsmjtly",
                 "length": 216.453,
                 "name": "This Is For You",
-                "popularity": "0.32504",
+                "popularity": "0.33000",
                 "track-number": "12"
             },
             {
@@ -3993,7 +3906,7 @@
                 "href": "spotify:track:301Wpv2K72cIrGapKTRCJt",
                 "length": 175.563,
                 "name": "Won't Listen When",
-                "popularity": "0.24941",
+                "popularity": "0.25000",
                 "track-number": "7"
             },
             {
@@ -4022,7 +3935,7 @@
                 "href": "spotify:track:4dFpc8oA3SroWIKyMQNINT",
                 "length": 231.539,
                 "name": "Addicted",
-                "popularity": "0.56465",
+                "popularity": "0.56000",
                 "track-number": "3"
             },
             {
@@ -4051,7 +3964,7 @@
                 "href": "spotify:track:08evcZZA2SaGcZZRPNY4pt",
                 "length": 183.145,
                 "name": "Art House Audio",
-                "popularity": "0.47336",
+                "popularity": "0.47000",
                 "track-number": "6"
             },
             {
@@ -4080,7 +3993,7 @@
                 "href": "spotify:track:5njuMdKa50f41rS2rPQBmY",
                 "length": 254.939,
                 "name": "Good Morning Australia",
-                "popularity": "0.26426",
+                "popularity": "0.27000",
                 "track-number": "16"
             },
             {
@@ -4108,7 +4021,7 @@
                 "href": "spotify:track:6jd8k1uSXnh83fQEYXHVXL",
                 "length": 247.932,
                 "name": "Good Morning",
-                "popularity": "0.20708",
+                "popularity": "0.21000",
                 "track-number": "15"
             },
             {
@@ -4137,7 +4050,7 @@
                 "href": "spotify:track:7HxCOz4AM5dhwU6hLbxqMd",
                 "length": 223.068,
                 "name": "Late One Night",
-                "popularity": "0.36127",
+                "popularity": "0.36000",
                 "track-number": "16"
             },
             {
@@ -4166,7 +4079,7 @@
                 "href": "spotify:track:12UWCmtVA67ovsnicQR502",
                 "length": 220.297,
                 "name": "Falling",
-                "popularity": "0.30945",
+                "popularity": "0.31000",
                 "track-number": "2"
             }
         ],
@@ -4202,7 +4115,7 @@
                 "href": "spotify:track:6UHMkQUSqFhyBLHQcY9y4T",
                 "length": 361.741,
                 "name": "Ready To Go",
-                "popularity": "0.57213",
+                "popularity": "0.56000",
                 "track-number": "1"
             },
             {
@@ -4231,7 +4144,7 @@
                 "href": "spotify:track:6eO6xoPfdyPY0AY4DCcLdf",
                 "length": 246.18,
                 "name": "Let's Ride",
-                "popularity": "0.38721",
+                "popularity": "0.39000",
                 "track-number": "7"
             },
             {
@@ -4260,7 +4173,7 @@
                 "href": "spotify:track:2KldK81uQyPpbJLwEekaLQ",
                 "length": 201.734,
                 "name": "Everyday Normal Guy",
-                "popularity": "0.49532",
+                "popularity": "0.49000",
                 "track-number": "1"
             },
             {
@@ -4288,7 +4201,7 @@
                 "href": "spotify:track:0WB9HrYWOfyGSii6NFzEAS",
                 "length": 165.889,
                 "name": "Andromede Vibes - Ode To Samurai Champloo",
-                "popularity": "0.37355",
+                "popularity": "0.37000",
                 "track-number": "3"
             }
         ],
@@ -4323,7 +4236,7 @@
                 "href": "spotify:track:5P0yCN34eDqbDdDFEICseA",
                 "length": 283.515,
                 "name": "Dracula",
-                "popularity": "0.41110",
+                "popularity": "0.41000",
                 "track-number": "2"
             },
             {
@@ -4351,7 +4264,7 @@
                 "href": "spotify:track:55O0btNLPvWH6KmPym0g6E",
                 "length": 69.205,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 1 (1)",
-                "popularity": "0.28763",
+                "popularity": "0.28000",
                 "track-number": "1"
             },
             {
@@ -4379,10 +4292,7 @@
                 "href": "spotify:track:5Q10MhatY5DkgBfbWUkRpN",
                 "length": 162.281,
                 "name": "5/4",
-                "popularity": "0.50450",
-                "redirects": [
-                    "spotify:track:3HZMRvsHlJofnK8ncSbS1B"
-                ],
+                "popularity": "0.50000",
                 "track-number": "2"
             },
             {
@@ -4410,7 +4320,7 @@
                 "href": "spotify:track:1RjEyTLfBeEVf8CrbRRS92",
                 "length": 138.541,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 1 (2)",
-                "popularity": "0.26911",
+                "popularity": "0.27000",
                 "track-number": "2"
             },
             {
@@ -4438,11 +4348,7 @@
                 "href": "spotify:track:2p1y1sMAwWR5oO1Q1FdLU7",
                 "length": 188.949,
                 "name": "Go With The Flow",
-                "popularity": "0.07611",
-                "redirects": [
-                    "spotify:track:5TrQVpUfOIemdesGkGxB7a",
-                    "spotify:track:3FjTzG43DeF6QQBa3COntP"
-                ],
+                "popularity": "0.06000",
                 "track-number": "1"
             },
             {
@@ -4470,7 +4376,7 @@
                 "href": "spotify:track:7mGGfCs32WepnwMX0giN4s",
                 "length": 69.728,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 1 (3)",
-                "popularity": "0.25690",
+                "popularity": "0.25000",
                 "track-number": "3"
             },
             {
@@ -4498,7 +4404,7 @@
                 "href": "spotify:track:4dLGEexMvQJHzpxWKNgCOc",
                 "length": 228.767,
                 "name": "Substitute - Single Version",
-                "popularity": "0.53128",
+                "popularity": "0.53000",
                 "track-number": "4"
             },
             {
@@ -4526,7 +4432,7 @@
                 "href": "spotify:track:3HT6u5u2PIBe04bt9y6zaK",
                 "length": 180.295,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 1 (4)",
-                "popularity": "0.25102",
+                "popularity": "0.25000",
                 "track-number": "4"
             },
             {
@@ -4554,7 +4460,7 @@
                 "href": "spotify:track:0BOsjh3NNmVj3xRcgloN7W",
                 "length": 128.868,
                 "name": "The Bogey Man",
-                "popularity": "0.22983",
+                "popularity": "0.22000",
                 "track-number": "1"
             },
             {
@@ -4582,7 +4488,7 @@
                 "href": "spotify:track:5UOebmeW9xVKnuGsTuzMOt",
                 "length": 232.375,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 1 (5)",
-                "popularity": "0.25291",
+                "popularity": "0.25000",
                 "track-number": "5"
             },
             {
@@ -4610,7 +4516,7 @@
                 "href": "spotify:track:3CrbWMJbTlI9T4pB7p5J35",
                 "length": 187.589,
                 "name": "Stagger Lee",
-                "popularity": "0.43954",
+                "popularity": "0.44000",
                 "track-number": "14"
             },
             {
@@ -4638,7 +4544,7 @@
                 "href": "spotify:track:34XvxULI1vJof0tKVmmbO0",
                 "length": 165.235,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 1 (6)",
-                "popularity": "0.24257",
+                "popularity": "0.24000",
                 "track-number": "6"
             },
             {
@@ -4666,7 +4572,7 @@
                 "href": "spotify:track:1tfcBT7aIvLsFuWBAm1kZc",
                 "length": 110.828,
                 "name": "Love You More - 2001 Digital Remaster",
-                "popularity": "0.24534",
+                "popularity": "0.24000",
                 "track-number": "4"
             },
             {
@@ -4694,7 +4600,7 @@
                 "href": "spotify:track:3GDvtBfRkOOIR0gDx1qyXj",
                 "length": 72.447,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 1 (7)",
-                "popularity": "0.23612",
+                "popularity": "0.23000",
                 "track-number": "7"
             },
             {
@@ -4722,10 +4628,7 @@
                 "href": "spotify:track:6BL4PpswVjH9BAajbIbpmZ",
                 "length": 195.093,
                 "name": "Tomorrow Comes Today",
-                "popularity": "0.49297",
-                "redirects": [
-                    "spotify:track:5knX4D4jHWohlKjJDcrBvL"
-                ],
+                "popularity": "0.49000",
                 "track-number": "3"
             },
             {
@@ -4753,7 +4656,7 @@
                 "href": "spotify:track:3MAuyjYc4E3KyHjES5vW3T",
                 "length": 36.864,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 1 (8)",
-                "popularity": "0.23242",
+                "popularity": "0.23000",
                 "track-number": "8"
             },
             {
@@ -4781,7 +4684,7 @@
                 "href": "spotify:track:2fbjxisAKnRgHSwFUXFXEP",
                 "length": 202.832,
                 "name": "Bird In Hand",
-                "popularity": "0.40807",
+                "popularity": "0.40000",
                 "track-number": "4"
             },
             {
@@ -4809,7 +4712,7 @@
                 "href": "spotify:track:3msnUnx9IbL784D9JA1MJz",
                 "length": 199.276,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 1 (9)",
-                "popularity": "0.23431",
+                "popularity": "0.23000",
                 "track-number": "9"
             },
             {
@@ -4828,7 +4731,6 @@
                     "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG"
                 },
                 "available": true,
-                "explicit": true,
                 "external-ids": [
                     {
                         "id": "GBAYE0001408",
@@ -4838,10 +4740,7 @@
                 "href": "spotify:track:1RKUoGiLEbcXN4GY4spQDx",
                 "length": 343.805,
                 "name": "Clint Eastwood",
-                "popularity": "0.69060",
-                "redirects": [
-                    "spotify:track:3mViuwS6fjCGfYo3k9oa0y"
-                ],
+                "popularity": "0.69000",
                 "track-number": "5"
             },
             {
@@ -4869,7 +4768,7 @@
                 "href": "spotify:track:42ODSD9z5Q2pUPuPLceeWA",
                 "length": 290.757,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 1 (10)",
-                "popularity": "0.23042",
+                "popularity": "0.23000",
                 "track-number": "10"
             },
             {
@@ -4897,7 +4796,7 @@
                 "href": "spotify:track:7naHWSm3R57D0E6z2yWZfI",
                 "length": 423.024,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 2 (1)",
-                "popularity": "0.26611",
+                "popularity": "0.26000",
                 "track-number": "1"
             },
             {
@@ -4953,7 +4852,7 @@
                 "href": "spotify:track:6hqgXwnliXdtGvMOIZya0x",
                 "length": 73.179,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 2 (2)",
-                "popularity": "0.23851",
+                "popularity": "0.23000",
                 "track-number": "2"
             },
             {
@@ -4982,9 +4881,6 @@
                 "length": 238.546,
                 "name": "Alala",
                 "popularity": "0.00000",
-                "redirects": [
-                    "spotify:track:5bVVkLKK090R0fQxteSD4h"
-                ],
                 "track-number": "3"
             },
             {
@@ -5012,7 +4908,7 @@
                 "href": "spotify:track:0wd5D16s2tCmwo5iwf0Nn3",
                 "length": 106.801,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 2 (3)",
-                "popularity": "0.23423",
+                "popularity": "0.23000",
                 "track-number": "3"
             },
             {
@@ -5040,7 +4936,7 @@
                 "href": "spotify:track:0p3wrdTGpm30M6xQAS9sCi",
                 "length": 213.656,
                 "name": "Rockit",
-                "popularity": "0.39177",
+                "popularity": "0.40000",
                 "track-number": "7"
             },
             {
@@ -5068,7 +4964,7 @@
                 "href": "spotify:track:3kspsIVJfuO8OWDppWZ3ks",
                 "length": 49.152,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 2 (4)",
-                "popularity": "0.23321",
+                "popularity": "0.23000",
                 "track-number": "4"
             },
             {
@@ -5096,7 +4992,7 @@
                 "href": "spotify:track:4nrXUV7rTdUpd2ooaF499L",
                 "length": 81.493,
                 "name": "William Tell Overture (From The Movie \"A Clockwork Orange\" By Stanley Kubrick \u2014 Excerpt From The Opera \"William Tell\" Written By Gioachino Rossini)",
-                "popularity": "0.33326",
+                "popularity": "0.33000",
                 "track-number": "9"
             },
             {
@@ -5124,7 +5020,7 @@
                 "href": "spotify:track:1L7Gfiopa5SmzwdjjqjkRc",
                 "length": 58.799,
                 "name": "Gorillaz Are Ten - Spotify Radio Show 2 (5)",
-                "popularity": "0.22674",
+                "popularity": "0.22000",
                 "track-number": "5"
             },
             {
@@ -5152,11 +5048,7 @@
                 "href": "spotify:track:0d28khcov6AiegSCpG5TuT",
                 "length": 221.421,
                 "name": "Feel Good Inc",
-                "popularity": "0.76732",
-                "redirects": [
-                    "spotify:track:6BZdPuGp554igSVw7JFz8z",
-                    "spotify:track:6B306j7DKQGlBJlsbpQd0j"
-                ],
+                "popularity": "0.76000",
                 "track-number": "6"
             }
         ],
