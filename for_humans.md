@@ -87,7 +87,7 @@
 [Kids These Days...](http://open.spotify.com/user/1166776863/playlist/3Ev1ieBjpTFJMuLRmY1i0K)
 --------------------
 
-1. Fall Out Boy - I Don't Care
+1. Fall Out Boy - I Don't Care - Single Version
 2. Lustra - Scotty Doesn't Know
 3. Puddle Of Mudd - She Hates Me
 4. The Fratellis - Chelsea Dagger
@@ -131,7 +131,7 @@
 --------
 
 1. Alien Ant Farm - Smooth Criminal
-2. Fall Out Boy, John Mayer - Beat It
+2. Fall Out Boy, John Mayer - Beat It - Studio Version
 3. John 5 - Beat It
 4. John 5 - Welcome to the Jungle
 5. Seether - Careless Whisper
