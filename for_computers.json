@@ -5053,5 +5053,209 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:36OqJsdl66nOgJhhV91B0x"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/38flX8c4TsNvMsM468AGNM",
+        "name": "M9160",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:4bnL97GIgtX6UCybyDzRMJ",
+                    "name": "The Sufferer & The Witness",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6Wr3hh341P84m3EI8qdn9O",
+                        "name": "Rise Against"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE DE DK EE ES FI FR HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USUM70603972",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0rrCGStYqXmXSmY02qRcep",
+                "length": 181.811,
+                "name": "Drones",
+                "popularity": "0.52000",
+                "track-number": "7"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3SpTxZW21Ofr5XIsUiVrBN",
+                    "name": "Witness",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:24OGO7fr96L0azkG3pZZa2",
+                        "name": "Modern Life Is War"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "US6620500278",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:36bOEEfwGypxQuANN3UrCm",
+                "length": 140.241,
+                "name": "D.E.A.D. R.A.M.O.N.E.S.",
+                "popularity": "0.38000",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:7nXStuVuvXS3UAdZ9gxbKo",
+                    "name": "This Is Noise",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6Wr3hh341P84m3EI8qdn9O",
+                        "name": "Rise Against"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH DE DK FI FR GB IE IS IT LU NL NO PL SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USUM70609610",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5x9xJiKXYCHxAJBJoAT8j3",
+                "length": 158.882,
+                "name": "State Of The Union - Warped Tour 2006",
+                "popularity": "0.35000",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1sFmy6QB04jhph6YPRsm3O",
+                    "name": "All Hallow's EP",
+                    "released": "1999"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:19I4tYiChJoxEO5EuviXpz",
+                        "name": "AFI"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USNRR0400302",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6VbkHFFZuK8Ys0fLqtp393",
+                "length": 185.576,
+                "name": "The Boy Who Destroyed The World",
+                "popularity": "0.48000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:71FFTyyIGpwE7J6P84niiU",
+                    "name": "Splinter",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ",
+                        "name": "The Offspring"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC MX NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USSM10312715",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7LOvKnhYYLqPvP5A2rAKOh",
+                "length": 134.933,
+                "name": "(Can't Get My) Head Around You",
+                "popularity": "0.55000",
+                "track-number": "6"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1QMQj2xFub6FfgcvPHYzXk",
+                    "name": "Does This Look Infected?",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:0qT79UgT5tY4yudH9VfsdT",
+                        "name": "Sum 41"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH DK EE ES FI FR HK IE IT LT LU LV MY NL NO NZ PL PT SE SG"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USIR20200792",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1A4gctj838fZyMZbLdVyS8",
+                "length": 158.934,
+                "name": "Still Waiting",
+                "popularity": "0.60000",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6Hd4sQSkpuNiG0AVbGgvnH",
+                    "name": "The Art Of Drowning",
+                    "released": "2000"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:19I4tYiChJoxEO5EuviXpz",
+                        "name": "AFI"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USNRR0400337",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5SBW4dDJZeoHEE23pReKnU",
+                "length": 207.93,
+                "name": "The Days Of The Phoenix",
+                "popularity": "0.44000",
+                "track-number": "9"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:38flX8c4TsNvMsM468AGNM"
     }
 ]

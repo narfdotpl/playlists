@@ -240,3 +240,15 @@
 28. Stanley Kubrick — A Clockwork Orange - William Tell Overture (From The Movie "A Clockwork Orange" By Stanley Kubrick — Excerpt From The Opera "William Tell" Written By Gioachino Rossini)
 29. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (5)
 30. Gorillaz - Feel Good Inc
+
+
+[M9160](http://open.spotify.com/user/1166776863/playlist/38flX8c4TsNvMsM468AGNM)
+-------
+
+1. Rise Against - Drones
+2. Modern Life Is War - D.E.A.D. R.A.M.O.N.E.S.
+3. Rise Against - State Of The Union - Warped Tour 2006
+4. AFI - The Boy Who Destroyed The World
+5. The Offspring - (Can't Get My) Head Around You
+6. Sum 41 - Still Waiting
+7. AFI - The Days Of The Phoenix
