@@ -252,3 +252,13 @@
 5. The Offspring - (Can't Get My) Head Around You
 6. Sum 41 - Still Waiting
 7. AFI - The Days Of The Phoenix
+
+
+[Renzokuken](http://open.spotify.com/user/1166776863/playlist/0Vq3HyLv8uo3xKOGJVamwT)
+------------
+
+1. Karnivool - Roquefort (with Empire Horns)
+2. Protest The Hero - Termites
+3. The Dillinger Escape Plan - When Acting As A Wave
+4. Protest The Hero - Sequoia Throne
+5. Protest The Hero - Blindfolds Aside

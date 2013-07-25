@@ -5257,5 +5257,152 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:38flX8c4TsNvMsM468AGNM"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/0Vq3HyLv8uo3xKOGJVamwT",
+        "name": "Renzokuken",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:4yfy90oEyeRtZU2v03C9QW",
+                    "name": "Sound Awake",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6rX8AFY10dsJkJsv23Z9Um",
+                        "name": "Karnivool"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD BE DK EE ES FI FR GB HK IE IS IT LT LU LV MC MX MY NL NO PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "AUKA00500130",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4c3YZ4ONHlhDGCzTNkMGZB",
+                "length": 289.633,
+                "name": "Roquefort (with Empire Horns)",
+                "popularity": "0.34000",
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4JwGaodzTJej1bNrgHDx7y",
+                    "name": "Scurrilous",
+                    "released": "2011"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6z3BjfmgvDUIHaJ0UPTtrQ",
+                        "name": "Protest The Hero"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU DE EE ES FR LT LV NZ PL PT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USVR91165908",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7oIg5PvjNMBDtSN818eEu7",
+                "length": 236.088,
+                "name": "Termites",
+                "popularity": "0.17000",
+                "track-number": "8"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:65ai7QRrruWGNPcVU23PgD",
+                    "name": "Ire Works",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7IGcjaMGAtsvKBLQX26W4i",
+                        "name": "The Dillinger Escape Plan"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "US2640769907",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2oY1BluSK1K0ITe74I91Pn",
+                "length": 93.468,
+                "name": "When Acting As A Wave",
+                "popularity": "0.32000",
+                "track-number": "7"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6MeoKQa4Y7x6CrZ3yS0dGt",
+                    "name": "Fortress",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6z3BjfmgvDUIHaJ0UPTtrQ",
+                        "name": "Protest The Hero"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USVR90748304",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:06dJgpWfBGphKrWcQ5LkON",
+                "length": 191.25,
+                "name": "Sequoia Throne",
+                "popularity": "0.41000",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6oChJFreTOI52t8uzrfq8R",
+                    "name": "Kezia",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6z3BjfmgvDUIHaJ0UPTtrQ",
+                        "name": "Protest The Hero"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "CAU2O0500065",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0y4BHv4x4WLWWM0pCk6t5Z",
+                "length": 359.597,
+                "name": "Blindfolds Aside",
+                "popularity": "0.40000",
+                "track-number": "6"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:0Vq3HyLv8uo3xKOGJVamwT"
     }
 ]
