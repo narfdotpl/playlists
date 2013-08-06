@@ -262,3 +262,32 @@
 3. The Dillinger Escape Plan - When Acting As A Wave
 4. Protest The Hero - Sequoia Throne
 5. Protest The Hero - Blindfolds Aside
+
+
+[$: Disturbed](http://open.spotify.com/user/1166776863/playlist/3VedcOGPiTqVL5EWQVEOIK)
+--------------
+
+1. Disturbed - A Welcome Burden
+2. Disturbed - Conflict
+3. Disturbed - Sacred Lie
+4. Disturbed - Indestructible
+5. Disturbed - Deify
+6. Disturbed - Meaning Of Life
+7. Disturbed - Inside The Fire
+8. Disturbed - Down With The Sickness
+9. Disturbed - God Of The Mind
+10. Disturbed - The Game
+11. Disturbed - Stupify
+12. Disturbed - Rise
+13. Disturbed - Awaken
+14. Disturbed - Stricken
+15. Disturbed - Violence Fetish
+16. Disturbed - Criminal
+17. Disturbed - Pain Redefined
+18. Disturbed - Intoxication
+19. Disturbed - Voices
+20. Disturbed - Forgiven
+21. Disturbed - Fear
+22. Disturbed - Sons Of Plunder
+23. Disturbed - Numb
+24. Disturbed - Droppin' Plates

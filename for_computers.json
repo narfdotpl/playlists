@@ -5404,5 +5404,689 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:0Vq3HyLv8uo3xKOGJVamwT"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/3VedcOGPiTqVL5EWQVEOIK",
+        "name": "$: Disturbed",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:07w0hGS9XUdFsPBvDHy16y",
+                    "name": "The Sickness 10th Anniversary Edition",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10902093",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5SpgfYtc9RANWHt4cHJEns",
+                "length": 212.035,
+                "name": "A Welcome Burden",
+                "popularity": "0.40000",
+                "track-number": "14"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:07w0hGS9XUdFsPBvDHy16y",
+                    "name": "The Sickness 10th Anniversary Edition",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10902089",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1Ie6sb9ETpiNdNiyvx7IJJ",
+                "length": 275.567,
+                "name": "Conflict",
+                "popularity": "0.43000",
+                "track-number": "9"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6uk3P8Y3DuoUlQEiWvhrh8",
+                    "name": "Ten Thousand Fists",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10501022",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1dVDEMtrIywAsunNuYbFq7",
+                "length": 185.864,
+                "name": "Sacred Lie",
+                "popularity": "0.40000",
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5CKqOHOCHjIkyflm53l6p0",
+                    "name": "Indestructible",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR IS IT LI LT LU LV MC NL NO PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10800127",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:26cQtK56tvX1XiOhbSEk92",
+                "length": 278.338,
+                "name": "Indestructible",
+                "popularity": "0.41000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6uk3P8Y3DuoUlQEiWvhrh8",
+                    "name": "Ten Thousand Fists",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10501015",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:35s0f2U27zm0CEJW4NsOYZ",
+                "length": 256.847,
+                "name": "Deify",
+                "popularity": "0.45000",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:07w0hGS9XUdFsPBvDHy16y",
+                    "name": "The Sickness 10th Anniversary Edition",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10902092",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4zeiB172C57I7HvWjrRwRs",
+                "length": 241.212,
+                "name": "Meaning Of Life",
+                "popularity": "0.48000",
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5CKqOHOCHjIkyflm53l6p0",
+                    "name": "Indestructible",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR IS IT LI LT LU LV MC NL NO PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10800074",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1kpNs7nmm6rI86rQOuf3k0",
+                "length": 231.826,
+                "name": "Inside The Fire",
+                "popularity": "0.40000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:07w0hGS9XUdFsPBvDHy16y",
+                    "name": "The Sickness 10th Anniversary Edition",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10902084",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4ImIJRZNJhNQLLdUFSYJoS",
+                "length": 279.018,
+                "name": "Down With The Sickness",
+                "popularity": "0.70000",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0BBC9CJOAvXVmUs7txm8cY",
+                    "name": "The Lost Children",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10902094",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3umXjvHQvcbAjJnT9qJ9Ab",
+                "length": 185.864,
+                "name": "God Of The Mind",
+                "popularity": "0.42000",
+                "track-number": "9"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:07w0hGS9XUdFsPBvDHy16y",
+                    "name": "The Sickness 10th Anniversary Edition",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10902082",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2Cl6IRZXobSICf5U6EE1uI",
+                "length": 227.147,
+                "name": "The Game",
+                "popularity": "0.50000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:07w0hGS9XUdFsPBvDHy16y",
+                    "name": "The Sickness 10th Anniversary Edition",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10902083",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:54cWVWqgyFukgDKQYmaKM3",
+                "length": 274.312,
+                "name": "Stupify",
+                "popularity": "0.55000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4QGT8iDp1EaiGqlbqaQqm5",
+                    "name": "Believe",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10200801",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7kq2EDdllrmLZ9g94ioKJK",
+                "length": 236.088,
+                "name": "Rise",
+                "popularity": "0.37000",
+                "track-number": "7"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4QGT8iDp1EaiGqlbqaQqm5",
+                    "name": "Believe",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10200797",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4T7eIgngT4V2qmFSsgvU0o",
+                "length": 269.475,
+                "name": "Awaken",
+                "popularity": "0.38000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6uk3P8Y3DuoUlQEiWvhrh8",
+                    "name": "Ten Thousand Fists",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10500766",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4VGUcTzWj0ebZ0UgI9irJL",
+                "length": 245.5,
+                "name": "Stricken",
+                "popularity": "0.64000",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:07w0hGS9XUdFsPBvDHy16y",
+                    "name": "The Sickness 10th Anniversary Edition",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10902085",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3tcBmgg8ZZpUfVqAvGG9Xl",
+                "length": 203.851,
+                "name": "Violence Fetish",
+                "popularity": "0.45000",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5CKqOHOCHjIkyflm53l6p0",
+                    "name": "Indestructible",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR IS IT LI LT LU LV MC NL NO PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10800137",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:64O9IqFovykUaDuUVh1dnZ",
+                "length": 256.22,
+                "name": "Criminal",
+                "popularity": "0.35000",
+                "track-number": "10"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6uk3P8Y3DuoUlQEiWvhrh8",
+                    "name": "Ten Thousand Fists",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10501023",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4JLnd51jgUtPTSFgDGLVvD",
+                "length": 247.357,
+                "name": "Pain Redefined",
+                "popularity": "0.43000",
+                "track-number": "13"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:4QGT8iDp1EaiGqlbqaQqm5",
+                    "name": "Believe",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10200800",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7qnLO3YTRZkLQUv205WUng",
+                "length": 191.668,
+                "name": "Intoxication",
+                "popularity": "0.37000",
+                "track-number": "6"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:07w0hGS9XUdFsPBvDHy16y",
+                    "name": "The Sickness 10th Anniversary Edition",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10902081",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:47H4oc7Zkihwae7ST7F4zp",
+                "length": 192.191,
+                "name": "Voices",
+                "popularity": "0.54000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6uk3P8Y3DuoUlQEiWvhrh8",
+                    "name": "Ten Thousand Fists",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10501020",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7br9UKBkUm0gsRNMlUslTL",
+                "length": 252.324,
+                "name": "Forgiven",
+                "popularity": "0.40000",
+                "track-number": "10"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:07w0hGS9XUdFsPBvDHy16y",
+                    "name": "The Sickness 10th Anniversary Edition",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10902086",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5Bzk53xgCAl9HSi0tZZzJv",
+                "length": 227.147,
+                "name": "Fear",
+                "popularity": "0.47000",
+                "track-number": "6"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6uk3P8Y3DuoUlQEiWvhrh8",
+                    "name": "Ten Thousand Fists",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10501017",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2tQz6ykziF2BWZu3A20ekP",
+                "length": 228.297,
+                "name": "Sons Of Plunder",
+                "popularity": "0.48000",
+                "track-number": "7"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:07w0hGS9XUdFsPBvDHy16y",
+                    "name": "The Sickness 10th Anniversary Edition",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10902087",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4R9tOXGwof3n8pHkeLn99q",
+                "length": 225.081,
+                "name": "Numb",
+                "popularity": "0.43000",
+                "track-number": "7"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:07w0hGS9XUdFsPBvDHy16y",
+                    "name": "The Sickness 10th Anniversary Edition",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa",
+                        "name": "Disturbed"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10902091",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2kxwahjnNGkqBWgHs8pHdk",
+                "length": 228.977,
+                "name": "Droppin' Plates",
+                "popularity": "0.46000",
+                "track-number": "11"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:3VedcOGPiTqVL5EWQVEOIK"
     }
 ]
