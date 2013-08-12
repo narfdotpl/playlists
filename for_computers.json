@@ -530,7 +530,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
                 },
                 "available": true,
                 "external-ids": [
@@ -1581,7 +1581,7 @@
                 "href": "spotify:track:3H3cOQ6LBLSvmcaV7QkZEu",
                 "length": 207.773,
                 "name": "Aerodynamic",
-                "popularity": "0.66000",
+                "popularity": "0.65000",
                 "track-number": "2"
             },
             {
@@ -2190,7 +2190,7 @@
                 "href": "spotify:track:09aNhXGvfo8wAhUxcsDFlZ",
                 "length": 147.483,
                 "name": "1976",
-                "popularity": "0.58000",
+                "popularity": "0.57000",
                 "track-number": "3"
             },
             {
@@ -2675,7 +2675,7 @@
                     }
                 ],
                 "availability": {
-                    "territories": "DE EE FI HK LT LV MY NO PL PT SE SG"
+                    "territories": "DE EE FI HK IS LT LV MY NO PL PT SE SG"
                 },
                 "available": true,
                 "external-ids": [
@@ -3087,7 +3087,7 @@
                 "href": "spotify:track:5ynWvN3bQymHVThxutO4hG",
                 "length": 205.865,
                 "name": "Bad Girlfriend",
-                "popularity": "0.66000",
+                "popularity": "0.65000",
                 "track-number": "8"
             },
             {
@@ -3551,7 +3551,7 @@
                 "href": "spotify:track:0dQcxdg94MhUHMHhfbgLQ3",
                 "length": 252.873,
                 "name": "Where The Wild Things Are(feat: Mind Over Matter)",
-                "popularity": "0.37000",
+                "popularity": "0.36000",
                 "track-number": "12"
             },
             {
@@ -3694,7 +3694,7 @@
                 "href": "spotify:track:1NDJi8zWYCHCFJAjbb97bz",
                 "length": 231.748,
                 "name": "Kenji",
-                "popularity": "0.47000",
+                "popularity": "0.46000",
                 "track-number": "13"
             },
             {
