@@ -2917,6 +2917,34 @@
             },
             {
                 "album": {
+                    "href": "spotify:album:1BVdtqNeJHiAeAJLn1BYMP",
+                    "name": "Crucify",
+                    "released": "1992"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1KsASRNugxU85T0u6zSg32",
+                        "name": "Tori Amos"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USAT20001218",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3ip6Nm5qlybRQcAgPADr4g",
+                "length": 193.629,
+                "name": "Smells Like Teen Spirit",
+                "popularity": "0.50000",
+                "track-number": "4"
+            },
+            {
+                "album": {
                     "href": "spotify:album:75Y9mjR8mFGdiYJXQgq2Y9",
                     "name": "Nouvelle Vague Special Edition",
                     "released": "2004"
