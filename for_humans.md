@@ -252,6 +252,9 @@
 5. The Offspring - (Can't Get My) Head Around You
 6. Sum 41 - Still Waiting
 7. AFI - The Days Of The Phoenix
+8. lostprophets - Burn, Burn
+9. The Offspring - Come Out Swinging
+10. Nirvana - Smells Like Teen Spirit
 
 
 [Renzokuken](http://open.spotify.com/user/1166776863/playlist/0Vq3HyLv8uo3xKOGJVamwT)

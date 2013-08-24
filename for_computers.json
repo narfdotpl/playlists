@@ -5255,6 +5255,90 @@
                 "name": "The Days Of The Phoenix",
                 "popularity": "0.44000",
                 "track-number": "9"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1yTFzBsADkqLs0mMR6y5uc",
+                    "name": "Start Something",
+                    "released": "2004"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7KnaZr690xW0sCihF9Z8oP",
+                        "name": "lostprophets"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBEGS0300067",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1Y0iARJI6JCrb9PMODzUA8",
+                "length": 216.479,
+                "name": "Burn, Burn",
+                "popularity": "0.47000",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1AcUejY65mpt5Ze1Nx5xuV",
+                    "name": "Conspiracy Of One",
+                    "released": "2000"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ",
+                        "name": "The Offspring"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USSM10015954",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1vdUvZVHp3FwEXvgtKVgIL",
+                "length": 167.379,
+                "name": "Come Out Swinging",
+                "popularity": "0.47000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3SBQfBKAPWvCr4qse1uNis",
+                    "name": "Nirvana",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+                        "name": "Nirvana"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USGF19942501",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4hy4fb5D1KL50b3sng9cjw",
+                "length": 301.163,
+                "name": "Smells Like Teen Spirit",
+                "popularity": "0.73000",
+                "track-number": "5"
             }
         ],
         "uri": "spotify:user:1166776863:playlist:38flX8c4TsNvMsM468AGNM"
