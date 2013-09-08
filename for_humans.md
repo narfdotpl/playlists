@@ -295,3 +295,35 @@
 22. Disturbed - Sons Of Plunder
 23. Disturbed - Numb
 24. Disturbed - Droppin' Plates
+
+
+[Jack White et alii](http://open.spotify.com/user/1166776863/playlist/0nRORj1jG11iwg8R8VaAp2)
+--------------------
+
+1. The White Stripes - Rag And Bone
+2. The Raconteurs - Salute Your Solution
+3. The Black Keys - Sinister Kid
+4. The Dead Weather - I Can't Hear You
+5. The White Stripes - Hello Operator
+6. The White Stripes - A Martyr For My Love For You
+7. Black Rebel Motorcycle Club - Beat The Devil's Tattoo
+8. Queens Of The Stone Age - Tangled Up In Plaid
+9. The Raconteurs - Broken Boy Soldier
+10. The Raconteurs - Steady, As She Goes
+11. Wolfmother - Joker And The Thief
+12. Nico Vega - So so Fresh
+13. The Kills - Sour Cherry
+14. The Black Keys - Have Love Will Travel
+15. The Black Keys - The Baddest Man Alive
+16. The Raconteurs - Carolina Drama
+17. Beck - Farewell Ride
+18. The Black Keys - Tighten Up
+19. The White Stripes - The Denial Twist
+20. The Black Keys - Howlin’ For You
+21. The White Stripes - Little Bird
+22. Black Rebel Motorcycle Club - Spread Your Love
+23. The White Stripes - Seven Nation Army
+24. The Raconteurs - Many Shades Of Black
+25. The White Stripes - Catch Hell Blues
+26. The Black Keys - Everywhere I Go
+27. The White Stripes - Ball And Biscuit

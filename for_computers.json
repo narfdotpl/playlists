@@ -6201,5 +6201,769 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:3VedcOGPiTqVL5EWQVEOIK"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/0nRORj1jG11iwg8R8VaAp2",
+        "name": "Jack White et alii",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:5bIRH87yhUXb6IaW61mNQj",
+                    "name": "Icky Thump",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4F84IBURUo98rz4r61KF70",
+                        "name": "The White Stripes"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX NL NO NZ PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0700155",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5EYtsKoYWDGlrQpjt1hGzm",
+                "length": 228.245,
+                "name": "Rag And Bone",
+                "popularity": "0.42000",
+                "track-number": "9"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6RY3B7L3xDT8SQS549dJr5",
+                    "name": "Consolers Of The Lonely",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4wo1267SJuUfHgasdlfNfc",
+                        "name": "The Raconteurs"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC NL NO PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0800208",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6nkMHXkhmvCzxtvewoOEJT",
+                "length": 179.484,
+                "name": "Salute Your Solution",
+                "popularity": "0.52000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2nHVK3wblZ4QDckFYAzauw",
+                    "name": "Brothers",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz",
+                        "name": "The Black Keys"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USNO11000085",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5yLbCoM5OTgNZTHziFJkyA",
+                "length": 224.793,
+                "name": "Sinister Kid",
+                "popularity": "0.52000",
+                "track-number": "10"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5QaEJj1wEqIePsjVtMzReu",
+                    "name": "Sea Of Cowards",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4AZab8zo2nTYd7ORDmQu0V",
+                        "name": "The Dead Weather"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE FI FR GB IE IS IT LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWB11000583",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3O1rkVw6tpDizXzHqMZfh5",
+                "length": 215.355,
+                "name": "I Can't Hear You",
+                "popularity": "0.56000",
+                "track-number": "6"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0vkb15L7oNuvVcznJRE7xc",
+                    "name": "De Stijl",
+                    "released": "2000"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4F84IBURUo98rz4r61KF70",
+                        "name": "The White Stripes"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC MX NL NO NZ PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0100378",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4nLcmk56usd2jIz7VB5Bfr",
+                "length": 156.398,
+                "name": "Hello Operator",
+                "popularity": "0.42000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5bIRH87yhUXb6IaW61mNQj",
+                    "name": "Icky Thump",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4F84IBURUo98rz4r61KF70",
+                        "name": "The White Stripes"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX NL NO NZ PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0700157",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0gyklQh759MsvEHnhDKEWK",
+                "length": 259.802,
+                "name": "A Martyr For My Love For You",
+                "popularity": "0.40000",
+                "track-number": "11"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5WJof3xGnEPiJkZqc4NiXl",
+                    "name": "Beat The Devil\u2019s Tattoo",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1tpXaFf2F55E7kVJON4j4G",
+                        "name": "Black Rebel Motorcycle Club"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IT LI LT LU LV MC MY NL NO NZ PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USVR91057901",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7DKmsHM3bjJHvnkjMp0S6H",
+                "length": 227.016,
+                "name": "Beat The Devil's Tattoo",
+                "popularity": "0.58000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2Pf0cjNcEcNRXIlokd9Irp",
+                    "name": "Lullabies To Paralyze",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4pejUc4iciQfgdX6OKulQn",
+                        "name": "Queens Of The Stone Age"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR HK IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USIR10500112",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2FDctXkFxPUnO07L7d0f8h",
+                "length": 253.788,
+                "name": "Tangled Up In Plaid",
+                "popularity": "0.42000",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0ftyDJlAoBMmICs2MHvVZR",
+                    "name": "Broken Boy Soldiers",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4wo1267SJuUfHgasdlfNfc",
+                        "name": "The Raconteurs"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0600004",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3si9NNJymra8hylkysH8eI",
+                "length": 182.439,
+                "name": "Broken Boy Soldier",
+                "popularity": "0.45000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0ftyDJlAoBMmICs2MHvVZR",
+                    "name": "Broken Boy Soldiers",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4wo1267SJuUfHgasdlfNfc",
+                        "name": "The Raconteurs"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0600001",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2VAlwOewe5c40VHyqozF1V",
+                "length": 215.512,
+                "name": "Steady, As She Goes",
+                "popularity": "0.45000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0NV96Rqo10ytbCHlR14E8r",
+                    "name": "Wolfmother",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3yEnArbNHyTCwMRvD9SBy4",
+                        "name": "Wolfmother"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU DE EE FI HK LT LV MY NO PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "AUUM70500115",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6dNJ3lasVLPd0078T9yqlm",
+                "length": 279.959,
+                "name": "Joker And The Thief",
+                "popularity": "0.35000",
+                "track-number": "6"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:68Dki9KmH1C0SfrcBBbUhb",
+                    "name": "Nico Vega",
+                    "released": "2009"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1gUch6pcj8OKOw6kKlWAPE",
+                        "name": "Nico Vega"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USHWN0800602",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7odCrnqeVOgvEWnTzDMXwA",
+                "length": 189.315,
+                "name": "So so Fresh",
+                "popularity": "0.40000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3MRPakYK6gGxVoPnP291xc",
+                    "name": "Midnight Boom",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:5BYuBzqmTXwUDw2rYkwExr",
+                        "name": "The Kills"
+                    }
+                ],
+                "availability": {
+                    "territories": ""
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBCEL0700588",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4vRH90A79KUb0WxLTd73xE",
+                "length": 189.184,
+                "name": "Sour Cherry",
+                "popularity": "0.00000",
+                "track-number": "9"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1BicwqogYc0pnMIH3tr0cM",
+                    "name": "Thickfreakness",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz",
+                        "name": "The Black Keys"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USFP70400158",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0FpsmxqaTIhumiQaqlrA4Z",
+                "length": 184.949,
+                "name": "Have Love Will Travel",
+                "popularity": "0.53000",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2QNxswoKhMlgR0shWWlnDQ",
+                    "name": "The Baddest Man Alive",
+                    "released": "2012"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz",
+                        "name": "The Black Keys"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "QMPS91210101",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0aFaTNe0oQtCxOLGPJG0yC",
+                "length": 231.173,
+                "name": "The Baddest Man Alive",
+                "popularity": "0.55000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6RY3B7L3xDT8SQS549dJr5",
+                    "name": "Consolers Of The Lonely",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4wo1267SJuUfHgasdlfNfc",
+                        "name": "The Raconteurs"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC NL NO PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0800220",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6Q7dnTkc0tuybWRTh526Hb",
+                "length": 355.361,
+                "name": "Carolina Drama",
+                "popularity": "0.48000",
+                "track-number": "14"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:696rc2CjDogog1gvi1QVFL",
+                    "name": "Guero",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS",
+                        "name": "Beck"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR HK IE IS IT LI LT LV MC MY NL NO NZ PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USIR10500089",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0j3D1YdpHd1ZXh2kS7LkzC",
+                "length": 258.834,
+                "name": "Farewell Ride",
+                "popularity": "0.30000",
+                "track-number": "11"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6BhS0iZh607Op7sWvSXT4o",
+                    "name": "Brothers",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz",
+                        "name": "The Black Keys"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB HK IE IT LI LT LU MC MY NL NO PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USNO11000078",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:77mfXkPssv7dSgl8oZOsoZ",
+                "length": 211.277,
+                "name": "Tighten Up",
+                "popularity": "0.65000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:39CQ9tlFmcmE2pN6PkJWvZ",
+                    "name": "Get Behind Me Satan",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4F84IBURUo98rz4r61KF70",
+                        "name": "The White Stripes"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC MX NL NO NZ PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0562550",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7yYvNnQeWmIiXBs0NLYPnx",
+                "length": 155.954,
+                "name": "The Denial Twist",
+                "popularity": "0.40000",
+                "track-number": "6"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2nHVK3wblZ4QDckFYAzauw",
+                    "name": "Brothers",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz",
+                        "name": "The Black Keys"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USNO11000079",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:274voeiGXAtDEQ5KWfNzLK",
+                "length": 192.034,
+                "name": "Howlin\u2019 For You",
+                "popularity": "0.64000",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0vkb15L7oNuvVcznJRE7xc",
+                    "name": "De Stijl",
+                    "released": "2000"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4F84IBURUo98rz4r61KF70",
+                        "name": "The White Stripes"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC MX NL NO NZ PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0100379",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:20E07auOl7mPzHfx9dSa22",
+                "length": 187.04,
+                "name": "Little Bird",
+                "popularity": "0.38000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5abOBUmWegGxl1YUi28ovw",
+                    "name": "B.R.M.C.",
+                    "released": "2001"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1tpXaFf2F55E7kVJON4j4G",
+                        "name": "Black Rebel Motorcycle Club"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USVI20000601",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4mpAm83XX1iS63l8wmkEC6",
+                "length": 225.604,
+                "name": "Spread Your Love",
+                "popularity": "0.58000",
+                "track-number": "9"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0rRNLpdA8nA8Sm8Fk490b9",
+                    "name": "Elephant",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4F84IBURUo98rz4r61KF70",
+                        "name": "The White Stripes"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC MX NL NO NZ PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0200608",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3m6KkYKdnbffMpGd9Pm9FP",
+                "length": 232.192,
+                "name": "Seven Nation Army",
+                "popularity": "0.72000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6RY3B7L3xDT8SQS549dJr5",
+                    "name": "Consolers Of The Lonely",
+                    "released": "2008"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4wo1267SJuUfHgasdlfNfc",
+                        "name": "The Raconteurs"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC NL NO PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0800214",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6rl0N6NrhQOlieRUAy9g4W",
+                "length": 264.926,
+                "name": "Many Shades Of Black",
+                "popularity": "0.45000",
+                "track-number": "8"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5bIRH87yhUXb6IaW61mNQj",
+                    "name": "Icky Thump",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4F84IBURUo98rz4r61KF70",
+                        "name": "The White Stripes"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX NL NO NZ PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0700158",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6aC10p3FWgE1aDNTyO5S6s",
+                "length": 258.337,
+                "name": "Catch Hell Blues",
+                "popularity": "0.41000",
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1BicwqogYc0pnMIH3tr0cM",
+                    "name": "Thickfreakness",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz",
+                        "name": "The Black Keys"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USFP70400160",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5SJAB9vOWTEichPXYqEzuJ",
+                "length": 341.138,
+                "name": "Everywhere I Go",
+                "popularity": "0.48000",
+                "track-number": "7"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0rRNLpdA8nA8Sm8Fk490b9",
+                    "name": "Elephant",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4F84IBURUo98rz4r61KF70",
+                        "name": "The White Stripes"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC MX NL NO NZ PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBBKS0200615",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5SI9IqXXoXic1gy93XVdS0",
+                "length": 439.391,
+                "name": "Ball And Biscuit",
+                "popularity": "0.49000",
+                "track-number": "8"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:0nRORj1jG11iwg8R8VaAp2"
     }
 ]
