@@ -327,3 +327,13 @@
 25. The White Stripes - Catch Hell Blues
 26. The Black Keys - Everywhere I Go
 27. The White Stripes - Ball And Biscuit
+
+
+[Old No. 7](http://open.spotify.com/user/1166776863/playlist/6qJY9Fb9SoJqvEWZeOIJjI)
+-----------
+
+1. Hurt - Rapture
+2. 3 Doors Down - When I'm Gone
+3. Seether - Driven Under
+4. Staind - It's Been Awhile
+5. Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder - From Can to Can't

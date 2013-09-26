@@ -6965,5 +6965,165 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:0nRORj1jG11iwg8R8VaAp2"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/6qJY9Fb9SoJqvEWZeOIJjI",
+        "name": "Old No. 7",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:2P5omMI0SDu3lWiSenca1h",
+                    "name": "Vol. 1",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3jnoH2xrhvxUgeN2rrudHL",
+                        "name": "Hurt"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USCA20501482",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:00WXjbcR195RztyuAQ90ub",
+                "length": 341.034,
+                "name": "Rapture",
+                "popularity": "0.48000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3vF6tOBY8xo3X2o1retYxS",
+                    "name": "Away From The Sun",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:2RTUTCvo6onsAnheUk3aL9",
+                        "name": "3 Doors Down"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LT LV MY NL NO NZ PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USUR10200759",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1Nuqm2gavvcmZtEFWvbDbK",
+                "length": 260.795,
+                "name": "When I'm Gone",
+                "popularity": "0.60000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:7ID6UK0LDEnU58fSJppw3i",
+                    "name": "Disclaimer II",
+                    "released": "2004"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6B5c4sch27tWHAGdarpPaW",
+                        "name": "Seether"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWU30400069",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1rS5qtKzF6CQwiaFb47QJ6",
+                "length": 273.214,
+                "name": "Driven Under",
+                "popularity": "0.39000",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0HogGfosAvj4tF3GTv2KIE",
+                    "name": "Break The Cycle",
+                    "released": "2001"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:5KDIH2gF0VpelTqyQS7udb",
+                        "name": "Staind"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USEE10100288",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1BExV8JprNJLvLeDE9qdEW",
+                "length": 265.998,
+                "name": "It's Been Awhile",
+                "popularity": "0.57000",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:066mZjq57UkWDAM7A6PWce",
+                    "name": "Sound City - Real to Reel",
+                    "released": "2013"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:0nhDd1RWjZ6SDV1Vg1Ku2Q",
+                        "name": "Corey Taylor"
+                    },
+                    {
+                        "href": "spotify:artist:7mRVAzlt1fAAR9Cut6Rq8c",
+                        "name": "Dave Grohl"
+                    },
+                    {
+                        "href": "spotify:artist:6aXZHzvxNhl8rhA0qd4YYH",
+                        "name": "Rick Nielsen"
+                    },
+                    {
+                        "href": "spotify:artist:2l1xo0P1oTE66MYpoThI6u",
+                        "name": "Scott Reeder"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRW31200010",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0cqkujgud4p3rTT5yJ4dz3",
+                "length": 290.6,
+                "name": "From Can to Can't",
+                "popularity": "0.56000",
+                "track-number": "6"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:6qJY9Fb9SoJqvEWZeOIJjI"
     }
 ]
