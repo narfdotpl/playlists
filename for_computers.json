@@ -7125,5 +7125,152 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:6qJY9Fb9SoJqvEWZeOIJjI"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/05brpCSfLLUw63xoRc75eO",
+        "name": "Release The Kraken!",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:39K4szs2ekwCWswt1AaEnE",
+                    "name": "A Eulogy For The Damned",
+                    "released": "2012"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3nutnJ57QnbWEdCWn2EyWo",
+                        "name": "Orange Goblin"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBADD1126001",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6GqOBMI9JLWeEEQ2365ZpM",
+                "length": 290.182,
+                "name": "Red Tide Rising",
+                "popularity": "0.43000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1n8QZFcwx5aQ2LIIlj0iYe",
+                    "name": "Blood Mountain",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT",
+                        "name": "Mastodon"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE10602063",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6nmsnhkJYvyYu8TheUa0Xf",
+                "length": 259.985,
+                "name": "Colony Of Birchmen",
+                "popularity": "0.47000",
+                "track-number": "7"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:46C0adDLS2a95jVK9oDby7",
+                    "name": "Advance And Vanquish",
+                    "released": "2004"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:0gNkDUN42nBxKOcpoF7iQ4",
+                        "name": "3 Inches Of Blood"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "NLA320420869",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:52mxPsGKbfyElOA0FCtc0l",
+                "length": 271.41,
+                "name": "Deadly Sinners",
+                "popularity": "0.47000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:02lHOOSSZXccX6QoCSbpey",
+                    "name": "Pure Rock Fury",
+                    "released": "2001"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:161AC1AVRkIGIMxyj5djFQ",
+                        "name": "Clutch"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB IE IS IT LI LT LU LV MC NL NO NZ PL PT SE US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USAT20100049",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1zTeAVnh8z7socaDE3IR9R",
+                "length": 202.074,
+                "name": "Pure Rock Fury",
+                "popularity": "0.42000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:7lObP1GanG65wToWzufQtq",
+                    "name": "The Hunter",
+                    "released": "2011"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT",
+                        "name": "Mastodon"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB IE IS IT LT LU LV MC NL NO NZ PL PT SE"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USRE11100536",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6PPQEvj7UZ2hXM80Qo7gR1",
+                "length": 220.375,
+                "name": "Curl Of The Burl",
+                "popularity": "0.49000",
+                "track-number": "2"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:05brpCSfLLUw63xoRc75eO"
     }
 ]

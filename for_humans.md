@@ -337,3 +337,13 @@
 3. Seether - Driven Under
 4. Staind - It's Been Awhile
 5. Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder - From Can to Can't
+
+
+[Release The Kraken!](http://open.spotify.com/user/1166776863/playlist/05brpCSfLLUw63xoRc75eO)
+---------------------
+
+1. Orange Goblin - Red Tide Rising
+2. Mastodon - Colony Of Birchmen
+3. 3 Inches Of Blood - Deadly Sinners
+4. Clutch - Pure Rock Fury
+5. Mastodon - Curl Of The Burl
