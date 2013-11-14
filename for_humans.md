@@ -268,8 +268,8 @@
 5. Protest The Hero - Blindfolds Aside
 
 
-[$: Disturbed](http://open.spotify.com/user/1166776863/playlist/3VedcOGPiTqVL5EWQVEOIK)
---------------
+[★ Disturbed](http://open.spotify.com/user/1166776863/playlist/3VedcOGPiTqVL5EWQVEOIK)
+-------------
 
 1. Disturbed - A Welcome Burden
 2. Disturbed - Conflict
