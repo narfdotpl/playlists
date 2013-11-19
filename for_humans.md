@@ -347,3 +347,17 @@
 3. 3 Inches Of Blood - Deadly Sinners
 4. Clutch - Pure Rock Fury
 5. Mastodon - Curl Of The Burl
+
+
+[Brits](http://open.spotify.com/user/1166776863/playlist/41L7777bbifEyU2Gwgmkma)
+-------
+
+1. Placebo - Pure Morning (Radio Edit) [2004 - Remaster]
+2. Blur - Song 2
+3. Franz Ferdinand - Take Me Out
+4. Arctic Monkeys - From The Ritz To The Rubble
+5. Gorillaz - Kids With Guns - Jamie T's Turns To Monsters Mix
+6. Arctic Monkeys - The View From The Afternoon
+7. Placebo - Every You Every Me - Single Mix
+8. Pixies - Where Is My Mind?
+9. Radiohead - No Surprises

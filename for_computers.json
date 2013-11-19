@@ -7272,5 +7272,264 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:05brpCSfLLUw63xoRc75eO"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/41L7777bbifEyU2Gwgmkma",
+        "name": "Brits",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:0O6mO9U3gfrcrE2ohu92Dz",
+                    "name": "Massive Hits! - Nineties",
+                    "released": "2011"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6RZUqkomCmb8zCRqc9eznB",
+                        "name": "Placebo"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB GR IE IS IT LI LT LU LV MC NL NO PL PT SE TR"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBAAA0400500",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7CYJxomLmFpKSQc3Vp4gJx",
+                "length": 247.827,
+                "name": "Pure Morning (Radio Edit) [2004 - Remaster]",
+                "popularity": "0.55000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1bgkxe4t0HNeLn9rhrx79x",
+                    "name": "Blur: The Best Of",
+                    "released": "2000"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS",
+                        "name": "Blur"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE CA CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG TR TW US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBAYE9600015",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3GfOAdcoc3X5GPiiXmpBjK",
+                "length": 122.175,
+                "name": "Song 2",
+                "popularity": "0.78000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:03akiuheNt5mJqltALnalP",
+                    "name": "Franz Ferdinand",
+                    "released": "2004"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A",
+                        "name": "Franz Ferdinand"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB GR IE IS IT LI LT LU LV MC NL NO PL PT SE TR"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBCEL0300192",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0ancVQ9wEcHVd0RrGICTE4",
+                "length": 237.291,
+                "name": "Take Me Out",
+                "popularity": "0.73000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2PXlvqTzGBNetlGct7L5e6",
+                    "name": "Whatever People Say I Am, That's What I'm Not",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7Ln80lUS6He07XvHI8qqHH",
+                        "name": "Arctic Monkeys"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT BE CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MY NL NO PL PT SE SG TR TW"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBCEL0501191",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:7vhlwjoNX2gsC4YF1wnUmX",
+                "length": 193.655,
+                "name": "From The Ritz To The Rubble",
+                "popularity": "0.63000",
+                "track-number": "12"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0pdYY0CHFRVFLBZEPEKTMZ",
+                    "name": "D-Sides",
+                    "released": "2007"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ",
+                        "name": "Gorillaz"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE CA CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG TR TW US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBAYE0702884",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:08GF9fkODWYqmllToQ6qqm",
+                "length": 262.887,
+                "name": "Kids With Guns - Jamie T's Turns To Monsters Mix",
+                "popularity": "0.38000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2PXlvqTzGBNetlGct7L5e6",
+                    "name": "Whatever People Say I Am, That's What I'm Not",
+                    "released": "2005"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7Ln80lUS6He07XvHI8qqHH",
+                        "name": "Arctic Monkeys"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT BE CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MY NL NO PL PT SE SG TR TW"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBCEL0501180",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4fCpHhES8IExESfkZmRQQ3",
+                "length": 218.388,
+                "name": "The View From The Afternoon",
+                "popularity": "0.61000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5H4t4yeimHOxZrPwcsdw2V",
+                    "name": "Cruel Intentions",
+                    "released": "1999"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6RZUqkomCmb8zCRqc9eznB",
+                        "name": "Placebo"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE CA CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG TR TW US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBAAA9820849",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4arleVbvlZQ0TUWpBveUM6",
+                "length": 215.773,
+                "name": "Every You Every Me - Single Mix",
+                "popularity": "0.68000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:718KJ6VFOdcqCFCWykJKoG",
+                    "name": "Death To The Pixies",
+                    "released": "1997"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6zvul52xwTWzilBZl6BUbT",
+                        "name": "Pixies"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE CA CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG TR TW US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBAFL9700100",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:5BP0oaQ1VhuaznT77CBXQp",
+                "length": 231.931,
+                "name": "Where Is My Mind?",
+                "popularity": "0.75000",
+                "track-number": "14"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:5bNn3KPcrlgLmhRXj4d2EX",
+                    "name": "OK Computer - Collector's Edition",
+                    "released": "1997"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
+                        "name": "Radiohead"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE CA CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG TR TW US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "GBAYE9700386",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4uBzDO9wmPEXBKhfwAlMFJ",
+                "length": 228.794,
+                "name": "No Surprises",
+                "popularity": "0.70000",
+                "track-number": "10"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:41L7777bbifEyU2Gwgmkma"
     }
 ]
