@@ -361,3 +361,24 @@
 7. Placebo - Every You Every Me - Single Mix
 8. Pixies - Where Is My Mind?
 9. Radiohead - No Surprises
+
+
+[Nu, Not, and Beyond](http://open.spotify.com/user/1166776863/playlist/6NTwQ0fRKxDA9r1efoWo6n)
+---------------------
+
+1. Trapt - Headstrong
+2. Linkin Park - One Step Closer
+3. Drowning Pool - Bodies
+4. Papa Roach - Last Resort - Album Version (Ex)
+5. Limp Bizkit - Rollin' (Air Raid Vehicle)
+6. Linkin Park - Don't Stay
+7. Drowning Pool - All Over Me
+8. Linkin Park - Somewhere I Belong
+9. Limp Bizkit - My Way
+10. Drowning Pool - Tear Away
+11. Korn - Falling Away from Me
+12. Mudvayne - Happy?
+13. In Flames - The Mirror's Truth
+14. Bullet For My Valentine - The Last Fight
+15. Drowning Pool - Sermon
+16. Limp Bizkit - Take A Look Around

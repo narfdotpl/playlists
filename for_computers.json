@@ -7531,5 +7531,462 @@
             }
         ],
         "uri": "spotify:user:1166776863:playlist:41L7777bbifEyU2Gwgmkma"
+    },
+    {
+        "http_url": "http://open.spotify.com/user/1166776863/playlist/6NTwQ0fRKxDA9r1efoWo6n",
+        "name": "Nu, Not, and Beyond",
+        "tracks": [
+            {
+                "album": {
+                    "href": "spotify:album:4jd0qgZ4gaHW6b0lgpZKWk",
+                    "name": "Trapt",
+                    "released": "2002"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1UdQqCUR7RwB9YYJONwbdM",
+                        "name": "Trapt"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE CA CH DE DK EE ES FI FR GB GR IE IS IT LI LT LU LV MC NL NO NZ PL PT SE TR US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWB10201991",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1AEYT6VxrxXPMoQUxsY0E4",
+                "length": 286.312,
+                "name": "Headstrong",
+                "popularity": "0.71000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:6hPkbAV3ZXpGZBGUvL6jVM",
+                    "name": "Hybrid Theory",
+                    "released": "2000"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz",
+                        "name": "Linkin Park"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB GR IE IS IT LI LT LU LV MC NL NO PL PT SE TR US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWB10002399",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3K4HG9evC7dg3N0R9cYqk4",
+                "length": 155.902,
+                "name": "One Step Closer",
+                "popularity": "0.70000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2x69bUM3cqWJ1ckKpwCNgh",
+                    "name": "Sinner",
+                    "released": "2001"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1E4r4z7ivGUcSAnCbINJ9v",
+                        "name": "Drowning Pool"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG TR TW"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWU30006502",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3k4NN1toPhPi7idAtJSrHZ",
+                "length": 202.204,
+                "name": "Bodies",
+                "popularity": "0.66000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:03n4EmWNweUARTWYtmlPqt",
+                    "name": "To Be Loved: The Best Of Papa Roach",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:4RddZ3iHvSpGV4dvATac9X",
+                        "name": "Papa Roach"
+                    }
+                ],
+                "availability": {
+                    "territories": "AR AT AU BE CH DE DK EE FI FR GB GR IE IS IT LT LU LV NL NO NZ PL PT SE SG TR TW"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USDW10021712",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:4V05j7HDUU2bZQwDOeIySh",
+                "length": 200.714,
+                "name": "Last Resort - Album Version (Ex)",
+                "popularity": "0.70000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3uOEEa9T9s1lpoKzVCxZU0",
+                    "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+                    "released": "2000"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb",
+                        "name": "Limp Bizkit"
+                    }
+                ],
+                "availability": {
+                    "territories": "AR AT AU BE CH DE DK EE ES FI FR GB GR HK IE IS IT LT LU LV MY NL NO NZ PL PT SE SG TR TW"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USIR10001170",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1wlCaDAgPOCDogw24pB1fZ",
+                "length": 213.996,
+                "name": "Rollin' (Air Raid Vehicle)",
+                "popularity": "0.54000",
+                "track-number": "6"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+                    "name": "Meteora",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz",
+                        "name": "Linkin Park"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB GR IE IS IT LI LT LU LV MC NL NO PL PT SE TR"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWB10300464",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:2yss0n7KmvmSr4EHvjfFpn",
+                "length": 188.164,
+                "name": "Don't Stay",
+                "popularity": "0.54000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2x69bUM3cqWJ1ckKpwCNgh",
+                    "name": "Sinner",
+                    "released": "2001"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1E4r4z7ivGUcSAnCbINJ9v",
+                        "name": "Drowning Pool"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG TR TW"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWU30006504",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1kGiSN70i60gMozKuOGa68",
+                "length": 192.818,
+                "name": "All Over Me",
+                "popularity": "0.47000",
+                "track-number": "4"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
+                    "name": "Meteora",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz",
+                        "name": "Linkin Park"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT BE CH DE DK EE ES FI FR GB GR IE IS IT LI LT LU LV MC NL NO PL PT SE TR"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWB10300376",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:3fjmSxt0PskST13CSdBUFx",
+                "length": 216.741,
+                "name": "Somewhere I Belong",
+                "popularity": "0.57000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3uOEEa9T9s1lpoKzVCxZU0",
+                    "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+                    "released": "2000"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb",
+                        "name": "Limp Bizkit"
+                    }
+                ],
+                "availability": {
+                    "territories": "AR AT AU BE CH DE DK EE ES FI FR GB GR HK IE IS IT LT LU LV MY NL NO NZ PL PT SE SG TR TW"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USIR10001177",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:1cTIkQUcWtwooj2rDcNB5n",
+                "length": 273.266,
+                "name": "My Way",
+                "popularity": "0.64000",
+                "track-number": "5"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2x69bUM3cqWJ1ckKpwCNgh",
+                    "name": "Sinner",
+                    "released": "2001"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1E4r4z7ivGUcSAnCbINJ9v",
+                        "name": "Drowning Pool"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG TR TW"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWU30006503",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:20wNouGsdSPUmApC4Z8VqG",
+                "length": 254.494,
+                "name": "Tear Away",
+                "popularity": "0.57000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:38WhdHQdfrskDUR24xPslz",
+                    "name": "Issues",
+                    "released": "1999"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD",
+                        "name": "Korn"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT BE CA CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MX MY NL NO PL PT SE SG TR TW"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USSM19922479",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:27XWkDS9lKZT9jsveOqSDF",
+                "length": 270.992,
+                "name": "Falling Away from Me",
+                "popularity": "0.39000",
+                "track-number": "2"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:0dCRu5tVhx9fvbVZSxfjfP",
+                    "name": "Lost and Found",
+                    "released": "2003"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:2Pfv2w8a20xzC7Dr7QXRqM",
+                        "name": "Mudvayne"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE CA CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG TR TW US"
+                },
+                "available": true,
+                "explicit": true,
+                "external-ids": [
+                    {
+                        "id": "USSM10500054",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0INUE1K7cEiE8VH63Rv5RJ",
+                "length": 216.689,
+                "name": "Happy?",
+                "popularity": "0.65000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:1jLQWzMrSGDFW8opzuOkhr",
+                    "name": "A Sense Of Purpose",
+                    "released": "2011"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs",
+                        "name": "In Flames"
+                    }
+                ],
+                "availability": {
+                    "territories": "AT AU BE CH DE ES FR GB GR IE IT LU NL NZ PL PT"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "DED830703843",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6ytRIrFSixcNzqlgDJxwjU",
+                "length": 179.903,
+                "name": "The Mirror's Truth",
+                "popularity": "0.43000",
+                "track-number": "1"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3q3DB4fElKDIDE2bXTLFlb",
+                    "name": "Fever",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:7iWiAD5LLKyiox2grgfmUT",
+                        "name": "Bullet For My Valentine"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE CA DE DK EE ES FI FR GB GR HK IE IS IT LT LU LV MC MX MY NL NO NZ PL PT SE SG TR TW US"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USJI11000033",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:79rFv44RxuMb70y6sHC14l",
+                "length": 259.592,
+                "name": "The Last Fight",
+                "popularity": "0.63000",
+                "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:2x69bUM3cqWJ1ckKpwCNgh",
+                    "name": "Sinner",
+                    "released": "2001"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1E4r4z7ivGUcSAnCbINJ9v",
+                        "name": "Drowning Pool"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE CH DE DK EE ES FI FR GB GR HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG TR TW"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWU30006511",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:67ZiXKao0yuwkGoP5d8Q0J",
+                "length": 259.671,
+                "name": "Sermon",
+                "popularity": "0.36000",
+                "track-number": "11"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:3uOEEa9T9s1lpoKzVCxZU0",
+                    "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+                    "released": "2000"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb",
+                        "name": "Limp Bizkit"
+                    }
+                ],
+                "availability": {
+                    "territories": "AR AT AU BE CH DE DK EE ES FI FR GB GR HK IE IS IT LT LU LV MY NL NO NZ PL PT SE SG TR TW"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USIR10000604",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0N5aQPSHQAADNV3VbRH7Ph",
+                "length": 321.373,
+                "name": "Take A Look Around",
+                "popularity": "0.62000",
+                "track-number": "10"
+            }
+        ],
+        "uri": "spotify:user:1166776863:playlist:6NTwQ0fRKxDA9r1efoWo6n"
     }
 ]
