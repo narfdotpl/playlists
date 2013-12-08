@@ -60,15 +60,27 @@ def download_playlist_data(spotify_uri):
 
 
 def download_track_data(spotify_uri):
-    sleep(0.1)
-    http_url = 'http://ws.spotify.com/lookup/1/.json?uri=' + spotify_uri
-    json_string = requests.get(http_url).text
+    url = 'http://ws.spotify.com/lookup/1/.json?uri=' + spotify_uri
 
-    try:
-        return json.loads(json_string)['track']
-    except ValueError as exception:
-        print json_string
+    # download until status code is 200
+    response = requests.get(url)
+    while response.status_code != 200:
+        print '-' * 80
+        print 'URL:', url
+        print 'status code:', response.status_code
         print
+        print response.text
+
+        sleep(1)
+        response = requests.get(url)
+
+    # read JSON
+    try:
+        return json.loads(response.text)['track']
+    except ValueError as exception:
+        print response.text
+        print
+
         raise exception
 
 
