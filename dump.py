@@ -62,7 +62,14 @@ def download_playlist_data(spotify_uri):
 def download_track_data(spotify_uri):
     sleep(0.1)
     http_url = 'http://ws.spotify.com/lookup/1/.json?uri=' + spotify_uri
-    return json.loads(requests.get(http_url).text)['track']
+    json_string = requests.get(http_url).text
+
+    try:
+        return json.loads(json_string)['track']
+    except ValueError as exception:
+        print json_string
+        print
+        raise exception
 
 
 def _main():
