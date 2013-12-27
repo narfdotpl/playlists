@@ -353,7 +353,7 @@
 [Brits](http://open.spotify.com/user/1166776863/playlist/41L7777bbifEyU2Gwgmkma)
 -------
 
-1. Placebo - Pure Morning (Radio Edit) [2004 - Remaster]
+1. Placebo - Pure Morning - Radio Edit; 2004 Remaster
 2. Blur - Song 2
 3. Franz Ferdinand - Take Me Out
 4. Arctic Monkeys - From The Ritz To The Rubble
