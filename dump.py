@@ -88,33 +88,31 @@ def _main():
     # get playlist URIs
     playlist_uris = []
     with open(COMPUTER_DUMP_PATH) as f:
-        for dct in json.load(f):
-            playlist_uris.append(dct['uri'])
+        for playlist in json.load(f):
+            playlist_uris.append(playlist['uri'])
 
     # get playlist data
-    computer_dump = []
+    playlists = []
     for uri in playlist_uris:
-        data = download_playlist_data(uri)
-        computer_dump.append(data)
+        playlists.append(download_playlist_data(uri))
 
     # get track data and remove "track_uris" key
-    for dct in computer_dump:
-        tracks = dct['tracks'] = []
-        for uri in dct.pop('track_uris'):
-            data = download_track_data(uri)
-            tracks.append(data)
+    for playlist in playlists:
+        tracks = playlist['tracks'] = []
+        for uri in playlist.pop('track_uris'):
+            tracks.append(download_track_data(uri))
 
-    # save file for computers
+    # save file for computers (JSON)
     with open(COMPUTER_DUMP_PATH, 'w') as f:
         # create json string
-        json_string = json.dumps(computer_dump, sort_keys=True, indent=4)
+        json_string = json.dumps(playlists, sort_keys=True, indent=4)
 
         # remove trailing whitespace and save
         f.write('\n'.join(x.rstrip() for x in json_string.split('\n')))
 
     # save file for humans
     with codecs.open(HUMAN_DUMP_PATH, encoding='utf-8', mode='w') as f:
-        for i, playlist in enumerate(computer_dump):
+        for i, playlist in enumerate(playlists):
             # separate playlists
             if i > 0:
                 f.write('\n\n')
@@ -147,9 +145,9 @@ def _main():
                 readme += line
 
     # add mixtapes list to README
-    for i, dct in enumerate(computer_dump, start=1):
-        readme += '%d. [%s](%s)\n' % (i, dct['name'], dct['http_url'])
-
+    for i, playlist in enumerate(playlists, start=1):
+        readme += '%d. [%s](%s)\n' % (i, playlist['name'],
+                                      playlist['http_url'])
     # save README
     with codecs.open(README_PATH, encoding='utf-8', mode='w') as f:
         f.write(readme)
