@@ -87,7 +87,7 @@
 [Kids These Days...](http://open.spotify.com/user/1166776863/playlist/3Ev1ieBjpTFJMuLRmY1i0K)
 --------------------
 
-1. Fall Out Boy - I Don't Care - Single Version
+1. Fall Out Boy - I Don't Care
 2. Lustra - Scotty Doesn't Know
 3. Puddle Of Mudd - She Hates Me
 4. The Fratellis - Chelsea Dagger
@@ -131,7 +131,7 @@
 --------
 
 1. Alien Ant Farm - Smooth Criminal
-2. Fall Out Boy, John Mayer - Beat It - Studio Version
+2. Fall Out Boy, John Mayer - Beat It
 3. John 5 - Beat It
 4. John 5 - Welcome to the Jungle
 5. Seether - Careless Whisper
@@ -370,7 +370,7 @@
 1. Trapt - Headstrong
 2. Linkin Park - One Step Closer
 3. Drowning Pool - Bodies
-4. Papa Roach - Last Resort - Album Version (Ex)
+4. Papa Roach - Last Resort
 5. Limp Bizkit - Rollin' (Air Raid Vehicle)
 6. Linkin Park - Don't Stay
 7. Drowning Pool - All Over Me
