@@ -64,7 +64,7 @@
 9. bloodsimple - Red Harvest
 10. Slipknot - Before I Forget
 11. Hatebreed - As Diehard As They Come
-12. Lamb of God - Laid To Rest
+12. Lamb of God - Laid to Rest
 13. Slipknot - (sic)
 14. bloodsimple - Dead Man Walking
 15. Slipknot - Wait And Bleed
