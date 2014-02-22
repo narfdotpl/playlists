@@ -147,11 +147,12 @@
 15. The White Stripes - Jolene (Live)
 16. Nostalgia 77, Alice Russell - Seven Nation Army
 17. Korn - Creep - Live
-18. Limp Bizkit - Behind Blue Eyes
-19. Tori Amos - Smells Like Teen Spirit
-20. Nouvelle Vague - Guns Of Brixton
-21. Nouvelle Vague - Ever Fallen In Love
-22. Nouvelle Vague - In A Manner Of Speaking
+18. Stone Sour - Wicked Game
+19. Limp Bizkit - Behind Blue Eyes
+20. Tori Amos - Smells Like Teen Spirit
+21. Nouvelle Vague - Guns Of Brixton
+22. Nouvelle Vague - Ever Fallen In Love
+23. Nouvelle Vague - In A Manner Of Speaking
 
 
 [Worn Out Jeans](http://open.spotify.com/user/1166776863/playlist/5ZbFi7etCQdJqtFp1rWIbM)

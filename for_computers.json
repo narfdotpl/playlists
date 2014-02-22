@@ -2947,6 +2947,34 @@
             },
             {
                 "album": {
+                    "href": "spotify:album:5eHk89PNorMd7e4wyxYiUV",
+                    "name": "Come What[ever] May",
+                    "released": "2006"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:49qiE8dj4JuNdpYGRPdKbF",
+                        "name": "Stone Sour"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "NLA320784286",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:6UFhNbE4sLRUoM52kC4Xl4",
+                "length": 267.253,
+                "name": "Wicked Game",
+                "popularity": "0.67000",
+                "track-number": "17"
+            },
+            {
+                "album": {
                     "href": "spotify:album:67iZAEB1D2l5dEz7zhwglK",
                     "name": "Results May Vary",
                     "released": "2003"
