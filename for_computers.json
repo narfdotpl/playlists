@@ -7819,6 +7819,34 @@
             },
             {
                 "album": {
+                    "href": "spotify:album:2x69bUM3cqWJ1ckKpwCNgh",
+                    "name": "Sinner",
+                    "released": "2001"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:1E4r4z7ivGUcSAnCbINJ9v",
+                        "name": "Drowning Pool"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USWU30006503",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:20wNouGsdSPUmApC4Z8VqG",
+                "length": 254.2,
+                "name": "Tear Away",
+                "popularity": "0.57000",
+                "track-number": "3"
+            },
+            {
+                "album": {
                     "href": "spotify:album:0f7R0jf0pcTb6K6IVVPcMD",
                     "name": "Meteora (Bonus Track Version)",
                     "released": "2003"
@@ -7875,59 +7903,32 @@
             },
             {
                 "album": {
-                    "href": "spotify:album:2x69bUM3cqWJ1ckKpwCNgh",
-                    "name": "Sinner",
+                    "href": "spotify:album:2px7Z3Hvmb846rH8JHIiJh",
+                    "name": "Adema",
                     "released": "2001"
                 },
                 "artists": [
                     {
-                        "href": "spotify:artist:1E4r4z7ivGUcSAnCbINJ9v",
-                        "name": "Drowning Pool"
+                        "href": "spotify:artist:3n4ersmDo55xV4fPSCKpXb",
+                        "name": "Adema"
                     }
                 ],
                 "availability": {
-                    "territories": "AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+                    "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TW US UY"
                 },
                 "available": true,
+                "explicit": true,
                 "external-ids": [
                     {
-                        "id": "USWU30006503",
+                        "id": "USAR10100175",
                         "type": "isrc"
                     }
                 ],
-                "href": "spotify:track:20wNouGsdSPUmApC4Z8VqG",
-                "length": 254.2,
-                "name": "Tear Away",
-                "popularity": "0.57000",
+                "href": "spotify:track:1OGFtaUgHAQjtSk7mhDwr9",
+                "length": 274.733,
+                "name": "Giving In",
+                "popularity": "0.53000",
                 "track-number": "3"
-            },
-            {
-                "album": {
-                    "href": "spotify:album:38WhdHQdfrskDUR24xPslz",
-                    "name": "Issues",
-                    "released": "1999"
-                },
-                "artists": [
-                    {
-                        "href": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD",
-                        "name": "Korn"
-                    }
-                ],
-                "availability": {
-                    "territories": "AD AR AT BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
-                },
-                "available": true,
-                "external-ids": [
-                    {
-                        "id": "USSM19922479",
-                        "type": "isrc"
-                    }
-                ],
-                "href": "spotify:track:27XWkDS9lKZT9jsveOqSDF",
-                "length": 270.706,
-                "name": "Falling Away from Me",
-                "popularity": "0.39000",
-                "track-number": "2"
             },
             {
                 "album": {
@@ -7957,6 +7958,34 @@
                 "name": "Happy?",
                 "popularity": "0.67000",
                 "track-number": "3"
+            },
+            {
+                "album": {
+                    "href": "spotify:album:38WhdHQdfrskDUR24xPslz",
+                    "name": "Issues",
+                    "released": "1999"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD",
+                        "name": "Korn"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR AT BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USSM19922479",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:27XWkDS9lKZT9jsveOqSDF",
+                "length": 270.706,
+                "name": "Falling Away from Me",
+                "popularity": "0.39000",
+                "track-number": "2"
             },
             {
                 "album": {
