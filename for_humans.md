@@ -35,10 +35,11 @@
 1. The Prodigy - Voodoo People (Pendulum Mix)
 2. Biting Elbows - Bad Motherfucker
 3. The Qemists, Mike Patton - Lost Weekend
-4. The Offspring - Staring At The Sun
-5. The Qemists - Stompbox
-6. Slipknot - Before I Forget
-7. The Prodigy - Voodoo People (Remastered)
+4. The Prodigy - Invaders Must Die
+5. The Offspring - Staring At The Sun
+6. The Qemists - Stompbox
+7. Slipknot - Before I Forget
+8. The Prodigy - Voodoo People (Remastered)
 
 
 [r4≤+a](http://open.spotify.com/user/1166776863/playlist/4JpEcRNNZPzfdNBF32K9fs)
