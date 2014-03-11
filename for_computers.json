@@ -2975,6 +2975,34 @@
             },
             {
                 "album": {
+                    "href": "spotify:album:57lJNxlrPSin9SySEnerNb",
+                    "name": "Fashion Nugget",
+                    "released": "1996"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:6A43Djmhbe9100UwnI7epV",
+                        "name": "Cake"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AR BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HU IE IS IT LT LU LV MC MT MX MY NI NL NO PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "USCA19686708",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0qgiFuYhYuwtFXEwYakddE",
+                "length": 310.6,
+                "name": "I Will Survive",
+                "popularity": "0.64000",
+                "track-number": "7"
+            },
+            {
+                "album": {
                     "href": "spotify:album:5eHk89PNorMd7e4wyxYiUV",
                     "name": "Come What[ever] May",
                     "released": "2006"
