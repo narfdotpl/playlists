@@ -46,7 +46,7 @@
 -------
 
 1. Cypress Hill, Rusko, Damian Marley - Can't Keep Me Down
-2. Skrillex, Damian "Jr. Gong" Marley - Make It Bun Dem
+2. Skrillex, Damian Marley - Make It Bun Dem
 3. Knife Party - Bonfire
 4. BreakBeatBuddha, Shugga Sherm - Endurance
 
