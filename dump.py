@@ -122,9 +122,9 @@ def _main():
                 % (playlist['name'], playlist['http_url'],
                    '-' * (len(playlist['name']) + 2)))
 
-            for j, track in enumerate(playlist['tracks'], start=1):
+            for track in playlist['tracks']:
                 # write track number
-                f.write('%d. ' % j)
+                f.write('1. ')
 
                 # write artists
                 f.write(', '.join(x['name'] for x in track['artists']))
@@ -145,9 +145,9 @@ def _main():
                 readme += line
 
     # add mixtapes list to README
-    for i, playlist in enumerate(playlists, start=1):
-        readme += '%d. [%s](%s)\n' % (i, playlist['name'],
-                                      playlist['http_url'])
+    for playlist in playlists:
+        readme += '1. [%s](%s)\n' % (playlist['name'], playlist['http_url'])
+
     # save README
     with codecs.open(README_PATH, encoding='utf-8', mode='w') as f:
         f.write(readme)

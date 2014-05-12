@@ -2,389 +2,389 @@
 -----------------
 
 1. The Dillinger Escape Plan - Mouth Of Ghosts
-2. Slipknot - Danger - Keep Away
-3. Slipknot - Snuff
-4. Disturbed - Darkness
-5. Marilyn Manson - Count To Six And Die (The Vacuum Of Infinite Space Encompassing)
+1. Slipknot - Danger - Keep Away
+1. Slipknot - Snuff
+1. Disturbed - Darkness
+1. Marilyn Manson - Count To Six And Die (The Vacuum Of Infinite Space Encompassing)
 
 
 [Sand In The Amp](http://open.spotify.com/user/1166776863/playlist/5dQRWh5ETy5Aa0s3qZFEOZ)
 -----------------
 
 1. Monster Magnet - Space Lord
-2. Clutch - Electric Worry (Live)
-3. Nico Vega - Beast
-4. Fu Manchu - Shift Kicker
-5. Every Time I Die - The New Black
-6. The Exploders - Wolf Cub
-7. Radio Moscow - Lucky Dutch
-8. Monster Magnet - Atomic Clock
-9. Truckfighters - Last Curfew
-10. Monster Magnet - Melt
-11. Monster Magnet - Silver Future
-12. Monster Magnet - Powertrip
-13. Truckfighters - Desert Cruiser
-14. Audioslave - Show Me How To Live
-15. Queens Of The Stone Age - Auto Pilot
-16. Truckfighters - Altered State
+1. Clutch - Electric Worry (Live)
+1. Nico Vega - Beast
+1. Fu Manchu - Shift Kicker
+1. Every Time I Die - The New Black
+1. The Exploders - Wolf Cub
+1. Radio Moscow - Lucky Dutch
+1. Monster Magnet - Atomic Clock
+1. Truckfighters - Last Curfew
+1. Monster Magnet - Melt
+1. Monster Magnet - Silver Future
+1. Monster Magnet - Powertrip
+1. Truckfighters - Desert Cruiser
+1. Audioslave - Show Me How To Live
+1. Queens Of The Stone Age - Auto Pilot
+1. Truckfighters - Altered State
 
 
 [5K](http://open.spotify.com/user/1166776863/playlist/0EjMivyDuZquEjHZ8rWFID)
 ----
 
 1. The Prodigy - Voodoo People (Pendulum Mix)
-2. Biting Elbows - Bad Motherfucker
-3. The Qemists, Mike Patton - Lost Weekend
-4. The Prodigy - Invaders Must Die
-5. The Offspring - Staring At The Sun
-6. The Qemists - Stompbox
-7. Slipknot - Before I Forget
-8. The Prodigy - Voodoo People (Remastered)
+1. Biting Elbows - Bad Motherfucker
+1. The Qemists, Mike Patton - Lost Weekend
+1. The Prodigy - Invaders Must Die
+1. The Offspring - Staring At The Sun
+1. The Qemists - Stompbox
+1. Slipknot - Before I Forget
+1. The Prodigy - Voodoo People (Remastered)
 
 
 [r4≤+a](http://open.spotify.com/user/1166776863/playlist/4JpEcRNNZPzfdNBF32K9fs)
 -------
 
 1. Cypress Hill, Rusko, Damian Marley - Can't Keep Me Down
-2. Skrillex, Damian Marley - Make It Bun Dem
-3. Knife Party - Bonfire
-4. BreakBeatBuddha, Shugga Sherm - Endurance
+1. Skrillex, Damian Marley - Make It Bun Dem
+1. Knife Party - Bonfire
+1. BreakBeatBuddha, Shugga Sherm - Endurance
 
 
 [In Your Face](http://open.spotify.com/user/1166776863/playlist/7wjunxPOqqdTC0zmWUTo5p)
 --------------
 
 1. Lamb of God - Redneck
-2. bloodsimple - Dark Helmet
-3. Slipknot - Spit It Out
-4. Soulfly - Four Elements
-5. Slipknot - Duality
-6. Drowning Pool - Step Up
-7. Soil - Halo
-8. Lamb of God - To The End
-9. bloodsimple - Red Harvest
-10. Slipknot - Before I Forget
-11. Hatebreed - As Diehard As They Come
-12. Lamb of God - Laid to Rest
-13. Slipknot - (sic)
-14. bloodsimple - Dead Man Walking
-15. Slipknot - Wait And Bleed
-16. The Dillinger Escape Plan - Milk Lizard
+1. bloodsimple - Dark Helmet
+1. Slipknot - Spit It Out
+1. Soulfly - Four Elements
+1. Slipknot - Duality
+1. Drowning Pool - Step Up
+1. Soil - Halo
+1. Lamb of God - To The End
+1. bloodsimple - Red Harvest
+1. Slipknot - Before I Forget
+1. Hatebreed - As Diehard As They Come
+1. Lamb of God - Laid to Rest
+1. Slipknot - (sic)
+1. bloodsimple - Dead Man Walking
+1. Slipknot - Wait And Bleed
+1. The Dillinger Escape Plan - Milk Lizard
 
 
 [Ableton](http://open.spotify.com/user/1166776863/playlist/26AuvGkNQOXD39e8Me83Ve)
 ---------
 
 1. The Glitch Mob - We Can Make The World Stop
-2. Pretty Lights - High School Art Class
-3. Daft Punk, The Glitch Mob - Derezzed (Remixed By The Glitch Mob)
-4. The Chemical Brothers - Block Rockin' Beats
-5. Pretty Lights - Total Fascination
-6. Daft Punk - Aerodynamic
-7. Daft Punk - Derezzed
-8. Pretty Lights - Still Night
+1. Pretty Lights - High School Art Class
+1. Daft Punk, The Glitch Mob - Derezzed (Remixed By The Glitch Mob)
+1. The Chemical Brothers - Block Rockin' Beats
+1. Pretty Lights - Total Fascination
+1. Daft Punk - Aerodynamic
+1. Daft Punk - Derezzed
+1. Pretty Lights - Still Night
 
 
 [Kids These Days...](http://open.spotify.com/user/1166776863/playlist/3Ev1ieBjpTFJMuLRmY1i0K)
 --------------------
 
 1. Fall Out Boy - I Don't Care
-2. Lustra - Scotty Doesn't Know
-3. Puddle Of Mudd - She Hates Me
-4. The Fratellis - Chelsea Dagger
-5. Fall Out Boy - Dance, Dance
-6. My Chemical Romance - Na Na Na [Na Na Na Na Na Na Na Na Na]
-7. Fall Out Boy - Thnks fr th Mmrs
-8. AFI - Miss Murder
-9. Three Days Grace - Animal I Have Become
-10. Papa Roach - ...To Be Loved
-11. Fall Out Boy - This Ain't A Scene, It's An Arms Race
+1. Lustra - Scotty Doesn't Know
+1. Puddle Of Mudd - She Hates Me
+1. The Fratellis - Chelsea Dagger
+1. Fall Out Boy - Dance, Dance
+1. My Chemical Romance - Na Na Na [Na Na Na Na Na Na Na Na Na]
+1. Fall Out Boy - Thnks fr th Mmrs
+1. AFI - Miss Murder
+1. Three Days Grace - Animal I Have Become
+1. Papa Roach - ...To Be Loved
+1. Fall Out Boy - This Ain't A Scene, It's An Arms Race
 
 
 [Wax Chillax](http://open.spotify.com/user/1166776863/playlist/7fR5dECza4cx3KE9IbqE0i)
 -------------
 
 1. RJD2 - Ghostwriter
-2. Bonobo - Kong
-3. Prefuse 73 - Storm Returns (A Prefuse/Tommy Guerrero Interlude)
-4. Bonobo - El Toro
-5. Prefuse 73 - Perverted Undertone
-6. Bonobo, Andreya Triana - Eyesdown
-7. DJ Food - Turtle Soup
-8. RJD2 - 1976
-9. Kid Koala - 1 bit Blues - 10,000 miles
-10. RJD2 - Smoke & Mirrors
+1. Bonobo - Kong
+1. Prefuse 73 - Storm Returns (A Prefuse/Tommy Guerrero Interlude)
+1. Bonobo - El Toro
+1. Prefuse 73 - Perverted Undertone
+1. Bonobo, Andreya Triana - Eyesdown
+1. DJ Food - Turtle Soup
+1. RJD2 - 1976
+1. Kid Koala - 1 bit Blues - 10,000 miles
+1. RJD2 - Smoke & Mirrors
 
 
 [Regret Metal](http://open.spotify.com/user/1166776863/playlist/5cN1UX2UoFUkd4NKaUw1S0)
 --------------
 
 1. Unloco - Bystander
-2. Deftones - Change [In The House Of Flies]
-3. Deftones - Minus Blindfold
-4. Korn - Liar
-5. Unloco - Bruises
-6. Dry Kill Logic - A Better Man Than Me
-7. Dry Kill Logic - Rot
+1. Deftones - Change [In The House Of Flies]
+1. Deftones - Minus Blindfold
+1. Korn - Liar
+1. Unloco - Bruises
+1. Dry Kill Logic - A Better Man Than Me
+1. Dry Kill Logic - Rot
 
 
 [Covers](http://open.spotify.com/user/1166776863/playlist/4u0JwggJBMHUAc62dcT9Ch)
 --------
 
 1. Alien Ant Farm - Smooth Criminal
-2. Fall Out Boy, John Mayer - Beat It
-3. John 5 - Beat It
-4. John 5 - Welcome to the Jungle
-5. Seether - Careless Whisper
-6. Breed 77 - Zombie
-7. Dope - Rebel Yell
-8. Dope - You Spin Me Round (Like A Record)
-9. Kangaroz - Kolorowe Sny
-10. Marilyn Manson - Personal Jesus
-11. Marilyn Manson - Sweet Dreams (Are Made Of This) - Album Version (Explicit )
-12. Marilyn Manson - Tainted Love
-13. Sepultura - Angel
-14. Sepultura - Bullet The Blue Sky
-15. The White Stripes - Jolene (Live)
-16. Nostalgia 77, Alice Russell - Seven Nation Army
-17. Korn - Creep - Live
-18. Cake - I Will Survive
-19. Stone Sour - Wicked Game
-20. Limp Bizkit - Behind Blue Eyes
-21. Tori Amos - Smells Like Teen Spirit
-22. Nouvelle Vague - Guns Of Brixton
-23. Nouvelle Vague - Ever Fallen In Love
-24. Nouvelle Vague - In A Manner Of Speaking
+1. Fall Out Boy, John Mayer - Beat It
+1. John 5 - Beat It
+1. John 5 - Welcome to the Jungle
+1. Seether - Careless Whisper
+1. Breed 77 - Zombie
+1. Dope - Rebel Yell
+1. Dope - You Spin Me Round (Like A Record)
+1. Kangaroz - Kolorowe Sny
+1. Marilyn Manson - Personal Jesus
+1. Marilyn Manson - Sweet Dreams (Are Made Of This) - Album Version (Explicit )
+1. Marilyn Manson - Tainted Love
+1. Sepultura - Angel
+1. Sepultura - Bullet The Blue Sky
+1. The White Stripes - Jolene (Live)
+1. Nostalgia 77, Alice Russell - Seven Nation Army
+1. Korn - Creep - Live
+1. Cake - I Will Survive
+1. Stone Sour - Wicked Game
+1. Limp Bizkit - Behind Blue Eyes
+1. Tori Amos - Smells Like Teen Spirit
+1. Nouvelle Vague - Guns Of Brixton
+1. Nouvelle Vague - Ever Fallen In Love
+1. Nouvelle Vague - In A Manner Of Speaking
 
 
 [Worn Out Jeans](http://open.spotify.com/user/1166776863/playlist/5ZbFi7etCQdJqtFp1rWIbM)
 ----------------
 
 1. Seether - Gasoline
-2. Saving Abel - New Tattoo
-3. Theory Of A Deadman - Bad Girlfriend
-4. Stone Sour - Do Me A Favor
-5. Foo Fighters - The Pretender
-6. Guano Apes - You Can't Stop Me
-7. Seether - Fake It
-8. Saliva - Always
-9. 3 Doors Down - When I'm Gone
-10. Stone Sour - Bother
+1. Saving Abel - New Tattoo
+1. Theory Of A Deadman - Bad Girlfriend
+1. Stone Sour - Do Me A Favor
+1. Foo Fighters - The Pretender
+1. Guano Apes - You Can't Stop Me
+1. Seether - Fake It
+1. Saliva - Always
+1. 3 Doors Down - When I'm Gone
+1. Stone Sour - Bother
 
 
 [Hoodies](http://open.spotify.com/user/1166776863/playlist/1FSp9oEY65IrjgYtdjWZu4)
 ---------
 
 1. Drapht - Rapunzel
-2. Bliss n Eso - Blazin'
-3. Bliss n Eso - Happy In MY Hoody
-4. Bliss n Eso - Up Jumped The Boogie
-5. Bliss n Eso - Party At My Place
-6. Drapht - Where Ya From
-7. Drapht - Sing It (The Life of Riley)
-8. Bliss n Eso - Down By The River
-9. Bliss n Eso - Where The Wild Things Are(feat: Mind Over Matter)
-10. Drapht - Jimmy Recard
-11. Bliss n Eso - Coppin' It Sweet
-12. Drapht - Put On A Record
-13. Linkin Park - Nobody's Listening
-14. Fort Minor - Kenji
-15. Sofa, O.S.T.R. - Affairz (feat. O.S.T.R.)
-16. Drapht, Urthboy, Mantra - We Own the Night
-17. Bliss n Eso - Royal Flush
-18. Bliss n Eso - Family Affair
-19. Drapht - People Don't Know
-20. Bliss n Eso - This Is For You
-21. Drapht - Won't Listen When
-22. Bliss n Eso - Addicted
-23. Bliss n Eso - Art House Audio
-24. Bliss n Eso - Good Morning Australia
-25. Drapht - Good Morning
-26. Bliss n Eso - Late One Night
-27. Drapht - Falling
+1. Bliss n Eso - Blazin'
+1. Bliss n Eso - Happy In MY Hoody
+1. Bliss n Eso - Up Jumped The Boogie
+1. Bliss n Eso - Party At My Place
+1. Drapht - Where Ya From
+1. Drapht - Sing It (The Life of Riley)
+1. Bliss n Eso - Down By The River
+1. Bliss n Eso - Where The Wild Things Are(feat: Mind Over Matter)
+1. Drapht - Jimmy Recard
+1. Bliss n Eso - Coppin' It Sweet
+1. Drapht - Put On A Record
+1. Linkin Park - Nobody's Listening
+1. Fort Minor - Kenji
+1. Sofa, O.S.T.R. - Affairz (feat. O.S.T.R.)
+1. Drapht, Urthboy, Mantra - We Own the Night
+1. Bliss n Eso - Royal Flush
+1. Bliss n Eso - Family Affair
+1. Drapht - People Don't Know
+1. Bliss n Eso - This Is For You
+1. Drapht - Won't Listen When
+1. Bliss n Eso - Addicted
+1. Bliss n Eso - Art House Audio
+1. Bliss n Eso - Good Morning Australia
+1. Drapht - Good Morning
+1. Bliss n Eso - Late One Night
+1. Drapht - Falling
 
 
 [Watch Out, Mom!](http://open.spotify.com/user/1166776863/playlist/0CHRO5pjeKOdJf5Hr4fAZk)
 -----------------
 
 1. Limp Bizkit - Ready To Go
-2. (Hed) P.E. - Let's Ride
-3. Jon Lajoie - Everyday Normal Guy
-4. Kyo Itachi - Andromede Vibes - Ode To Samurai Champloo
+1. (Hed) P.E. - Let's Ride
+1. Jon Lajoie - Everyday Normal Guy
+1. Kyo Itachi - Andromede Vibes - Ode To Samurai Champloo
 
 
 [&lt;3 Gorillaz](http://open.spotify.com/user/1166776863/playlist/36OqJsdl66nOgJhhV91B0x)
 ----------------
 
 1. Gorillaz - Dracula
-2. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (1)
-3. Gorillaz - 5/4
-4. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (2)
-5. Queens Of The Stone Age - Go With The Flow
-6. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (3)
-7. The Who - Substitute - Single Version
-8. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (4)
-9. The Moontrekkers - The Bogey Man
-10. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (5)
-11. Lloyd Price - Stagger Lee
-12. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (6)
-13. Buzzcocks - Love You More - 2001 Digital Remaster
-14. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (7)
-15. Gorillaz - Tomorrow Comes Today
-16. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (8)
-17. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (9)
-18. Gorillaz - Clint Eastwood
-19. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (10)
-20. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (1)
-21. Sid Vicious - Something Else
-22. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (2)
-23. CSS - Alala
-24. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (3)
-25. Gorillaz - Rockit
-26. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (4)
-27. Stanley Kubrick — A Clockwork Orange - William Tell Overture (From The Movie "A Clockwork Orange" By Stanley Kubrick — Excerpt From The Opera "William Tell" Written By Gioachino Rossini)
-28. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (5)
-29. Gorillaz - Feel Good Inc
-30. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (6)
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (1)
+1. Gorillaz - 5/4
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (2)
+1. Queens Of The Stone Age - Go With The Flow
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (3)
+1. The Who - Substitute - Single Version
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (4)
+1. The Moontrekkers - The Bogey Man
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (5)
+1. Lloyd Price - Stagger Lee
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (6)
+1. Buzzcocks - Love You More - 2001 Digital Remaster
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (7)
+1. Gorillaz - Tomorrow Comes Today
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (8)
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (9)
+1. Gorillaz - Clint Eastwood
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (10)
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (1)
+1. Sid Vicious - Something Else
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (2)
+1. CSS - Alala
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (3)
+1. Gorillaz - Rockit
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (4)
+1. Stanley Kubrick — A Clockwork Orange - William Tell Overture (From The Movie "A Clockwork Orange" By Stanley Kubrick — Excerpt From The Opera "William Tell" Written By Gioachino Rossini)
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (5)
+1. Gorillaz - Feel Good Inc
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (6)
 
 
 [M9160](http://open.spotify.com/user/1166776863/playlist/38flX8c4TsNvMsM468AGNM)
 -------
 
 1. Rise Against - Drones
-2. Modern Life Is War - D.E.A.D. R.A.M.O.N.E.S.
-3. Rise Against - State Of The Union - Warped Tour 2006
-4. AFI - The Boy Who Destroyed The World
-5. The Offspring - (Can't Get My) Head Around You
-6. Sum 41 - Still Waiting
-7. AFI - The Days Of The Phoenix
-8. lostprophets - Burn, Burn
-9. The Offspring - Come Out Swinging
-10. Nirvana - Smells Like Teen Spirit
+1. Modern Life Is War - D.E.A.D. R.A.M.O.N.E.S.
+1. Rise Against - State Of The Union - Warped Tour 2006
+1. AFI - The Boy Who Destroyed The World
+1. The Offspring - (Can't Get My) Head Around You
+1. Sum 41 - Still Waiting
+1. AFI - The Days Of The Phoenix
+1. lostprophets - Burn, Burn
+1. The Offspring - Come Out Swinging
+1. Nirvana - Smells Like Teen Spirit
 
 
 [Renzokuken](http://open.spotify.com/user/1166776863/playlist/0Vq3HyLv8uo3xKOGJVamwT)
 ------------
 
 1. Karnivool - Roquefort (with Empire Horns)
-2. Protest The Hero - Termites
-3. The Dillinger Escape Plan - When Acting As A Wave
-4. Protest The Hero - Sequoia Throne
-5. Protest The Hero - Blindfolds Aside
+1. Protest The Hero - Termites
+1. The Dillinger Escape Plan - When Acting As A Wave
+1. Protest The Hero - Sequoia Throne
+1. Protest The Hero - Blindfolds Aside
 
 
 [★ Disturbed](http://open.spotify.com/user/1166776863/playlist/3VedcOGPiTqVL5EWQVEOIK)
 -------------
 
 1. Disturbed - A Welcome Burden
-2. Disturbed - Conflict
-3. Disturbed - Sacred Lie
-4. Disturbed - Indestructible
-5. Disturbed - Deify
-6. Disturbed - Meaning Of Life
-7. Disturbed - Inside The Fire
-8. Disturbed - Down With The Sickness
-9. Disturbed - God Of The Mind
-10. Disturbed - The Game
-11. Disturbed - Stupify
-12. Disturbed - Rise
-13. Disturbed - Awaken
-14. Disturbed - Stricken
-15. Disturbed - Violence Fetish
-16. Disturbed - Criminal
-17. Disturbed - Pain Redefined
-18. Disturbed - Intoxication
-19. Disturbed - Voices
-20. Disturbed - Forgiven
-21. Disturbed - Fear
-22. Disturbed - Sons Of Plunder
-23. Disturbed - Numb
-24. Disturbed - Droppin' Plates
+1. Disturbed - Conflict
+1. Disturbed - Sacred Lie
+1. Disturbed - Indestructible
+1. Disturbed - Deify
+1. Disturbed - Meaning Of Life
+1. Disturbed - Inside The Fire
+1. Disturbed - Down With The Sickness
+1. Disturbed - God Of The Mind
+1. Disturbed - The Game
+1. Disturbed - Stupify
+1. Disturbed - Rise
+1. Disturbed - Awaken
+1. Disturbed - Stricken
+1. Disturbed - Violence Fetish
+1. Disturbed - Criminal
+1. Disturbed - Pain Redefined
+1. Disturbed - Intoxication
+1. Disturbed - Voices
+1. Disturbed - Forgiven
+1. Disturbed - Fear
+1. Disturbed - Sons Of Plunder
+1. Disturbed - Numb
+1. Disturbed - Droppin' Plates
 
 
 [Jack White et alii](http://open.spotify.com/user/1166776863/playlist/0nRORj1jG11iwg8R8VaAp2)
 --------------------
 
 1. The White Stripes - Rag And Bone
-2. The Raconteurs - Salute Your Solution
-3. The Black Keys - Sinister Kid
-4. The Dead Weather - I Can't Hear You
-5. The White Stripes - Hello Operator
-6. The White Stripes - A Martyr For My Love For You
-7. Black Rebel Motorcycle Club - Beat The Devil's Tattoo
-8. Queens Of The Stone Age - Tangled Up In Plaid
-9. The Raconteurs - Broken Boy Soldier
-10. The Raconteurs - Steady, As She Goes
-11. Wolfmother - Joker And The Thief
-12. Nico Vega - So so Fresh
-13. The Kills - Sour Cherry
-14. The Black Keys - Have Love Will Travel
-15. The Black Keys - The Baddest Man Alive
-16. The Raconteurs - Carolina Drama
-17. Beck - Farewell Ride
-18. The Black Keys - Tighten Up
-19. The White Stripes - The Denial Twist
-20. The Black Keys - Howlin’ For You
-21. The White Stripes - Little Bird
-22. Black Rebel Motorcycle Club - Spread Your Love
-23. The White Stripes - Seven Nation Army
-24. The Raconteurs - Many Shades Of Black
-25. The White Stripes - Catch Hell Blues
-26. The Black Keys - Everywhere I Go
-27. The White Stripes - Ball And Biscuit
+1. The Raconteurs - Salute Your Solution
+1. The Black Keys - Sinister Kid
+1. The Dead Weather - I Can't Hear You
+1. The White Stripes - Hello Operator
+1. The White Stripes - A Martyr For My Love For You
+1. Black Rebel Motorcycle Club - Beat The Devil's Tattoo
+1. Queens Of The Stone Age - Tangled Up In Plaid
+1. The Raconteurs - Broken Boy Soldier
+1. The Raconteurs - Steady, As She Goes
+1. Wolfmother - Joker And The Thief
+1. Nico Vega - So so Fresh
+1. The Kills - Sour Cherry
+1. The Black Keys - Have Love Will Travel
+1. The Black Keys - The Baddest Man Alive
+1. The Raconteurs - Carolina Drama
+1. Beck - Farewell Ride
+1. The Black Keys - Tighten Up
+1. The White Stripes - The Denial Twist
+1. The Black Keys - Howlin’ For You
+1. The White Stripes - Little Bird
+1. Black Rebel Motorcycle Club - Spread Your Love
+1. The White Stripes - Seven Nation Army
+1. The Raconteurs - Many Shades Of Black
+1. The White Stripes - Catch Hell Blues
+1. The Black Keys - Everywhere I Go
+1. The White Stripes - Ball And Biscuit
 
 
 [Old No. 7](http://open.spotify.com/user/1166776863/playlist/6qJY9Fb9SoJqvEWZeOIJjI)
 -----------
 
 1. Hurt - Rapture
-2. 3 Doors Down - When I'm Gone
-3. Seether - Driven Under
-4. Staind - It's Been Awhile
-5. Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder - From Can to Can't
+1. 3 Doors Down - When I'm Gone
+1. Seether - Driven Under
+1. Staind - It's Been Awhile
+1. Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder - From Can to Can't
 
 
 [Release The Kraken!](http://open.spotify.com/user/1166776863/playlist/05brpCSfLLUw63xoRc75eO)
 ---------------------
 
 1. Orange Goblin - Red Tide Rising
-2. Mastodon - Colony Of Birchmen
-3. 3 Inches Of Blood - Deadly Sinners
-4. Clutch - Pure Rock Fury
-5. Mastodon - Curl Of The Burl
+1. Mastodon - Colony Of Birchmen
+1. 3 Inches Of Blood - Deadly Sinners
+1. Clutch - Pure Rock Fury
+1. Mastodon - Curl Of The Burl
 
 
 [Brits](http://open.spotify.com/user/1166776863/playlist/41L7777bbifEyU2Gwgmkma)
 -------
 
 1. Placebo - Pure Morning - Radio Edit; 2004 Remaster
-2. Blur - Song 2
-3. Franz Ferdinand - Take Me Out
-4. Arctic Monkeys - From The Ritz To The Rubble
-5. Gorillaz - Kids With Guns - Jamie T's Turns To Monsters Mix
-6. Arctic Monkeys - The View From The Afternoon
-7. Placebo - Every You Every Me - Single Mix
-8. Pixies - Where Is My Mind?
-9. Radiohead - No Surprises
+1. Blur - Song 2
+1. Franz Ferdinand - Take Me Out
+1. Arctic Monkeys - From The Ritz To The Rubble
+1. Gorillaz - Kids With Guns - Jamie T's Turns To Monsters Mix
+1. Arctic Monkeys - The View From The Afternoon
+1. Placebo - Every You Every Me - Single Mix
+1. Pixies - Where Is My Mind?
+1. Radiohead - No Surprises
 
 
 [Nu, Not, and Beyond](http://open.spotify.com/user/1166776863/playlist/6NTwQ0fRKxDA9r1efoWo6n)
 ---------------------
 
 1. Trapt - Headstrong
-2. Linkin Park - One Step Closer
-3. Drowning Pool - Bodies
-4. Papa Roach - Last Resort
-5. Limp Bizkit - Rollin' (Air Raid Vehicle)
-6. Linkin Park - Don't Stay
-7. Drowning Pool - All Over Me
-8. Drowning Pool - Tear Away
-9. Linkin Park - Somewhere I Belong
-10. Limp Bizkit - My Way
-11. Adema - Giving In
-12. Mudvayne - Happy?
-13. Korn - Falling Away from Me
-14. In Flames - The Mirror's Truth
-15. Bullet For My Valentine - The Last Fight
-16. Drowning Pool - Sermon
-17. Limp Bizkit - Take A Look Around
+1. Linkin Park - One Step Closer
+1. Drowning Pool - Bodies
+1. Papa Roach - Last Resort
+1. Limp Bizkit - Rollin' (Air Raid Vehicle)
+1. Linkin Park - Don't Stay
+1. Drowning Pool - All Over Me
+1. Drowning Pool - Tear Away
+1. Linkin Park - Somewhere I Belong
+1. Limp Bizkit - My Way
+1. Adema - Giving In
+1. Mudvayne - Happy?
+1. Korn - Falling Away from Me
+1. In Flames - The Mirror's Truth
+1. Bullet For My Valentine - The Last Fight
+1. Drowning Pool - Sermon
+1. Limp Bizkit - Take A Look Around
