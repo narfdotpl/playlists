@@ -366,6 +366,7 @@
 1. Placebo - Every You Every Me - Single Mix
 1. Pixies - Where Is My Mind?
 1. Radiohead - No Surprises
+1. Arctic Monkeys - R U Mine?
 
 
 [Nu, Not, and Beyond](http://open.spotify.com/user/1166776863/playlist/6NTwQ0fRKxDA9r1efoWo6n)
