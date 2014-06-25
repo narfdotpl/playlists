@@ -145,6 +145,7 @@
 1. Marilyn Manson - Tainted Love
 1. Sepultura - Angel
 1. Sepultura - Bullet The Blue Sky
+1. Cancer Bats - Sabotage
 1. The White Stripes - Jolene (Live)
 1. Nostalgia 77, Alice Russell - Seven Nation Army
 1. Korn - Creep - Live

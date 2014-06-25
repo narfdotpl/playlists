@@ -2886,6 +2886,34 @@
             },
             {
                 "album": {
+                    "href": "spotify:album:0hTJkruaqvn39XEQstaKCs",
+                    "name": "Bears, Mayors, Scraps & Bones",
+                    "released": "2010"
+                },
+                "artists": [
+                    {
+                        "href": "spotify:artist:10YNQq86z4shHwDSymTyWc",
+                        "name": "Cancer Bats"
+                    }
+                ],
+                "availability": {
+                    "territories": "AD AT AU BE BG CH CY CZ DE DK EE ES FI FR GR HR HU IS IT LI LT LU LV MC MT NL NO PL PT RO SE SI SK TR"
+                },
+                "available": true,
+                "external-ids": [
+                    {
+                        "id": "CAD321000016",
+                        "type": "isrc"
+                    }
+                ],
+                "href": "spotify:track:0aCPC1aYw1YFZ0aL9AvTe7",
+                "length": 178.706,
+                "name": "Sabotage",
+                "popularity": "0.34000",
+                "track-number": "14"
+            },
+            {
+                "album": {
                     "href": "spotify:album:3ceMHqU0n0gNEEBUKLNH2B",
                     "name": "Under Great White Northern Lights",
                     "released": "2010"
