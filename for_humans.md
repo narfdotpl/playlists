@@ -113,7 +113,7 @@
 1. DJ Food - Turtle Soup
 1. RJD2 - 1976
 1. Kid Koala - 1 bit Blues - 10,000 miles
-1. RJD2 - Smoke & Mirrors
+1. RJD2 - Smoke &amp; Mirrors
 
 
 [Regret Metal](http://open.spotify.com/user/1166776863/playlist/5cN1UX2UoFUkd4NKaUw1S0)
@@ -247,6 +247,43 @@
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (5)
 1. Gorillaz - Feel Good Inc
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (6)
+1. Nancy Sinatra - Sand
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (7)
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (8)
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (9)
+1. The Rolling Stones - Back Street Girl
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 2 (10)
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (1)
+1. Eugene McGuinness - Lion
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (2)
+1. Gorillaz - Superfast Jellyfish - feat. Gruff Rhys and De La Soul
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (3)
+1. Gorillaz - White Flag - feat. Bashy, Kano and The National Orchestra For Arabic Music
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (4)
+1. Gorillaz - Empire Ants - feat. Little Dragon
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (5)
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (6)
+1. Napalm Death - You Suffer
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (7)
+1. Herb Alpert &amp; The Tijuana Brass - Spanish Flea
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (8)
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (9)
+1. Little Dragon - Little Man
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (10)
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (11)
+1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (12)
+1. Gorillaz, Space Monkeyz - Jungle Fresh
+1. Gorillaz, Space Monkeyz - Strictly Rubbadub
+1. Gorillaz, Space Monkeyz - Bañana Baby
+1. Gorillaz, Space Monkeyz - Monkey Racket
+1. Gorillaz, Space Monkeyz - De-Punked
+1. Gorillaz, Space Monkeyz - P45
+1. Gorillaz, Space Monkeyz - Dub Ø9
+1. Gorillaz, Space Monkeyz - Crooked Dub
+1. Gorillaz, Space Monkeyz - Mutant Genius
+1. Gorillaz, Space Monkeyz - Come Again
+1. Gorillaz, Space Monkeyz - A Fistful Of Peanuts
+1. Gorillaz, Space Monkeyz - Lil' Dub Chefin' (Contains Hidden Track 'Strictly Rubbadub (Version)')
 
 
 [M9160](http://open.spotify.com/user/1166776863/playlist/38flX8c4TsNvMsM468AGNM)
