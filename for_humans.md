@@ -427,3 +427,28 @@
 1. Bullet For My Valentine - The Last Fight
 1. Drowning Pool - Sermon
 1. Limp Bizkit - Take A Look Around
+
+
+[Alii et Jack White](http://open.spotify.com/user/1166776863/playlist/6xbiAB2P3qclvvv032Mu0G)
+--------------------
+
+1. Cage The Elephant - In One Ear
+1. Jack White - Sixteen Saltines
+1. Elbow - Grounds For Divorce
+1. Nico Vega - Beast
+1. Jack White - Freedom at 21
+1. The Vines - Ride
+1. The Mooney Suzuki - Shake That Bush Again
+1. The Vines - Highly Evolved
+1. Jack White - That Black Bat Licorice
+1. The Subways - I Want To Hear What You Have Got To Say
+1. The Pretty Reckless - My Medicine - Single Version
+1. The Fratellis - Got Ma Nuts From A Hippie
+1. OK Go - Get Over It
+1. The Fratellis - Tell Me A Lie
+1. The Heavy - Sixteen
+1. Cage The Elephant - Ain't No Rest for the Wicked - Original Version
+1. Opossum Holler - Spook in the Woodshed
+1. Opossum Holler - Red Barn
+1. Danger Mouse, Daniele Luppi - Two Against One - feat. Jack White
+1. Modest Mouse - Bukowski
