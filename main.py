@@ -14,8 +14,12 @@ import requests
 CURRENT_DIR = dirname(realpath(__file__))
 REPO_ROOT_DIR = CURRENT_DIR
 README_PATH = join(REPO_ROOT_DIR, 'README.md')
-COMPUTER_DUMP_PATH = join(REPO_ROOT_DIR, 'for_computers.json')
-HUMAN_DUMP_PATH = join(REPO_ROOT_DIR, 'for_humans.md')
+COMPUTER_FILE_PATH = join(REPO_ROOT_DIR, 'for_computers.json')
+HUMAN_FILE_PATH = join(REPO_ROOT_DIR, 'for_humans.md')
+
+
+def open(path, mode='r'):
+    return codecs.open(path, encoding='utf-8', mode=mode)
 
 
 def download_playlist_data(spotify_uri):
@@ -84,34 +88,26 @@ def download_track_data(spotify_uri):
         raise exception
 
 
-def _main():
-    # get playlist URIs
-    playlist_uris = []
-    with open(COMPUTER_DUMP_PATH) as f:
-        for playlist in json.load(f):
-            playlist_uris.append(playlist['uri'])
+def read_playlist_uris(file_path=COMPUTER_FILE_PATH):
+    return [playlist['uri'] for playlist in read_file_for_computers(file_path)]
 
-    # get playlist data
-    playlists = []
-    for uri in playlist_uris:
-        playlists.append(download_playlist_data(uri))
 
-    # get track data and remove "track_uris" key
-    for playlist in playlists:
-        tracks = playlist['tracks'] = []
-        for uri in playlist.pop('track_uris'):
-            tracks.append(download_track_data(uri))
+def read_file_for_computers(file_path=COMPUTER_FILE_PATH):
+    with open(file_path) as f:
+        return json.load(f)
 
-    # save file for computers (JSON)
-    with open(COMPUTER_DUMP_PATH, 'w') as f:
+
+def save_file_for_computers(playlists, file_path=COMPUTER_FILE_PATH):
+    with open(file_path, 'w') as f:
         # create json string
         json_string = json.dumps(playlists, sort_keys=True, indent=4)
 
         # remove trailing whitespace and save
         f.write('\n'.join(x.rstrip() for x in json_string.split('\n')))
 
-    # save file for humans
-    with codecs.open(HUMAN_DUMP_PATH, encoding='utf-8', mode='w') as f:
+
+def save_file_for_humans(playlists, file_path=HUMAN_FILE_PATH):
+    with open(file_path, 'w') as f:
         for i, playlist in enumerate(playlists):
             # separate playlists
             if i > 0:
@@ -135,9 +131,11 @@ def _main():
                 # write title
                 f.write(track['name'] + '\n')
 
+
+def save_readme(playlists, file_path=README_PATH):
     # read README up to mixtapes list
     readme = ''
-    with codecs.open(README_PATH, encoding='utf-8', mode='r') as f:
+    with open(file_path) as f:
         for line in f:
             if line.startswith('1.'):
                 break
@@ -149,8 +147,21 @@ def _main():
         readme += '1. [%s](%s)\n' % (playlist['name'], playlist['http_url'])
 
     # save README
-    with codecs.open(README_PATH, encoding='utf-8', mode='w') as f:
+    with open(file_path, 'w') as f:
         f.write(readme)
+
+
+def _main():
+    # get playlist data
+    playlists = map(download_playlist_data, read_playlist_uris())
+
+    # get track data and remove "track_uris" key
+    for pl in playlists:
+        pl['tracks'] = map(download_track_data, pl.pop('track_uris'))
+
+    save_file_for_computers(playlists)
+    save_file_for_humans(playlists)
+    save_readme(playlists)
 
 
 if __name__ == '__main__':
