@@ -452,3 +452,48 @@
 1. Opossum Holler - Red Barn
 1. Danger Mouse, Daniele Luppi - Two Against One - feat. Jack White
 1. Modest Mouse - Bukowski
+
+
+[★ Jack White](http://open.spotify.com/user/1166776863/playlist/0w4WjXYACER3ODNOxvzNSi)
+--------------
+
+1. The White Stripes - Seven Nation Army
+1. The White Stripes - Hello Operator
+1. The White Stripes - The Hardest Button To Button
+1. The White Stripes - Little Room
+1. Jack White - Sixteen Saltines
+1. The White Stripes - Icky Thump
+1. The White Stripes - I’m Slowly Turning Into You
+1. The White Stripes - Rag And Bone
+1. Jack White - Lazaretto
+1. The White Stripes - I Can’t Wait
+1. The White Stripes - Truth Doesn't Make A Noise
+1. The White Stripes - One More Cup Of Coffee
+1. The White Stripes - Offend In Every Way
+1. The Dead Weather - Hustle And Cuss
+1. The Raconteurs - Top Yourself
+1. The White Stripes - Catch Hell Blues
+1. The White Stripes - Ball And Biscuit
+1. The Raconteurs - Steady, As She Goes
+1. The White Stripes - Little Cream Soda
+1. The White Stripes - My Doorbell
+1. The Dead Weather - 60 Feet Tall
+1. The Dead Weather - Gasoline
+1. The Raconteurs - Many Shades Of Black
+1. The White Stripes - A Martyr For My Love For You
+1. The White Stripes - Apple Blossom
+1. The White Stripes - Blue Orchid
+1. Jack White - That Black Bat Licorice
+1. Jack White - Freedom at 21
+1. The White Stripes - Red Rain
+1. The White Stripes - Little Bird
+1. The Raconteurs - Salute Your Solution
+1. The White Stripes - The Denial Twist
+1. The White Stripes - Jolene (Live)
+1. The White Stripes - In The Cold, Cold Night
+1. The Dead Weather - I Can't Hear You
+1. The Raconteurs - Carolina Drama
+1. Danger Mouse, Daniele Luppi - Two Against One - feat. Jack White
+1. The Raconteurs - Broken Boy Soldier
+1. The White Stripes - Seven Nation Army (Live)
+1. Jack White - Another Way To Die
