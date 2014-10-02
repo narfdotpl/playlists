@@ -24,7 +24,7 @@
 1. Monster Magnet - Silver Future
 1. Monster Magnet - Powertrip
 1. Truckfighters - Desert Cruiser
-1. Audioslave - Show Me How To Live
+1. Audioslave - Show Me How to Live
 1. Queens Of The Stone Age - Auto Pilot
 1. Truckfighters - Altered State
 
@@ -36,7 +36,7 @@
 1. Biting Elbows - Bad Motherfucker
 1. The Qemists, Mike Patton - Lost Weekend
 1. The Prodigy - Invaders Must Die
-1. The Offspring - Staring At The Sun
+1. The Offspring - Staring At the Sun
 1. The Qemists - Stompbox
 1. Slipknot - Before I Forget
 1. The Prodigy - Voodoo People (Remastered)
@@ -229,7 +229,7 @@
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (5)
 1. Lloyd Price - Stagger Lee
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (6)
-1. Buzzcocks - Love You More - 2001 Digital Remaster
+1. Buzzcocks - Love You More - 2001 Remastered Version
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (7)
 1. Gorillaz - Tomorrow Comes Today
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (8)
@@ -395,7 +395,7 @@
 [Brits](http://open.spotify.com/user/1166776863/playlist/41L7777bbifEyU2Gwgmkma)
 -------
 
-1. Placebo - Pure Morning - Radio Edit; 2004 Remaster
+1. Placebo - Pure Morning - Radio Edit; 2004 Remastered Version
 1. Blur - Song 2
 1. Franz Ferdinand - Take Me Out
 1. Arctic Monkeys - From The Ritz To The Rubble
