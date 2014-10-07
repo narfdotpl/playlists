@@ -12,7 +12,7 @@
 -----------------
 
 1. Monster Magnet - Space Lord
-1. Clutch - Electric Worry (Live)
+1. Clutch - Electric Worry
 1. Nico Vega - Beast
 1. Fu Manchu - Shift Kicker
 1. Every Time I Die - The New Black
@@ -283,7 +283,7 @@
 1. Gorillaz, Space Monkeyz - Mutant Genius
 1. Gorillaz, Space Monkeyz - Come Again
 1. Gorillaz, Space Monkeyz - A Fistful Of Peanuts
-1. Gorillaz, Space Monkeyz - Lil' Dub Chefin' (Contains Hidden Track 'Strictly Rubbadub (Version)')
+1. Gorillaz, Space Monkeyz - Lil' Dub Chefin' (Contains Hidden Tracks 'Strictly Rubbadub (Version)' And 'A Fistful Of Peanuts (Version)')
 
 
 [M9160](http://open.spotify.com/user/1166776863/playlist/38flX8c4TsNvMsM468AGNM)
