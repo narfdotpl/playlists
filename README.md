@@ -1,5 +1,5 @@
-mixtapes
-========
+playlists
+=========
 
 spotify playlists created by [@narfdotpl](http://narf.pl/)
 
