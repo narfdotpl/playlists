@@ -497,3 +497,16 @@
 1. The Raconteurs - Broken Boy Soldier
 1. The White Stripes - Seven Nation Army (Live)
 1. Jack White, Alicia Keys - Another Way to Die
+
+
+[Cheerful Screaming](http://open.spotify.com/user/1166776863/playlist/68sT3ZXiVEF5xgOha92KFe)
+--------------------
+
+1. He Is Legend - The Seduction
+1. The Dillinger Escape Plan - Setting Fire to Sleeping Giants
+1. The Fall of Troy - The Last March Of The Ents
+1. He Is Legend - Everyone I Know Has Fangs
+1. Protest The Hero - Clarity
+1. Periphery - Feed The Ground
+1. He Is Legend - I Am Hollywood
+1. The Fall of Troy - Mouths Like Sidewinder Misssles
