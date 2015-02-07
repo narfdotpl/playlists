@@ -534,6 +534,7 @@
 1. Dub Inc. - No doubt (featuring Tarrus Riley)
 1. Cashma Hoody, Culcha Candela, John Abdelsayed - Hörmazu - Feat. Culcha Candela
 1. Zion Train - Audrey And June
+1. Fat Freddy's Drop - Cay's Crays
 1. Dub Inc. - Murderer
 1. Martin Jondo - Rainbow Warrior
 1. Vavamuffin - With Me One Love - Activator Mario Dziurex Rmx

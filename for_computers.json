@@ -67435,7 +67435,7 @@
             "uri": "spotify:user:1166776863"
         },
         "public": true,
-        "snapshot_id": "bBKA+ZlqjYKusLn9xPDDajdat5FF9zUFZ6JeAY6jYSw3l1E65gKwQLcmoYW5u0tO",
+        "snapshot_id": "1cQUbbWlS22A/CIeiq1y8kLU75L2ejiB/JP1FV2qbiERdO89HkiAgAXJD8l+NQ87",
         "tracks": {
             "href": "https://api.spotify.com/v1/users/1166776863/playlists/0ll69OrNxnexg2Xvz7Q5rH/tracks?offset=0&limit=100",
             "items": [
@@ -70728,6 +70728,140 @@
                     }
                 },
                 {
+                    "added_at": "2015-02-07T12:48:54Z",
+                    "added_by": {
+                        "external_urls": {
+                            "spotify": "http://open.spotify.com/user/1166776863"
+                        },
+                        "href": "https://api.spotify.com/v1/users/1166776863",
+                        "id": "1166776863",
+                        "type": "user",
+                        "uri": "spotify:user:1166776863"
+                    },
+                    "track": {
+                        "album": {
+                            "album_type": "album",
+                            "available_markets": [
+                                "AT",
+                                "BE",
+                                "CA",
+                                "CH",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "EE",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "HU",
+                                "IE",
+                                "IT",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MT",
+                                "NL",
+                                "NO",
+                                "PL",
+                                "PT",
+                                "SE",
+                                "SI",
+                                "SK",
+                                "US"
+                            ],
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/album/0LnSfxR87BwwU7HnElG8gs"
+                            },
+                            "href": "https://api.spotify.com/v1/albums/0LnSfxR87BwwU7HnElG8gs",
+                            "id": "0LnSfxR87BwwU7HnElG8gs",
+                            "images": [
+                                {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/0df9731b2172c02aec1c983d58331a207d8eb436",
+                                    "width": 628
+                                },
+                                {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/d8d88d925d04a4a2552ccd299017d3ea93dca959",
+                                    "width": 295
+                                },
+                                {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/9f4beb12c20e56efa2293dcd8455ec92fa20419a",
+                                    "width": 63
+                                }
+                            ],
+                            "name": "Based on a True Story",
+                            "type": "album",
+                            "uri": "spotify:album:0LnSfxR87BwwU7HnElG8gs"
+                        },
+                        "artists": [
+                            {
+                                "external_urls": {
+                                    "spotify": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+                                },
+                                "href": "https://api.spotify.com/v1/artists/32lo0J8u6KZJTwBOIBrdYS",
+                                "id": "32lo0J8u6KZJTwBOIBrdYS",
+                                "name": "Fat Freddy's Drop",
+                                "type": "artist",
+                                "uri": "spotify:artist:32lo0J8u6KZJTwBOIBrdYS"
+                            }
+                        ],
+                        "available_markets": [
+                            "AT",
+                            "BE",
+                            "CA",
+                            "CH",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FR",
+                            "GB",
+                            "GR",
+                            "HU",
+                            "IE",
+                            "IT",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MT",
+                            "NL",
+                            "NO",
+                            "PL",
+                            "PT",
+                            "SE",
+                            "SI",
+                            "SK",
+                            "US"
+                        ],
+                        "disc_number": 1,
+                        "duration_ms": 427173,
+                        "explicit": false,
+                        "external_ids": {
+                            "isrc": "GBGLW0500031"
+                        },
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/track/12XzrbE8865hj0bx532FrQ"
+                        },
+                        "href": "https://api.spotify.com/v1/tracks/12XzrbE8865hj0bx532FrQ",
+                        "id": "12XzrbE8865hj0bx532FrQ",
+                        "is_playable": true,
+                        "name": "Cay's Crays",
+                        "popularity": 47,
+                        "preview_url": "https://p.scdn.co/mp3-preview/e4614be7bf5fcea3d7998f37dcad10328e070e9b",
+                        "track_number": 2,
+                        "type": "track",
+                        "uri": "spotify:track:12XzrbE8865hj0bx532FrQ"
+                    }
+                },
+                {
                     "added_at": "2013-08-21T17:23:23Z",
                     "added_by": {
                         "external_urls": {
@@ -71318,7 +71452,7 @@
             "next": null,
             "offset": 0,
             "previous": null,
-            "total": 22
+            "total": 23
         },
         "type": "playlist",
         "uri": "spotify:user:1166776863:playlist:0ll69OrNxnexg2Xvz7Q5rH"
