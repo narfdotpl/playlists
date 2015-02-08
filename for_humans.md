@@ -35,7 +35,6 @@
 1. The Prodigy - Voodoo People (Pendulum Mix)
 1. Biting Elbows - Bad Motherfucker
 1. The Qemists, Mike Patton - Lost Weekend
-1. The Prodigy - Invaders Must Die
 1. The Offspring - Staring At the Sun
 1. The Qemists - Stompbox
 1. Slipknot - Before I Forget

@@ -3149,7 +3149,7 @@
             "uri": "spotify:user:1166776863"
         },
         "public": true,
-        "snapshot_id": "hS8aCNhmuaG0yRY/CaB8dzX6wp5YTExb/n6NHetf3/HNLVYeMc22b5LYEkFBzv6b",
+        "snapshot_id": "mmpnF+1pBKvIysYnhsQjoFrAYAVuFjsWDQI4TP9xrMscOc4QHULHP6libXtaAysP",
         "tracks": {
             "href": "https://api.spotify.com/v1/users/1166776863/playlists/0EjMivyDuZquEjHZ8rWFID/tracks?offset=0&limit=100",
             "items": [
@@ -3741,194 +3741,6 @@
                         "track_number": 2,
                         "type": "track",
                         "uri": "spotify:track:1cflU1Z14wbWK20b3LoWzy"
-                    }
-                },
-                {
-                    "added_at": "2014-03-08T18:21:51Z",
-                    "added_by": {
-                        "external_urls": {
-                            "spotify": "http://open.spotify.com/user/1166776863"
-                        },
-                        "href": "https://api.spotify.com/v1/users/1166776863",
-                        "id": "1166776863",
-                        "type": "user",
-                        "uri": "spotify:user:1166776863"
-                    },
-                    "track": {
-                        "album": {
-                            "album_type": "album",
-                            "available_markets": [
-                                "AD",
-                                "AR",
-                                "AU",
-                                "BE",
-                                "BG",
-                                "BO",
-                                "BR",
-                                "CA",
-                                "CL",
-                                "CO",
-                                "CR",
-                                "CY",
-                                "CZ",
-                                "DK",
-                                "DO",
-                                "EC",
-                                "EE",
-                                "ES",
-                                "FI",
-                                "FR",
-                                "GB",
-                                "GR",
-                                "GT",
-                                "HK",
-                                "HN",
-                                "HU",
-                                "IE",
-                                "IS",
-                                "IT",
-                                "LI",
-                                "LT",
-                                "LU",
-                                "LV",
-                                "MC",
-                                "MT",
-                                "MX",
-                                "MY",
-                                "NI",
-                                "NL",
-                                "NO",
-                                "NZ",
-                                "PA",
-                                "PE",
-                                "PH",
-                                "PL",
-                                "PT",
-                                "PY",
-                                "RO",
-                                "SE",
-                                "SG",
-                                "SI",
-                                "SK",
-                                "SV",
-                                "TR",
-                                "TW",
-                                "UY"
-                            ],
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/album/4uCcLQYMdb5dBZcIQ1FhKq"
-                            },
-                            "href": "https://api.spotify.com/v1/albums/4uCcLQYMdb5dBZcIQ1FhKq",
-                            "id": "4uCcLQYMdb5dBZcIQ1FhKq",
-                            "images": [
-                                {
-                                    "height": 640,
-                                    "url": "https://i.scdn.co/image/2c22d0b4b2734a0a1a84ada8617278f5def32b8a",
-                                    "width": 577
-                                },
-                                {
-                                    "height": 300,
-                                    "url": "https://i.scdn.co/image/87ef332fab4631b058ef56d1c5df894432587890",
-                                    "width": 271
-                                },
-                                {
-                                    "height": 64,
-                                    "url": "https://i.scdn.co/image/6e73a2fc61692b7568410a3db424667b611ad475",
-                                    "width": 58
-                                }
-                            ],
-                            "name": "Invaders Must Die (Special Edition)",
-                            "type": "album",
-                            "uri": "spotify:album:4uCcLQYMdb5dBZcIQ1FhKq"
-                        },
-                        "artists": [
-                            {
-                                "external_urls": {
-                                    "spotify": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-                                },
-                                "href": "https://api.spotify.com/v1/artists/4k1ELeJKT1ISyDv8JivPpB",
-                                "id": "4k1ELeJKT1ISyDv8JivPpB",
-                                "name": "The Prodigy",
-                                "type": "artist",
-                                "uri": "spotify:artist:4k1ELeJKT1ISyDv8JivPpB"
-                            }
-                        ],
-                        "available_markets": [
-                            "AD",
-                            "AR",
-                            "AU",
-                            "BE",
-                            "BG",
-                            "BO",
-                            "BR",
-                            "CA",
-                            "CL",
-                            "CO",
-                            "CR",
-                            "CY",
-                            "CZ",
-                            "DK",
-                            "DO",
-                            "EC",
-                            "EE",
-                            "ES",
-                            "FI",
-                            "FR",
-                            "GB",
-                            "GR",
-                            "GT",
-                            "HK",
-                            "HN",
-                            "HU",
-                            "IE",
-                            "IS",
-                            "IT",
-                            "LI",
-                            "LT",
-                            "LU",
-                            "LV",
-                            "MC",
-                            "MT",
-                            "MX",
-                            "MY",
-                            "NI",
-                            "NL",
-                            "NO",
-                            "NZ",
-                            "PA",
-                            "PE",
-                            "PH",
-                            "PL",
-                            "PT",
-                            "PY",
-                            "RO",
-                            "SE",
-                            "SG",
-                            "SI",
-                            "SK",
-                            "SV",
-                            "TR",
-                            "TW",
-                            "UY"
-                        ],
-                        "disc_number": 1,
-                        "duration_ms": 295026,
-                        "explicit": false,
-                        "external_ids": {
-                            "isrc": "GBCEJ0800386"
-                        },
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/track/5HM4p9LfGz86sp1B8WYfU1"
-                        },
-                        "href": "https://api.spotify.com/v1/tracks/5HM4p9LfGz86sp1B8WYfU1",
-                        "id": "5HM4p9LfGz86sp1B8WYfU1",
-                        "is_playable": true,
-                        "name": "Invaders Must Die",
-                        "popularity": 53,
-                        "preview_url": "https://p.scdn.co/mp3-preview/fcd9687cc0889d6eacbd063efb1e138b51ce4609",
-                        "track_number": 1,
-                        "type": "track",
-                        "uri": "spotify:track:5HM4p9LfGz86sp1B8WYfU1"
                     }
                 },
                 {
@@ -4714,7 +4526,7 @@
             "next": null,
             "offset": 0,
             "previous": null,
-            "total": 8
+            "total": 7
         },
         "type": "playlist",
         "uri": "spotify:user:1166776863:playlist:0EjMivyDuZquEjHZ8rWFID"
