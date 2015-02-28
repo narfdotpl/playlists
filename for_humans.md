@@ -537,3 +537,22 @@
 1. Dub Inc. - Murderer
 1. Martin Jondo - Rainbow Warrior
 1. Vavamuffin - With Me One Love - Activator Mario Dziurex Rmx
+
+
+[High-pitched](http://open.spotify.com/user/1166776863/playlist/3QosL6b2t6piyE11AACcCK)
+--------------
+
+1. Tides Of Man - Knowing That You've Already Arrived
+1. Closure in Moscow - Sweet#hart
+1. Tides Of Man - A Faint Illusion
+1. Chon - Bubble Dream
+1. Closure in Moscow - Pink Lemonade
+1. The Mars Volta - Wax Simulacra
+1. Battles - Snare Hangar
+1. Giraffes? Giraffes! - When the Catholic Girls Go Camping, the Nicotine Vampires Rule Supreme.
+1. The Mars Volta - TakeThe Veil Cerpin Taxt - XFM Session
+1. Closure in Moscow - Dinosaur Boss Battle
+1. The Mars Volta - Vicarious Atonement
+1. Funkadelic - Maggot Brain
+1. John Frusciante - Before The Beginning
+1. The Mars Volta - Day Of The Baphomets
