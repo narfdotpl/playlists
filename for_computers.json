@@ -46759,7 +46759,7 @@
             "uri": "spotify:user:1166776863"
         },
         "public": true,
-        "snapshot_id": "gcuYH/jxiNkylAJuNryCry+TcAA0gJKNjNdAuw1FPe9eDFTh2rE/N0Ex+NqBySrz",
+        "snapshot_id": "Ha7oD7LXfkYQ6+K/f1T4OdPq+KTFB1a7/jtGgYgLxuh0UKiWDshg/OUZDTLC6PBf",
         "tracks": {
             "href": "https://api.spotify.com/v1/users/1166776863/playlists/05brpCSfLLUw63xoRc75eO/tracks?offset=0&limit=100",
             "items": [
@@ -47346,6 +47346,202 @@
                     }
                 },
                 {
+                    "added_at": "2016-10-04T16:09:16Z",
+                    "added_by": {
+                        "external_urls": {
+                            "spotify": "http://open.spotify.com/user/1166776863"
+                        },
+                        "href": "https://api.spotify.com/v1/users/1166776863",
+                        "id": "1166776863",
+                        "type": "user",
+                        "uri": "spotify:user:1166776863"
+                    },
+                    "is_local": false,
+                    "track": {
+                        "album": {
+                            "album_type": "album",
+                            "available_markets": [
+                                "AD",
+                                "AR",
+                                "AT",
+                                "AU",
+                                "BE",
+                                "BG",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CH",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "DO",
+                                "EC",
+                                "EE",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "GT",
+                                "HK",
+                                "HN",
+                                "HU",
+                                "ID",
+                                "IE",
+                                "IS",
+                                "IT",
+                                "JP",
+                                "LI",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MC",
+                                "MT",
+                                "MX",
+                                "MY",
+                                "NI",
+                                "NL",
+                                "NO",
+                                "NZ",
+                                "PA",
+                                "PE",
+                                "PH",
+                                "PL",
+                                "PT",
+                                "PY",
+                                "SE",
+                                "SG",
+                                "SK",
+                                "SV",
+                                "TR",
+                                "TW",
+                                "US",
+                                "UY"
+                            ],
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/album/1lQVP6oBhMnbbtJ2w3guO1"
+                            },
+                            "href": "https://api.spotify.com/v1/albums/1lQVP6oBhMnbbtJ2w3guO1",
+                            "id": "1lQVP6oBhMnbbtJ2w3guO1",
+                            "images": [
+                                {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/5005580f0235de85f4224c853099d41ddb5ae2ab",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/b0caa13cd468cf1fb991226e9e1cbdc686a3091c",
+                                    "width": 300
+                                },
+                                {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/4cf3b2ba6d800c599562528ba7d182b5a098bbfb",
+                                    "width": 64
+                                }
+                            ],
+                            "name": "Bangers II: Scum of the Earth",
+                            "type": "album",
+                            "uri": "spotify:album:1lQVP6oBhMnbbtJ2w3guO1"
+                        },
+                        "artists": [
+                            {
+                                "external_urls": {
+                                    "spotify": "https://open.spotify.com/artist/5d4OBefznVCyJlbYIJS7at"
+                                },
+                                "href": "https://api.spotify.com/v1/artists/5d4OBefznVCyJlbYIJS7at",
+                                "id": "5d4OBefznVCyJlbYIJS7at",
+                                "name": "Barn Burner",
+                                "type": "artist",
+                                "uri": "spotify:artist:5d4OBefznVCyJlbYIJS7at"
+                            }
+                        ],
+                        "available_markets": [
+                            "AD",
+                            "AR",
+                            "AT",
+                            "AU",
+                            "BE",
+                            "BG",
+                            "BO",
+                            "BR",
+                            "CA",
+                            "CH",
+                            "CL",
+                            "CO",
+                            "CR",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "DO",
+                            "EC",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FR",
+                            "GB",
+                            "GR",
+                            "GT",
+                            "HK",
+                            "HN",
+                            "HU",
+                            "ID",
+                            "IE",
+                            "IS",
+                            "IT",
+                            "JP",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MT",
+                            "MX",
+                            "MY",
+                            "NI",
+                            "NL",
+                            "NO",
+                            "NZ",
+                            "PA",
+                            "PE",
+                            "PH",
+                            "PL",
+                            "PT",
+                            "PY",
+                            "SE",
+                            "SG",
+                            "SK",
+                            "SV",
+                            "TR",
+                            "TW",
+                            "US",
+                            "UY"
+                        ],
+                        "disc_number": 1,
+                        "duration_ms": 226373,
+                        "explicit": false,
+                        "external_ids": {
+                            "isrc": "USMBR1108209"
+                        },
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/track/0zZRRTQWKAoLNV1oqs2F0l"
+                        },
+                        "href": "https://api.spotify.com/v1/tracks/0zZRRTQWKAoLNV1oqs2F0l",
+                        "id": "0zZRRTQWKAoLNV1oqs2F0l",
+                        "name": "Scum of the Earth",
+                        "popularity": 8,
+                        "preview_url": "https://p.scdn.co/mp3-preview/1cfcb752bbfc605bf0fd53342fa2b0541f146934",
+                        "track_number": 1,
+                        "type": "track",
+                        "uri": "spotify:track:0zZRRTQWKAoLNV1oqs2F0l"
+                    }
+                },
+                {
                     "added_at": "2013-07-16T14:17:07Z",
                     "added_by": {
                         "external_urls": {
@@ -47732,7 +47928,7 @@
             "next": null,
             "offset": 0,
             "previous": null,
-            "total": 5
+            "total": 6
         },
         "type": "playlist",
         "uri": "spotify:user:1166776863:playlist:05brpCSfLLUw63xoRc75eO"

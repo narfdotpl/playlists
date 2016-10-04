@@ -387,6 +387,7 @@
 1. Orange Goblin - Red Tide Rising
 1. Mastodon - Colony Of Birchmen
 1. 3 Inches Of Blood - Deadly Sinners
+1. Barn Burner - Scum of the Earth
 1. Clutch - Pure Rock Fury
 1. Mastodon - Curl Of The Burl
 
