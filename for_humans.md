@@ -25,7 +25,7 @@
 1. Monster Magnet - Powertrip
 1. Truckfighters - Desert Cruiser
 1. Audioslave - Show Me How to Live
-1. Queens Of The Stone Age - Auto Pilot
+1. Queens of the Stone Age - Auto Pilot
 1. Truckfighters - Altered State
 
 
@@ -76,7 +76,7 @@
 
 1. The Glitch Mob - We Can Make The World Stop
 1. Pretty Lights - High School Art Class
-1. Daft Punk, The Glitch Mob - Derezzed (Remixed By The Glitch Mob)
+1. Daft Punk - Derezzed (Remixed By The Glitch Mob)
 1. The Chemical Brothers - Block Rockin' Beats
 1. Pretty Lights - Total Fascination
 1. Daft Punk - Aerodynamic
@@ -119,7 +119,7 @@
 --------------
 
 1. Unloco - Bystander
-1. Deftones - Change [In The House Of Flies]
+1. Deftones - Change (In the House of Flies)
 1. Deftones - Minus Blindfold
 1. Korn - Liar
 1. Unloco - Bruises
@@ -162,7 +162,7 @@
 
 1. Seether - Gasoline
 1. Saving Abel - New Tattoo
-1. Theory Of A Deadman - Bad Girlfriend
+1. Theory of a Deadman - Bad Girlfriend
 1. Stone Sour - Do Me A Favor
 1. Foo Fighters - The Pretender
 1. Guano Apes - You Can't Stop Me
@@ -220,7 +220,7 @@
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (1)
 1. Gorillaz - 5/4
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (2)
-1. Queens Of The Stone Age - Go With The Flow
+1. Queens of the Stone Age - Go With The Flow
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (3)
 1. The Who - Substitute - Single Version
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (4)
@@ -255,11 +255,11 @@
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (1)
 1. Eugene McGuinness - Lion
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (2)
-1. Gorillaz - Superfast Jellyfish - feat. Gruff Rhys and De La Soul
+1. Gorillaz, Gruff Rhys, De La Soul - Superfast Jellyfish (feat. Gruff Rhys and De La Soul)
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (3)
-1. Gorillaz - White Flag - feat. Bashy, Kano and The National Orchestra For Arabic Music
+1. Gorillaz, Kane Robinson, Kano, Bashy, The National Orchestra for Arabic Music - White Flag (feat. Bashy, Kano and The National Orchestra For Arabic Music)
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (4)
-1. Gorillaz - Empire Ants - feat. Little Dragon
+1. Gorillaz, Little Dragon - Empire Ants (feat. Little Dragon)
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (5)
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (6)
 1. Napalm Death - You Suffer
@@ -349,7 +349,7 @@
 1. The White Stripes - Hello Operator
 1. The White Stripes - A Martyr For My Love For You
 1. Black Rebel Motorcycle Club - Beat The Devil's Tattoo
-1. Queens Of The Stone Age - Tangled Up In Plaid
+1. Queens of the Stone Age - Tangled Up In Plaid
 1. The Raconteurs - Broken Boy Soldier
 1. The Raconteurs - Steady, As She Goes
 1. Wolfmother - Joker And The Thief
@@ -398,7 +398,7 @@
 1. Blur - Song 2
 1. Franz Ferdinand - Take Me Out
 1. Arctic Monkeys - From The Ritz To The Rubble
-1. Gorillaz - Kids With Guns - Jamie T's Turns To Monsters Mix
+1. Gorillaz, Neneh Cherry, Hot Chip - Kids With Guns - Jamie T's Turns To Monsters Mix
 1. Arctic Monkeys - The View From The Afternoon
 1. Placebo - Every You Every Me - Single Mix
 1. Pixies - Where Is My Mind?
@@ -449,7 +449,7 @@
 1. Cage The Elephant - Ain't No Rest for the Wicked - Original Version
 1. Opossum Holler - Spook in the Woodshed
 1. Opossum Holler - Red Barn
-1. Danger Mouse, Daniele Luppi - Two Against One - feat. Jack White
+1. Danger Mouse, Daniele Luppi, Jack White - Two Against One (feat. Jack White)
 1. Modest Mouse - Bukowski
 
 
@@ -492,7 +492,7 @@
 1. The White Stripes - In The Cold, Cold Night
 1. The Dead Weather - I Can't Hear You
 1. The Raconteurs - Carolina Drama
-1. Danger Mouse, Daniele Luppi - Two Against One - feat. Jack White
+1. Danger Mouse, Daniele Luppi, Jack White - Two Against One (feat. Jack White)
 1. The Raconteurs - Broken Boy Soldier
 1. The White Stripes - Seven Nation Army (Live)
 1. Jack White, Alicia Keys - Another Way to Die
@@ -514,7 +514,7 @@
 [Rasta](http://open.spotify.com/user/1166776863/playlist/0ll69OrNxnexg2Xvz7Q5rH)
 -------
 
-1. Tamika Edwards, Gentleman, Jondo - Rainy Days - Live with the Far East Band
+1. Gentleman, Martin Jondo, Tamika Edwards - Rainy Days - Live with the Far East Band
 1. Matisyahu - Refuge - Live
 1. Paprika Korps - Triolki
 1. Dub Inc. - My Freestyle
@@ -526,13 +526,13 @@
 1. Bezegol - Let Them Know
 1. Paprika Korps - Słonie
 1. Gentleman, Evolution - Serenity - Summerjam Live
-1. Matisyahu - King Without A Crown - Live Album Version
-1. Sessiones Reggae - RB Reggae
+1. Matisyahu - King Without a Crown - Live
+1. Sessiones Reggae - Rb Reggae
 1. Gentleman - All That You Had
 1. Bezegol - Plant
 1. Dub Inc. - No doubt (featuring Tarrus Riley)
 1. Cashma Hoody, Culcha Candela, John Abdelsayed - Hörmazu - Feat. Culcha Candela
-1. Zion Train - Audrey And June
+1. Zion Train - Audrey and June
 1. Fat Freddy's Drop - Cay's Crays
 1. Dub Inc. - Murderer
 1. Martin Jondo - Rainbow Warrior
