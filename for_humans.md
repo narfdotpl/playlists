@@ -149,7 +149,7 @@
 1. Nostalgia 77, Alice Russell - Seven Nation Army
 1. Korn - Creep - Live
 1. Cake - I Will Survive
-1. Stone Sour - Wicked Game
+1. Stone Sour - Wicked Game - Live Acoustic
 1. Limp Bizkit - Behind Blue Eyes
 1. Tori Amos - Smells Like Teen Spirit
 1. Nouvelle Vague - Guns Of Brixton
@@ -377,7 +377,7 @@
 1. Hurt - Rapture
 1. 3 Doors Down - When I'm Gone
 1. Seether - Driven Under
-1. Staind - It's Been Awhile
+1. Staind - It's Been Awhile - Explicit LP Version
 1. Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder - From Can to Can't
 
 
@@ -515,7 +515,7 @@
 [Rasta](http://open.spotify.com/user/1166776863/playlist/0ll69OrNxnexg2Xvz7Q5rH)
 -------
 
-1. Gentleman, Martin Jondo, Tamika Edwards - Rainy Days - Live with the Far East Band
+1. Gentleman, Martin Jondo, Tamika - Rainy Days - Live
 1. Matisyahu - Refuge - Live
 1. Paprika Korps - Triolki
 1. Dub Inc. - My Freestyle
@@ -526,7 +526,7 @@
 1. Radikal Dub Kolektiv - Reggae Connection
 1. Bezegol - Let Them Know
 1. Paprika Korps - Słonie
-1. Gentleman, Evolution - Serenity - Summerjam Live
+1. Gentleman, The Evolution - Serenity - Summerjam Live
 1. Matisyahu - King Without a Crown - Live
 1. Sessiones Reggae - Rb Reggae
 1. Gentleman - All That You Had
