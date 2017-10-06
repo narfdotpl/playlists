@@ -15840,7 +15840,7 @@
             "uri": "spotify:user:1166776863"
         },
         "public": true,
-        "snapshot_id": "Xq1UkL+WfmIaKzDUn4zvG7mwufWEkkXSrLfWtNZ9UQAXJbyQ260ei0DH25FDlvdk",
+        "snapshot_id": "Z1+3DkuTRjR/cSC0jyJIgH9F/9k59ZQ6OkzqekfkpTqPFR1YSqvocCobk5EvroYn",
         "tracks": {
             "href": "https://api.spotify.com/v1/users/1166776863/playlists/4u0JwggJBMHUAc62dcT9Ch/tracks?offset=0&limit=100",
             "items": [
@@ -19069,6 +19069,430 @@
                     }
                 },
                 {
+                    "added_at": "2017-10-06T16:02:57Z",
+                    "added_by": {
+                        "external_urls": {
+                            "spotify": "http://open.spotify.com/user/1166776863"
+                        },
+                        "href": "https://api.spotify.com/v1/users/1166776863",
+                        "id": "1166776863",
+                        "type": "user",
+                        "uri": "spotify:user:1166776863"
+                    },
+                    "is_local": false,
+                    "track": {
+                        "album": {
+                            "album_type": "single",
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/4CyxMgnF71FyOWADVWxJRE"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/4CyxMgnF71FyOWADVWxJRE",
+                                    "id": "4CyxMgnF71FyOWADVWxJRE",
+                                    "name": "Strawberry Girls",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:4CyxMgnF71FyOWADVWxJRE"
+                                }
+                            ],
+                            "available_markets": [
+                                "AD",
+                                "AR",
+                                "AT",
+                                "AU",
+                                "BE",
+                                "BG",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CH",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "DO",
+                                "EC",
+                                "EE",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "GT",
+                                "HK",
+                                "HN",
+                                "HU",
+                                "ID",
+                                "IE",
+                                "IS",
+                                "IT",
+                                "JP",
+                                "LI",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MC",
+                                "MT",
+                                "MX",
+                                "MY",
+                                "NI",
+                                "NL",
+                                "NO",
+                                "NZ",
+                                "PA",
+                                "PE",
+                                "PH",
+                                "PL",
+                                "PT",
+                                "PY",
+                                "SE",
+                                "SG",
+                                "SK",
+                                "SV",
+                                "TH",
+                                "TR",
+                                "TW",
+                                "US",
+                                "UY",
+                                "VN"
+                            ],
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/album/5culO2vq3d064f8oAtKYNY"
+                            },
+                            "href": "https://api.spotify.com/v1/albums/5culO2vq3d064f8oAtKYNY",
+                            "id": "5culO2vq3d064f8oAtKYNY",
+                            "images": [
+                                {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/1288431ba7ec64c3237286230785df2d6a6a171c",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/40915f7a96c7d0ff28f7dd81788bf6adf285434c",
+                                    "width": 300
+                                },
+                                {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/dcec105bc042896da7b487cdc3da6ea85a3bddaa",
+                                    "width": 64
+                                }
+                            ],
+                            "name": "Call Me Maybe",
+                            "type": "album",
+                            "uri": "spotify:album:5culO2vq3d064f8oAtKYNY"
+                        },
+                        "artists": [
+                            {
+                                "external_urls": {
+                                    "spotify": "https://open.spotify.com/artist/4CyxMgnF71FyOWADVWxJRE"
+                                },
+                                "href": "https://api.spotify.com/v1/artists/4CyxMgnF71FyOWADVWxJRE",
+                                "id": "4CyxMgnF71FyOWADVWxJRE",
+                                "name": "Strawberry Girls",
+                                "type": "artist",
+                                "uri": "spotify:artist:4CyxMgnF71FyOWADVWxJRE"
+                            }
+                        ],
+                        "available_markets": [
+                            "AD",
+                            "AR",
+                            "AT",
+                            "AU",
+                            "BE",
+                            "BG",
+                            "BO",
+                            "BR",
+                            "CA",
+                            "CH",
+                            "CL",
+                            "CO",
+                            "CR",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "DO",
+                            "EC",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FR",
+                            "GB",
+                            "GR",
+                            "GT",
+                            "HK",
+                            "HN",
+                            "HU",
+                            "ID",
+                            "IE",
+                            "IS",
+                            "IT",
+                            "JP",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MT",
+                            "MX",
+                            "MY",
+                            "NI",
+                            "NL",
+                            "NO",
+                            "NZ",
+                            "PA",
+                            "PE",
+                            "PH",
+                            "PL",
+                            "PT",
+                            "PY",
+                            "SE",
+                            "SG",
+                            "SK",
+                            "SV",
+                            "TH",
+                            "TR",
+                            "TW",
+                            "US",
+                            "UY",
+                            "VN"
+                        ],
+                        "disc_number": 1,
+                        "duration_ms": 328426,
+                        "explicit": false,
+                        "external_ids": {
+                            "isrc": "TCADC1715896"
+                        },
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/track/2ltekm850dkIRwQalTYRCB"
+                        },
+                        "href": "https://api.spotify.com/v1/tracks/2ltekm850dkIRwQalTYRCB",
+                        "id": "2ltekm850dkIRwQalTYRCB",
+                        "name": "Call Me Maybe",
+                        "popularity": 17,
+                        "preview_url": "https://p.scdn.co/mp3-preview/fc7644fd7c3d9d92bf66b408d60afc1ad3b17772?cid=d08414382b304a0da7613711eab86466",
+                        "track_number": 1,
+                        "type": "track",
+                        "uri": "spotify:track:2ltekm850dkIRwQalTYRCB"
+                    }
+                },
+                {
+                    "added_at": "2017-10-06T16:02:48Z",
+                    "added_by": {
+                        "external_urls": {
+                            "spotify": "http://open.spotify.com/user/1166776863"
+                        },
+                        "href": "https://api.spotify.com/v1/users/1166776863",
+                        "id": "1166776863",
+                        "type": "user",
+                        "uri": "spotify:user:1166776863"
+                    },
+                    "is_local": false,
+                    "track": {
+                        "album": {
+                            "album_type": "album",
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/4CyxMgnF71FyOWADVWxJRE"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/4CyxMgnF71FyOWADVWxJRE",
+                                    "id": "4CyxMgnF71FyOWADVWxJRE",
+                                    "name": "Strawberry Girls",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:4CyxMgnF71FyOWADVWxJRE"
+                                }
+                            ],
+                            "available_markets": [
+                                "AD",
+                                "AR",
+                                "AT",
+                                "AU",
+                                "BE",
+                                "BG",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CH",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "DO",
+                                "EC",
+                                "EE",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "GT",
+                                "HK",
+                                "HN",
+                                "HU",
+                                "ID",
+                                "IE",
+                                "IS",
+                                "IT",
+                                "JP",
+                                "LI",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MC",
+                                "MT",
+                                "MX",
+                                "MY",
+                                "NI",
+                                "NL",
+                                "NO",
+                                "NZ",
+                                "PA",
+                                "PE",
+                                "PH",
+                                "PL",
+                                "PT",
+                                "PY",
+                                "SE",
+                                "SG",
+                                "SK",
+                                "SV",
+                                "TH",
+                                "TR",
+                                "TW",
+                                "US",
+                                "UY",
+                                "VN"
+                            ],
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/album/1MBFybAUqGBfl5wROjwjvy"
+                            },
+                            "href": "https://api.spotify.com/v1/albums/1MBFybAUqGBfl5wROjwjvy",
+                            "id": "1MBFybAUqGBfl5wROjwjvy",
+                            "images": [
+                                {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/3742862722bba3abae59dc1d48c455bfd74b9356",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/80202084cf5bb9da5f5246247966d4ce1e964e0e",
+                                    "width": 300
+                                },
+                                {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/4152060066b4af073cc2c158cb67e03c6606ab48",
+                                    "width": 64
+                                }
+                            ],
+                            "name": "French Ghetto",
+                            "type": "album",
+                            "uri": "spotify:album:1MBFybAUqGBfl5wROjwjvy"
+                        },
+                        "artists": [
+                            {
+                                "external_urls": {
+                                    "spotify": "https://open.spotify.com/artist/4CyxMgnF71FyOWADVWxJRE"
+                                },
+                                "href": "https://api.spotify.com/v1/artists/4CyxMgnF71FyOWADVWxJRE",
+                                "id": "4CyxMgnF71FyOWADVWxJRE",
+                                "name": "Strawberry Girls",
+                                "type": "artist",
+                                "uri": "spotify:artist:4CyxMgnF71FyOWADVWxJRE"
+                            }
+                        ],
+                        "available_markets": [
+                            "AD",
+                            "AR",
+                            "AT",
+                            "AU",
+                            "BE",
+                            "BG",
+                            "BO",
+                            "BR",
+                            "CA",
+                            "CH",
+                            "CL",
+                            "CO",
+                            "CR",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "DO",
+                            "EC",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FR",
+                            "GB",
+                            "GR",
+                            "GT",
+                            "HK",
+                            "HN",
+                            "HU",
+                            "ID",
+                            "IE",
+                            "IS",
+                            "IT",
+                            "JP",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MT",
+                            "MX",
+                            "MY",
+                            "NI",
+                            "NL",
+                            "NO",
+                            "NZ",
+                            "PA",
+                            "PE",
+                            "PH",
+                            "PL",
+                            "PT",
+                            "PY",
+                            "SE",
+                            "SG",
+                            "SK",
+                            "SV",
+                            "TH",
+                            "TR",
+                            "TW",
+                            "US",
+                            "UY",
+                            "VN"
+                        ],
+                        "disc_number": 1,
+                        "duration_ms": 223107,
+                        "explicit": false,
+                        "external_ids": {
+                            "isrc": "USF271221018"
+                        },
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/track/3dRCPtlvvYsrr5ZHUKT4Yh"
+                        },
+                        "href": "https://api.spotify.com/v1/tracks/3dRCPtlvvYsrr5ZHUKT4Yh",
+                        "id": "3dRCPtlvvYsrr5ZHUKT4Yh",
+                        "name": "Swimming Pools",
+                        "popularity": 48,
+                        "preview_url": "https://p.scdn.co/mp3-preview/43fa2edb7cb00706a59418b43a83fc4c853ebf45?cid=d08414382b304a0da7613711eab86466",
+                        "track_number": 14,
+                        "type": "track",
+                        "uri": "spotify:track:3dRCPtlvvYsrr5ZHUKT4Yh"
+                    }
+                },
+                {
                     "added_at": "2013-06-16T12:33:54Z",
                     "added_by": {
                         "external_urls": {
@@ -19331,7 +19755,7 @@
             "next": null,
             "offset": 0,
             "previous": null,
-            "total": 25
+            "total": 27
         },
         "type": "playlist",
         "uri": "spotify:user:1166776863:playlist:4u0JwggJBMHUAc62dcT9Ch"

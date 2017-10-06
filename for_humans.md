@@ -152,6 +152,8 @@
 1. Stone Sour - Wicked Game - Live Acoustic
 1. Limp Bizkit - Behind Blue Eyes
 1. Tori Amos - Smells Like Teen Spirit
+1. Strawberry Girls - Call Me Maybe
+1. Strawberry Girls - Swimming Pools
 1. Nouvelle Vague - Guns Of Brixton
 1. Nouvelle Vague - Ever Fallen In Love
 1. Nouvelle Vague - In A Manner Of Speaking
