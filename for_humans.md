@@ -559,3 +559,20 @@
 1. Funkadelic - Maggot Brain
 1. John Frusciante - Before The Beginning
 1. The Mars Volta - Day Of The Baphomets
+
+
+[Grunge](http://open.spotify.com/user/1166776863/playlist/0VSrhLSskGlm0i0URakA7R)
+--------
+
+1. Nirvana - Smells Like Teen Spirit
+1. Nirvana - You Know You're Right
+1. Silverchair - Anthem for the Year 2000
+1. Nirvana - Breed
+1. Seether - Remedy
+1. Local H - Bound For The Floor
+1. letlive. - A Weak Ago
+1. Reuben - Let's Stop Hanging Out - Single Version
+1. Reuben - Doll Fin
+1. Brad Sucks - Bad Attraction
+1. Finger Eleven - Good Times
+1. Foo Fighters - Stacked Actors
