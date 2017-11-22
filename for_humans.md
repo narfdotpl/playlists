@@ -119,7 +119,7 @@
 --------------
 
 1. Unloco - Bystander
-1. Deftones - Change (In the House of Flies)
+1. Deftones - Change (In the House of Flies) - In The House Of Flies LP Version
 1. Deftones - Minus Blindfold
 1. Korn - Liar
 1. Unloco - Bruises
