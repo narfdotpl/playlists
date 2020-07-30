@@ -578,3 +578,34 @@
 1. Brad Sucks - Bad Attraction
 1. Finger Eleven - Good Times
 1. Foo Fighters - Stacked Actors
+
+
+[Gentle](https://open.spotify.com/playlist/2CpTLyS3FoNtenSfZBTHQy)
+--------
+
+1. Massive Attack - Exchange
+1. How To Destroy Angels - Ice age
+1. Rawtekk - My Love
+1. Amon Tobin - On a Hilltop Sat the Moon
+1. How To Destroy Angels - We fade away
+1. Yosi Horikawa - Intro
+1. Disasterpeace - The Gauntlet
+1. Funki Porcini - Purrfect
+1. Low Roar - I'll Keep Coming
+1. The Kilimanjaro Darkjazz Ensemble - Lobby
+1. alva noto - Haliod Xerrox Copy 2 (Airfrance)
+1. 65daysofstatic - NMS_exteriorAtmos1/False Suns
+1. Lorn - THE SLOW BLADE
+1. How To Destroy Angels - Hallowed ground
+1. alva noto - Xerrox Monophaser 2
+1. Kyoka - Ybe Ybe (Yba Yba Edition)
+1. Fever Ray - If I Had a Heart
+1. Emilíana Torrini - Gun
+1. Puscifer - Agostina
+1. DJ Krush, Angelina Esparza - Aletheuo (feat. Angelina Esparza) - Truthspeaking
+1. A Perfect Circle - The Package
+1. Hania Rani - Leaving
+1. Omar Rodríguez-López - Diamond Teeth
+1. Massive Attack - Teardrop
+1. Omar Rodríguez-López - To Kill A Chi Chi
+1. Massive Attack - Dissolved Girl
