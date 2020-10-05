@@ -138,6 +138,7 @@
 1. Breed 77 - Zombie
 1. Dope - Rebel Yell
 1. Dope - You Spin Me Round (Like A Record)
+1. Guano Apes - Big in Japan
 1. Kangaroz - Kolorowe Sny
 1. Marilyn Manson - Personal Jesus
 1. Marilyn Manson - Sweet Dreams (Are Made Of This) - Album Version (Explicit )
