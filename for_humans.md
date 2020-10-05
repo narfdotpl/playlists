@@ -602,7 +602,7 @@
 1. Fever Ray - If I Had a Heart
 1. Emilíana Torrini - Gun
 1. Puscifer - Agostina
-1. DJ Krush, Angelina Esparza - Aletheuo (feat. Angelina Esparza) - Truthspeaking
+1. DJ Krush, Angelina Esparza - Aletheuo - Truthspeaking
 1. A Perfect Circle - The Package
 1. Hania Rani - Leaving
 1. Omar Rodríguez-López - Diamond Teeth
