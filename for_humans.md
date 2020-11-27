@@ -261,7 +261,7 @@
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (1)
 1. Eugene McGuinness - Lion
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (2)
-1. Gorillaz, Gruff Rhys - Superfast Jellyfish (feat. Gruff Rhys and De La Soul)
+1. Gorillaz, Gruff Rhys, De La Soul - Superfast Jellyfish (feat. Gruff Rhys and De La Soul)
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (3)
 1. Gorillaz, Bashy, Kano, The National Orchestra for Arabic Music - White Flag (feat. Bashy, Kano and the National Orchestra for Arabic Music)
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (4)
@@ -469,7 +469,7 @@
 1. The White Stripes - Little Room
 1. Jack White - Sixteen Saltines
 1. The White Stripes - Icky Thump
-1. The White Stripes - I’m Slowly Turning Into You
+1. The White Stripes - I'm Slowly Turning Into You
 1. The White Stripes - Rag And Bone
 1. Jack White - Lazaretto
 1. The White Stripes - I Can't Wait
@@ -524,7 +524,7 @@
 1. Gentleman, Martin Jondo, Tamika - Rainy Days (feat. Martin Jondo &amp; Tamika) - Live
 1. Matisyahu - Refuge - Live at Stubb's, Austin, TX - February 2005
 1. Paprika Korps - Triolki
-1. Dub Inc. - My Freestyle
+1. Dub Inc - My Freestyle
 1. Damian Marley - Welcome To Jamrock
 1. Gorillaz, Space Monkeyz - A Fistful of Peanuts
 1. Zion Train, YT - Life That I Choose
@@ -537,11 +537,11 @@
 1. Sessiones Reggae - Rb Reggae
 1. Gentleman - All That You Had
 1. Bezegol - Plant
-1. Dub Inc. - No doubt (featuring Tarrus Riley)
+1. Dub Inc - No doubt (featuring Tarrus Riley)
 1. Cashma Hoody - Hörmazu - feat. Culcha Candela
 1. Zion Train - Audrey and June
 1. Fat Freddy's Drop - Cay's Crays
-1. Dub Inc. - Murderer
+1. Dub Inc - Murderer
 1. Martin Jondo - Rainbow Warrior
 1. Vavamuffin - With Me One Love - Activator Mario Dziurex Rmx
 
