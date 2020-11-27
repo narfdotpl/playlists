@@ -611,3 +611,59 @@
 1. Massive Attack - Teardrop
 1. Omar Rodríguez-López - To Kill A Chi Chi
 1. Massive Attack - Dissolved Girl
+
+
+[Rise Of The Machines](https://open.spotify.com/playlist/60DrbJNnhInfYmCuozq5oB)
+----------------------
+
+1. Linkin Park - Wretches and Kings
+1. Nine Inch Nails - Metal - Remix Version
+1. Korn - Twisted Transistor
+1. Nine Inch Nails - Starfuckers, Inc. - Remix Version (cc)
+1. Rob Zombie, Charlie Clouser - Reload
+1. Peace Orchestra - Who Am I
+1. GRiZ - Wax City
+1. Atmospheres - The Last Beacon
+1. DJ Krush, Inden - Toki No Tabiji (Journey Of Time)
+1. Intervals - Alchemy
+1. Nine Inch Nails - Starfuckers, Inc.
+1. The Dillinger Escape Plan - When Acting As A Wave
+1. Autechre - Fleure
+1. Marilyn Manson - King Kill 33
+1. Linkin Park - Session
+1. Nine Inch Nails - Just Like You Imagined
+1. Paul Leonard-Morgan - Mega City One
+1. Blindoldfreak - Smile
+1. Blindoldfreak - Pipe One
+1. The Chemical Brothers - Snow
+1. Totakeke - The Other Side Of The Tracks
+1. Nine Inch Nails - The Mark Has Been Made
+1. Digitalism - Miami Showdown
+1. Takami Nakamoto, Sébastien Benoits - Bright Matter
+1. Tennyson - Knaves I Cannot Rule
+1. edIT - If You Crump Stand Up
+1. Takami Nakamoto - Solstice
+1. Modestep - Machines
+1. Aevum Nova - Puerile
+1. Animals As Leaders - Mind-Spun
+1. Scartographer - Massevectu: The Purge
+1. Rawtekk - Aftermath
+1. Lorn - THE SLOW BLADE
+1. How To Destroy Angels - Hallowed ground
+1. How To Destroy Angels - We fade away
+1. Disasterpeace - The Gauntlet
+1. Amon Tobin - Bedtime Stories
+1. Amon Tobin - Dropped From The Sky
+1. Amon Tobin - Encounter on Io
+1. 65daysofstatic - NMS_exteriorAtmos1/False Suns
+1. Radiohead - Idioteque
+1. The Hirsch Effekt - [Tischje]
+1. Igorrr, Bong-Ra - Pallbearer
+1. Cloudkicker - Hello
+1. Merzbow - Woodpecker No. 1
+1. alva noto - Future
+1. Ryoji Ikeda - Data.Matrix
+1. Ryoji Ikeda - Data.Microhelix
+1. The Glitch Mob - Come Closer
+1. Takami Nakamoto - Ashes
+1. Telefon Tel Aviv - Fahrenheit Fair Enough
