@@ -618,7 +618,6 @@
 
 1. Linkin Park - Wretches and Kings
 1. Nine Inch Nails - Metal - Remix Version
-1. Korn - Twisted Transistor
 1. Nine Inch Nails - Starfuckers, Inc. - Remix Version (cc)
 1. Rob Zombie, Charlie Clouser - Reload
 1. Peace Orchestra - Who Am I
