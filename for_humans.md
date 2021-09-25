@@ -153,7 +153,6 @@
 1. Cake - I Will Survive
 1. Stone Sour - Wicked Game - Acoustic; Live
 1. Jamie Lenman - Killer
-1. Limp Bizkit - Behind Blue Eyes
 1. Tori Amos - Smells Like Teen Spirit
 1. Strawberry Girls - Call Me Maybe
 1. Strawberry Girls - Swimming Pools
@@ -208,15 +207,6 @@
 1. Drapht - Good Morning
 1. Bliss n Eso - Late One Night
 1. Drapht - Falling
-
-
-[Watch Out, Mom!](https://open.spotify.com/playlist/0CHRO5pjeKOdJf5Hr4fAZk)
------------------
-
-1. Limp Bizkit - Ready To Go
-1. (Hed) P.E. - Let's Ride
-1. Jon Lajoie - Everyday Normal Guy
-1. Kyo Itachi - Andromede Vibes - Ode To Samurai Champloo
 
 
 [&lt;3 Gorillaz](https://open.spotify.com/playlist/36OqJsdl66nOgJhhV91B0x)
