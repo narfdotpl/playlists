@@ -638,6 +638,8 @@
 1. Scartographer - Massevectu: The Purge
 1. Rawtekk - Aftermath
 1. Lorn - THE SLOW BLADE
+1. The Glitch Mob, 1788-L - Momentary Lapse
+1. HD-4884 - Virus 1260
 1. How To Destroy Angels - Hallowed ground
 1. How To Destroy Angels - We fade away
 1. Disasterpeace - The Gauntlet
