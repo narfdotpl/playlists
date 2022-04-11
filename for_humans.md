@@ -634,6 +634,10 @@
 1. edIT - If You Crump Stand Up
 1. Takami Nakamoto - Solstice
 1. Modestep - Machines
+1. Bring Me The Horizon, The Toxic Avenger - Death Breath - Toxic Avenger Remix
+1. Pirate Robot Midget - Sacrum
+1. Nine Inch Nails - My Violent Heart - pirate robot midget
+1. 65daysofstatic - d|| tl | | |
 1. Aevum Nova - Puerile
 1. Animals As Leaders - Mind-Spun
 1. Scartographer - Massevectu: The Purge
@@ -641,15 +645,18 @@
 1. Lorn - THE SLOW BLADE
 1. The Glitch Mob, 1788-L - Momentary Lapse
 1. HD-4884 - Virus 1260
+1. 2nd Gen - Scarred
 1. How To Destroy Angels - Hallowed ground
 1. How To Destroy Angels - We fade away
 1. Disasterpeace - The Gauntlet
 1. Amon Tobin - Bedtime Stories
+1. Ganimed - Withering Fables
 1. Amon Tobin - Dropped From The Sky
 1. Amon Tobin - Encounter on Io
 1. 65daysofstatic - NMS_exteriorAtmos1/False Suns
 1. Radiohead - Idioteque
 1. The Hirsch Effekt - [Tischje]
+1. Lorn - YESTERDAY'S PAIN
 1. Igorrr, Bong-Ra - Pallbearer
 1. Cloudkicker - Hello
 1. Merzbow - Woodpecker No. 1
