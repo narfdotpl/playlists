@@ -150,7 +150,7 @@
 1. The White Stripes - Jolene (Live)
 1. Nostalgia 77, Alice Russell - Seven Nation Army
 1. Korn - Creep - Live
-1. Cake - I Will Survive
+1. CAKE - I Will Survive
 1. Stone Sour - Wicked Game - Acoustic; Live
 1. Jamie Lenman - Killer
 1. Tori Amos - Smells Like Teen Spirit
@@ -505,7 +505,7 @@
 1. Protest The Hero - Clarity
 1. Periphery - Feed The Ground
 1. He Is Legend - I Am Hollywood
-1. The Fall of Troy - Mouths Like Sidewinder Misssles
+1. The Fall of Troy - Mouths Like Sidewinder Missles
 
 
 [Rasta](https://open.spotify.com/playlist/0ll69OrNxnexg2Xvz7Q5rH)
