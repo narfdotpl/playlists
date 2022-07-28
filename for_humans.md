@@ -152,6 +152,7 @@
 1. Nostalgia 77, Alice Russell - Seven Nation Army
 1. Korn - Creep - Live
 1. CAKE - I Will Survive
+1. Hot 8 Brass Band - Love Will Tear Us Apart
 1. Stone Sour - Wicked Game - Acoustic; Live
 1. Jamie Lenman - Killer
 1. Tori Amos - Smells Like Teen Spirit
