@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
-from __future__ import absolute_import, division
-from cgi import escape
 import codecs
 import json
 from os.path import dirname, join, realpath
@@ -55,7 +53,7 @@ def save_file_for_computers(playlists, file_path=COMPUTER_FILE_PATH):
 
 def save_file_for_humans(playlists, file_path=HUMAN_FILE_PATH):
     with open(file_path, 'w') as f:
-        write = lambda s: f.write(escape(s))
+        write = lambda s: f.write(s)
 
         for i, playlist in enumerate(playlists):
             # separate playlists
@@ -65,7 +63,7 @@ def save_file_for_humans(playlists, file_path=HUMAN_FILE_PATH):
             # write linkified playlist title
             write('[%s](%s)\n%s\n\n' \
                 % (playlist['name'], playlist['external_urls']['spotify'],
-                   '-' * (len(escape(playlist['name'])) + 2)))
+                   '-' * (len(playlist['name']) + 2)))
 
             for item in playlist['tracks']['items']:
                 track = item['track']
@@ -100,13 +98,15 @@ def save_readme(playlists, file_path=README_PATH):
 
     # save README
     with open(file_path, 'w') as f:
-        f.write(escape(readme))
+        f.write(readme)
 
 
 def _main():
     token = authorize()
-    playlists = map(lambda url: download_playlist(token, url),
-                    read_playlist_urls())
+    playlists = list(map(
+        lambda url: download_playlist(token, url),
+        read_playlist_urls()
+    ))
 
     save_file_for_computers(playlists)
     save_file_for_humans(playlists)
