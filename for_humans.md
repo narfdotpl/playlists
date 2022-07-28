@@ -113,7 +113,7 @@
 1. DJ Food - Turtle Soup
 1. RJD2 - 1976
 1. Kid Koala - 1 bit Blues - 10,000 miles
-1. RJD2 - Smoke &amp; Mirrors
+1. RJD2 - Smoke & Mirrors
 
 
 [Regret Metal](https://open.spotify.com/playlist/5cN1UX2UoFUkd4NKaUw1S0)
@@ -210,8 +210,8 @@
 1. Drapht - Falling
 
 
-[&lt;3 Gorillaz](https://open.spotify.com/playlist/36OqJsdl66nOgJhhV91B0x)
-----------------
+[<3 Gorillaz](https://open.spotify.com/playlist/36OqJsdl66nOgJhhV91B0x)
+-------------
 
 1. Gorillaz - Dracula
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 1 (1)
@@ -261,7 +261,7 @@
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (6)
 1. Napalm Death - You Suffer
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (7)
-1. Herb Alpert &amp; The Tijuana Brass - Spanish Flea
+1. Herb Alpert & The Tijuana Brass - Spanish Flea
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (8)
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (9)
 1. Little Dragon - Little Man
@@ -512,7 +512,7 @@
 [Rasta](https://open.spotify.com/playlist/0ll69OrNxnexg2Xvz7Q5rH)
 -------
 
-1. Gentleman, Martin Jondo, Tamika - Rainy Days (feat. Martin Jondo &amp; Tamika) - Live
+1. Gentleman, Martin Jondo, Tamika - Rainy Days (feat. Martin Jondo & Tamika) - Live
 1. Matisyahu - Refuge - Live at Stubb's, Austin, TX - February 2005
 1. Paprika Korps - Triolki
 1. Dub Inc - My Freestyle
