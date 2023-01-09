@@ -154,6 +154,7 @@
 1. CAKE - I Will Survive
 1. Hot 8 Brass Band - Love Will Tear Us Apart
 1. Stone Sour - Wicked Game - Acoustic; Live
+1. Otu - La Isla Bonita
 1. Jamie Lenman - Killer
 1. Tori Amos - Smells Like Teen Spirit
 1. Strawberry Girls - Call Me Maybe
