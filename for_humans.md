@@ -658,6 +658,8 @@
 1. 65daysofstatic - NMS_exteriorAtmos1/False Suns
 1. Radiohead - Idioteque
 1. The Hirsch Effekt - [Tischje]
+1. KASHIWA Daisuke - Infrared
+1. Jon Hopkins, Vylana, 7RAYS, Ishq, Cherif Hashizume - RITUAL (evocation)
 1. Lorn - YESTERDAY'S PAIN
 1. Igorrr, Bong-Ra - Pallbearer
 1. Cloudkicker - Hello
@@ -668,3 +670,4 @@
 1. The Glitch Mob - Come Closer
 1. Takami Nakamoto - Ashes
 1. Telefon Tel Aviv - Fahrenheit Fair Enough
+1. cleopatrick - SERVERS SPEAK
