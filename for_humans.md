@@ -16,7 +16,7 @@
 1. Nico Vega - Beast
 1. Fu Manchu - Shift Kicker
 1. Every Time I Die - The New Black
-1. The Exploders - Wolf Cub
+1. T.J. Allender, Paul Doery, Matt Britten - Wolf Cub
 1. Radio Moscow - Lucky Dutch
 1. Monster Magnet - Atomic Clock
 1. Truckfighters - Last Curfew
@@ -154,7 +154,7 @@
 1. CAKE - I Will Survive
 1. Hot 8 Brass Band - Love Will Tear Us Apart
 1. Stone Sour - Wicked Game - Acoustic; Live
-1. Otu - La Isla Bonita
+1. Otu - La Isla Bonita (In the style of System Of A Down)
 1. Jamie Lenman - Killer
 1. Tori Amos - Smells Like Teen Spirit
 1. Strawberry Girls - Call Me Maybe
@@ -254,7 +254,7 @@
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (1)
 1. Eugene McGuinness - Lion
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (2)
-1. Gorillaz, Gruff Rhys, De La Soul - Superfast Jellyfish (feat. Gruff Rhys and De La Soul)
+1. Gorillaz, Gruff Rhys, De La Soul, Dave Jolicoeur, Kelvin Mercer, Vincent Mason - Superfast Jellyfish (feat. Gruff Rhys and De La Soul)
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (3)
 1. Gorillaz, Bashy, Kano, The National Orchestra for Arabic Music - White Flag (feat. Bashy, Kano and the National Orchestra for Arabic Music)
 1. Gorillaz - Gorillaz Are Ten - Spotify Radio Show 3 (4)
@@ -597,13 +597,13 @@
 1. Fever Ray - If I Had a Heart
 1. Emilíana Torrini - Gun
 1. Puscifer - Agostina
-1. DJ Krush, Angelina Esparza - Aletheuo - Truthspeaking
+1. DJ KRUSH, Angelina Esparza - Aletheuo - Truthspeaking
 1. A Perfect Circle - The Package
 1. Hania Rani - Leaving
 1. Omar Rodríguez-López - Diamond Teeth
-1. Massive Attack - Teardrop
+1. Massive Attack, Elizabeth Fraser - Teardrop
 1. Omar Rodríguez-López - To Kill A Chi Chi
-1. Massive Attack - Dissolved Girl
+1. Massive Attack, Sarah Jay Hawley - Dissolved Girl
 
 
 [Rise Of The Machines](https://open.spotify.com/playlist/60DrbJNnhInfYmCuozq5oB)
@@ -615,8 +615,8 @@
 1. Rob Zombie, Charlie Clouser - Reload
 1. Peace Orchestra - Who Am I
 1. GRiZ - Wax City
-1. Atmospheres - The Last Beacon
-1. DJ Krush, Inden - Toki No Tabiji (Journey Of Time)
+1. ATMOSPHRS - The Last Beacon
+1. DJ KRUSH, Inden - Toki No Tabiji (Journey Of Time)
 1. Intervals - Alchemy
 1. Nine Inch Nails - Starfuckers, Inc.
 1. The Dillinger Escape Plan - When Acting As A Wave
